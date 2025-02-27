@@ -1,0 +1,17 @@
+{% extends "layout.html" %}
+{% block content %}
+<h1>BMI Calculator</h1>
+<form method="POST" action="">
+    <div class="form-group">
+        <label for="weight">Weight (kg)</label>
+        <input type="number" name="weight" class="form-control" required>
+    </div>
+    <div class="form-group">
+        <label for="height">Height (m)</label>
+        <input type="number" name="height" class="form-control" required>
+    </div>
+    <div class="form-group">
+        <input type="submit" class="btn btn-primary" value="Calculate BMI">
+    </div>
+</form>
+{% endblock %}

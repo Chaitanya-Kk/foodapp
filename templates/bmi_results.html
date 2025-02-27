@@ -1,0 +1,11 @@
+{% extends "layout.html" %}
+{% block content %}
+<h1>BMI Result</h1>
+<p>Your BMI is {{ bmi }} which falls under the category: {{ bmi_category }}</p>
+<h2>Recommended Food Items</h2>
+<ul>
+    {% for food in recommended_foods %}
+        <li>{{ food }}</li>
+    {% endfor %}
+</ul>
+{% endblock %}

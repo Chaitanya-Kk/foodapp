@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meal Plan</title>
+</head>
+<body>
+    <h2>Your BMI: {{ bmi }}</h2>
+    <h3>Category: {{ category }}</h3>
+
+    <h2>Recommended Meal Plan</h2>
+    <ul>
+        <li><strong>Breakfast:</strong> {{ meal_plan.Breakfast }}</li>
+        <li><strong>Lunch:</strong> {{ meal_plan.Lunch }}</li>
+        <li><strong>Dinner:</strong> {{ meal_plan.Dinner }}</li>
+    </ul>
+
+    <a href="{{ url_for('bmi') }}">Calculate Again</a>
+</body>
+</html>

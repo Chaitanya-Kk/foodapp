@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Meal Plan Results</title>
+</head>
+<body>
+    <h2>Your BMI: {{ bmi }}</h2>
+    <h3>Category: {{ category }}</h3>
+    
+    <h3>Recommended Meal Plan:</h3>
+    <ul>
+        {% for meal in recommendations %}
+            <li>{{ meal }}</li>
+        {% endfor %}
+    </ul>
+
+    <a href="{{ url_for('home') }}">Go Back</a>
+</body>
+</html>

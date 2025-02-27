@@ -1,0 +1,3727 @@
+Food Name,State,Type,Allergic Ingredients,Total Calories,Category
+Aloo Posto,West Bengal,Veg,None,150,Meal
+Shorshe Ilish,West Bengal,Non-Veg,None,300,Meal
+Chingri Malai Curry,West Bengal,Non-Veg,None,350,Meal
+Bhetki Paturi,West Bengal,Non-Veg,None,250,Meal
+Dhokar Dalna,West Bengal,Veg,None,200,Meal
+Cholar Dal,West Bengal,Veg,None,180,Meal
+Beguni,West Bengal,Veg,None,250,Meal
+Murgi Korma,West Bengal,Non-Veg,None,400,Meal
+Kosha Mangsho,West Bengal,Non-Veg,None,350,Meal
+Mishti Doi,West Bengal,Veg,Dairy,180,Meal
+Kachori,West Bengal,Veg,Gluten,220,Meal
+Chingri Bhorta,West Bengal,Non-Veg,None,290,Meal
+Bangalir Bhorta,West Bengal,Veg,None,200,Meal
+Shukto,West Bengal,Veg,None,150,Meal
+Luchi Aloo,West Bengal,Veg,Gluten,300,Meal
+Macher Jhol,West Bengal,Non-Veg,None,250,Meal
+Aloo Dum,West Bengal,Veg,None,200,Meal
+Chingri Malai,West Bengal,Non-Veg,None,320,Meal
+Khichuri,West Bengal,Veg,None,250,Meal
+Patishapta,West Bengal,Veg,"Dairy, Gluten",180,Meal
+Rasgulla,West Bengal,Veg,Dairy,250,Meal
+Sandesh,West Bengal,Veg,Dairy,150,Meal
+Mutton Rezala,West Bengal,Non-Veg,None,400,Meal
+Pulao,West Bengal,Veg,None,250,Meal
+Jhalmuri,West Bengal,Veg,None,200,Meal
+Paturi,West Bengal,Non-Veg,None,270,Meal
+Paatishapta,West Bengal,Veg,Dairy,200,Meal
+Shingara,West Bengal,Veg,Gluten,240,Meal
+Chingri Malai,West Bengal,Non-Veg,None,350,Meal
+Ghoogni,West Bengal,Veg,None,180,Meal
+Kacha Mango Chutney,West Bengal,Veg,None,100,Meal
+Tandoori Murg,West Bengal,Non-Veg,None,300,Meal
+Kacha Aam er Chatni,West Bengal,Veg,None,120,Meal
+Labra,West Bengal,Veg,None,200,Meal
+Paturi Bhetki,West Bengal,Non-Veg,None,280,Meal
+Sukto,West Bengal,Veg,None,170,Meal
+Methi Thepla,West Bengal,Veg,Gluten,220,Meal
+Vegetable Chop,West Bengal,Veg,None,250,Meal
+Murgir Korma,West Bengal,Non-Veg,None,350,Meal
+Bhapa Ilish,West Bengal,Non-Veg,None,280,Meal
+Moong Dal,West Bengal,Veg,None,150,Meal
+Biryani,West Bengal,Non-Veg,None,400,Meal
+Chingri Malai,West Bengal,Non-Veg,None,350,Meal
+Murgir Kasha,West Bengal,Non-Veg,None,400,Meal
+Kolkata Kachori,West Bengal,Veg,Gluten,220,Meal
+Aloo Bharta,West Bengal,Veg,None,180,Meal
+Chingri Bhorta,West Bengal,Non-Veg,None,290,Meal
+Patishapta,West Bengal,Veg,Dairy,200,Meal
+Cholar Dal,West Bengal,Veg,None,180,Meal
+Ghoogni,West Bengal,Veg,None,190,Meal
+Patishapta,West Bengal,Veg,Dairy,200,Meal
+Mughlai Paratha,West Bengal,Veg,Gluten,300,Breakfast
+Ghoogni,West Bengal,Veg,None,200,Meal
+Aloo Keema,Uttarakhand,Non-Veg,None,350,Meal
+Bhatt Ki Churkani,Uttarakhand,Veg,None,300,Meal
+Chainsoo,Uttarakhand,Veg,None,250,Meal
+Kumaoni Raita,Uttarakhand,Veg,Dairy,150,Meal
+Fruits and Nut Kheer,Uttarakhand,Veg,"Nuts, Dairy",400,Snack
+Gahat Ki Dal,Uttarakhand,Veg,None,300,Meal
+Kandalee Saag,Uttarakhand,Veg,None,200,Meal
+Singori,Uttarakhand,Veg,Dairy,250,Meal
+Raita,Uttarakhand,Veg,Dairy,180,Meal
+Chawal Ki Roti,Uttarakhand,Veg,None,280,Meal
+Phaanu,Uttarakhand,Veg,None,300,Meal
+Kumaoni Bhatt,Uttarakhand,Veg,None,320,Meal
+Kachma,Uttarakhand,Non-Veg,None,350,Meal
+Kumaoni Saag,Uttarakhand,Veg,None,180,Meal
+Ghar Ka Achaar,Uttarakhand,Veg,None,100,Meal
+Kundru,Uttarakhand,Veg,None,200,Meal
+Pindale,Uttarakhand,Veg,None,220,Meal
+Pahadi Daal,Uttarakhand,Veg,None,250,Meal
+Dum Aloo,Uttarakhand,Veg,None,320,Meal
+Kandali Saag,Uttarakhand,Veg,None,190,Meal
+Garhwal Keema,Uttarakhand,Non-Veg,None,400,Meal
+Jhangora Ki Kheer,Uttarakhand,Veg,Dairy,350,Meal
+Aloo Tamatar,Uttarakhand,Veg,None,250,Meal
+Chana Madra,Uttarakhand,Veg,None,300,Meal
+Raita Pulao,Uttarakhand,Veg,Dairy,350,Meal
+Bedu Roti,Uttarakhand,Veg,None,280,Meal
+Kumaoni Baadi,Uttarakhand,Veg,None,250,Meal
+Garhwal Meat Curry,Uttarakhand,Non-Veg,None,400,Meal
+Ragi Porridge,Uttarakhand,Veg,None,200,Meal
+Pulao,Uttarakhand,Veg,None,300,Meal
+Aloo Ghatta,Uttarakhand,Veg,None,270,Meal
+Pahadi Samosa,Uttarakhand,Veg,None,250,Meal
+Kumaoni Pulao,Uttarakhand,Veg,None,350,Meal
+Chana Chaat,Uttarakhand,Veg,None,200,Meal
+Gahat Ki Khichdi,Uttarakhand,Veg,None,300,Meal
+Jhangora Pulao,Uttarakhand,Veg,None,320,Meal
+Kandali Saag,Uttarakhand,Veg,None,220,Meal
+Garhwal Saag,Uttarakhand,Veg,None,200,Meal
+Bhatt Ki Dal,Uttarakhand,Veg,None,280,Meal
+Aloo Tamatar Curry,Uttarakhand,Veg,None,250,Meal
+Methi Thepla,Uttarakhand,Veg,None,300,Meal
+Chaaula,Uttarakhand,Veg,None,250,Meal
+Pindi Chana,Uttarakhand,Veg,None,300,Meal
+Daal Bhat,Uttarakhand,Veg,None,350,Meal
+Sooji Halwa,Uttarakhand,Veg,Dairy,400,Meal
+Methi Thepla,Uttarakhand,Veg,None,300,Meal
+Kumaoni Chutney,Uttarakhand,Veg,None,100,Meal
+Jhangora Kheer,Uttarakhand,Veg,Dairy,350,Meal
+Pahadi Rajma,Uttarakhand,Veg,None,300,Meal
+Bedu Ki Roti,Uttarakhand,Veg,None,280,Meal
+Aloo Baingan,Uttarakhand,Veg,None,250,Meal
+Kachori,Uttarakhand,Veg,None,300,Meal
+Singori,Uttarakhand,Veg,Dairy,200,Meal
+Chana Masala,Uttarakhand,Veg,None,300,Meal
+Kandali Saag,Uttarakhand,Veg,None,200,Meal
+Aloo Keema,Uttar Pradesh,Non-Veg,None,350,Meal
+Puri Aloo,Uttar Pradesh,Veg,Gluten,400,Meal
+Chole Bhature,Uttar Pradesh,Veg,Gluten,600,Meal
+Tandoori Chicken,Uttar Pradesh,Non-Veg,None,400,Meal
+Paneer Tikka,Uttar Pradesh,Veg,Dairy,300,Meal
+Dal Makhani,Uttar Pradesh,Veg,Dairy,350,Meal
+Kachori,Uttar Pradesh,Veg,Gluten,450,Meal
+Raita,Uttar Pradesh,Veg,Dairy,150,Meal
+Kofta Curry,Uttar Pradesh,Veg,Dairy,400,Meal
+Aloo Chaat,Uttar Pradesh,Veg,None,250,Meal
+Biryani,Uttar Pradesh,Non-Veg,None,500,Meal
+Methi Thepla,Uttar Pradesh,Veg,Gluten,350,Meal
+Pulao,Uttar Pradesh,Veg,None,300,Meal
+Samosa,Uttar Pradesh,Veg,Gluten,400,Meal
+Rogan Josh,Uttar Pradesh,Non-Veg,None,500,Meal
+Bhindi Masala,Uttar Pradesh,Veg,None,200,Meal
+Palak Paneer,Uttar Pradesh,Veg,Dairy,350,Meal
+Aloo Paratha,Uttar Pradesh,Veg,Gluten,400,Breakfast
+Kheer,Uttar Pradesh,Veg,Dairy,300,Meal
+Jalebi,Uttar Pradesh,Veg,Gluten,350,Meal
+Mathri,Uttar Pradesh,Veg,Gluten,450,Meal
+Baida Roti,Uttar Pradesh,Non-Veg,Gluten,500,Meal
+Petha,Uttar Pradesh,Veg,None,200,Meal
+Mutton Korma,Uttar Pradesh,Non-Veg,None,600,Meal
+Tikki Chaat,Uttar Pradesh,Veg,Gluten,350,Meal
+Chana Masala,Uttar Pradesh,Veg,None,400,Meal
+Gulab Jamun,Uttar Pradesh,Veg,Dairy,300,Meal
+Kachori Sabzi,Uttar Pradesh,Veg,Gluten,500,Meal
+Chicken Kebab,Uttar Pradesh,Non-Veg,None,400,Meal
+Rasam,Uttar Pradesh,Veg,None,150,Meal
+Dal Tadka,Uttar Pradesh,Veg,None,300,Meal
+Kofta Biryani,Uttar Pradesh,Veg,Dairy,550,Meal
+Murg Malai Tikka,Uttar Pradesh,Non-Veg,Dairy,450,Meal
+Jeera Rice,Uttar Pradesh,Veg,None,250,Meal
+Dahi Bhalla,Uttar Pradesh,Veg,Dairy,350,Meal
+Mutton Seekh Kebab,Uttar Pradesh,Non-Veg,None,500,Meal
+Chole,Uttar Pradesh,Veg,None,400,Meal
+Methi Paratha,Uttar Pradesh,Veg,Gluten,350,Breakfast
+Khasta Kachori,Uttar Pradesh,Veg,Gluten,450,Meal
+Dum Aloo,Uttar Pradesh,Veg,None,300,Meal
+Shahi Paneer,Uttar Pradesh,Veg,Dairy,400,Meal
+Samosa Chaat,Uttar Pradesh,Veg,Gluten,400,Meal
+Chicken Curry,Uttar Pradesh,Non-Veg,None,500,Meal
+Bundi Raita,Uttar Pradesh,Veg,Dairy,200,Meal
+Paneer Butter Masala,Uttar Pradesh,Veg,Dairy,450,Meal
+Kachori Aloo,Uttar Pradesh,Veg,Gluten,500,Meal
+Bhindi Do Pyaza,Uttar Pradesh,Veg,None,200,Meal
+Litti Chokha,Uttar Pradesh,Veg,Gluten,450,Meal
+Tandoori Paneer,Uttar Pradesh,Veg,Dairy,300,Meal
+Mutton Nihari,Uttar Pradesh,Non-Veg,None,600,Meal
+Samosa Pav,Uttar Pradesh,Veg,Gluten,500,Meal
+Chicken Biryani,Uttar Pradesh,Non-Veg,None,550,Meal
+Vegetable Pulao,Uttar Pradesh,Veg,None,350,Meal
+Chole Pulao,Uttar Pradesh,Veg,None,400,Meal
+Masoor Dal,Uttar Pradesh,Veg,None,300,Meal
+Bhindi Fry,Uttar Pradesh,Veg,None,200,Meal
+Rawa Kesari,Uttar Pradesh,Veg,None,350,Meal
+Vegetable Korma,Uttar Pradesh,Veg,Dairy,400,Meal
+Mutton Pulao,Uttar Pradesh,Non-Veg,None,500,Meal
+Tandoori Roti,Uttar Pradesh,Veg,Gluten,250,Meal
+Paneer Pakora,Uttar Pradesh,Veg,Dairy,350,Meal
+Aloo Tamatar,Uttar Pradesh,Veg,None,250,Meal
+Chicken Shawarma,Uttar Pradesh,Non-Veg,None,500,Meal
+Methi Malai Chicken,Uttar Pradesh,Non-Veg,Dairy,450,Meal
+Vegetable Cutlet,Uttar Pradesh,Veg,Gluten,300,Meal
+Paneer Korma,Uttar Pradesh,Veg,Dairy,400,Meal
+Roti,Uttar Pradesh,Veg,Gluten,150,Meal
+Chole Tikki,Uttar Pradesh,Veg,Gluten,350,Meal
+Vegetable Biryani,Uttar Pradesh,Veg,None,400,Meal
+Palak Chole,Uttar Pradesh,Veg,None,350,Meal
+Murg Pulao,Uttar Pradesh,Non-Veg,None,550,Meal
+Khichdi,Uttar Pradesh,Veg,None,300,Meal
+Kachori Chaat,Uttar Pradesh,Veg,Gluten,450,Meal
+Methi Chicken,Uttar Pradesh,Non-Veg,None,400,Meal
+Paneer Burji,Uttar Pradesh,Veg,Dairy,350,Meal
+Vegetable Curry,Uttar Pradesh,Veg,None,300,Meal
+Chicken Saag,Uttar Pradesh,Non-Veg,None,500,Meal
+Gatte Ki Sabzi,Uttar Pradesh,Veg,Gluten,400,Meal
+Mutton Tikka,Uttar Pradesh,Non-Veg,None,500,Meal
+Vegetable Dosa,Uttar Pradesh,Veg,Gluten,350,Breakfast
+Bhindi Raita,Uttar Pradesh,Veg,Dairy,200,Meal
+Aloo Gobi,Uttar Pradesh,Veg,None,250,Meal
+Chicken Pulao,Uttar Pradesh,Non-Veg,None,550,Meal
+Vegetable Soup,Uttar Pradesh,Veg,None,150,Meal
+Gajar Halwa,Uttar Pradesh,Veg,Dairy,350,Meal
+Kashmiri Dum Aloo,Uttar Pradesh,Veg,None,400,Meal
+Prawn Masala,Uttar Pradesh,Non-Veg,None,500,Meal
+Dahi Puri,Uttar Pradesh,Veg,Dairy,250,Meal
+Aloo Methi,Uttar Pradesh,Veg,None,250,Meal
+Mutton Curry,Uttar Pradesh,Non-Veg,None,600,Meal
+Vegetable Idli,Uttar Pradesh,Veg,None,250,Breakfast
+Chana Chaat,Uttar Pradesh,Veg,None,300,Meal
+Methi Malai Paneer,Uttar Pradesh,Veg,Dairy,400,Meal
+Rawa Upma,Uttar Pradesh,Veg,Gluten,300,Breakfast
+Chicken Pakora,Uttar Pradesh,Non-Veg,None,400,Meal
+Vegetable Biryani,Uttar Pradesh,Veg,None,400,Meal
+Kachori,Uttar Pradesh,Veg,Gluten,450,Meal
+Mutton Rogan Josh,Uttar Pradesh,Non-Veg,None,600,Meal
+Palak Dal,Uttar Pradesh,Veg,None,300,Meal
+Paneer Tikka Masala,Uttar Pradesh,Veg,Dairy,400,Meal
+Tandoori Naan,Uttar Pradesh,Veg,Gluten,300,Meal
+Aloo Palak,Uttar Pradesh,Veg,None,250,Meal
+Chicken Tikka Masala,Uttar Pradesh,Non-Veg,Dairy,500,Meal
+Vegetable Pakora,Uttar Pradesh,Veg,Gluten,350,Meal
+Dal Chawal,Uttar Pradesh,Veg,None,350,Meal
+Vegetable Kofta,Uttar Pradesh,Veg,Dairy,400,Meal
+Gajar Halwa,Uttar Pradesh,Veg,Dairy,350,Meal
+Paneer Lababdar,Uttar Pradesh,Veg,Dairy,450,Meal
+Mutton Shami Kebab,Uttar Pradesh,Non-Veg,None,500,Meal
+Aloo Jeera,Uttar Pradesh,Veg,None,250,Meal
+Chicken Vindaloo,Uttar Pradesh,Non-Veg,None,600,Meal
+Rajma,Uttar Pradesh,Veg,None,350,Meal
+Chicken Korma,Uttar Pradesh,Non-Veg,Dairy,500,Meal
+Kachori Sabzi,Uttar Pradesh,Veg,Gluten,500,Meal
+Mutton Biryani,Uttar Pradesh,Non-Veg,None,500,Meal
+Chicken Tikka,Uttar Pradesh,Non-Veg,None,400,Meal
+Methi Thepla,Uttar Pradesh,Veg,Gluten,350,Meal
+Vegetable Jalfrezi,Uttar Pradesh,Veg,None,300,Meal
+Dal Tadka,Uttar Pradesh,Veg,None,350,Meal
+Aloo Baingan,Uttar Pradesh,Veg,None,300,Meal
+Rajma Chawal,Uttar Pradesh,Veg,None,350,Meal
+Chicken Curry,Uttar Pradesh,Non-Veg,None,600,Meal
+Chicken Seekh Kebab,Uttar Pradesh,Non-Veg,None,400,Meal
+Mutton Tikka Masala,Uttar Pradesh,Non-Veg,None,500,Meal
+Mui Borok,Tripura,Non-Veg,None,200,Meal
+Kachri,Tripura,Veg,None,150,Meal
+Bamboo Shoot Curry,Tripura,Veg,None,180,Meal
+Mangsor Ruti,Tripura,Non-Veg,None,220,Meal
+Aloo-Kumura,Tripura,Veg,None,170,Meal
+Chak-So,Tripura,Non-Veg,None,240,Meal
+Mithing,Tripura,Veg,Nuts,200,Meal
+Kharang,Tripura,Non-Veg,None,260,Meal
+Gahat Dal,Tripura,Veg,None,190,Meal
+Hawaitho,Tripura,Non-Veg,None,230,Meal
+Tarela,Tripura,Veg,None,180,Meal
+Kumura Ruti,Tripura,Veg,None,200,Meal
+Ting Gaar,Tripura,Non-Veg,None,210,Meal
+Panch Phoran Aloo,Tripura,Veg,None,190,Meal
+Lungba,Tripura,Non-Veg,None,250,Meal
+Bamboo Shoot Pickle,Tripura,Veg,None,180,Meal
+Wang Roti,Tripura,Veg,None,210,Meal
+Bhapa Ilish,Tripura,Non-Veg,None,240,Meal
+Gagri,Tripura,Non-Veg,None,220,Meal
+Mula Roti,Tripura,Veg,None,200,Meal
+Ilish Bhaja,Tripura,Non-Veg,None,230,Meal
+Chingri Masala,Tripura,Non-Veg,None,260,Meal
+Aloo Kachri,Tripura,Veg,None,190,Meal
+Kumura Bhaji,Tripura,Veg,None,170,Meal
+Kharam,Tripura,Non-Veg,None,250,Meal
+Kachri Bharta,Tripura,Veg,None,180,Meal
+Bhapa Mango,Tripura,Veg,None,160,Meal
+Pora,Tripura,Veg,None,180,Meal
+Tamuli,Tripura,Veg,None,200,Meal
+Poro,Tripura,Veg,None,190,Meal
+Moga,Tripura,Non-Veg,None,220,Meal
+Kuchara,Tripura,Non-Veg,None,240,Meal
+Gagri Curry,Tripura,Non-Veg,None,230,Meal
+Fing Roti,Tripura,Veg,None,190,Meal
+Chamcham,Tripura,Veg,Dairy,210,Meal
+Chokha,Tripura,Veg,None,200,Meal
+Pani Puri,Tripura,Veg,Gluten,210,Meal
+Thukpa,Tripura,Veg,None,220,Meal
+Moukok,Tripura,Non-Veg,None,240,Meal
+Dheki,Tripura,Veg,None,180,Meal
+Bamboo Shoot Soup,Tripura,Veg,None,170,Meal
+Bara,Tripura,Veg,None,190,Meal
+Hawaitho Bharta,Tripura,Non-Veg,None,230,Meal
+Aloo Curry,Tripura,Veg,None,200,Meal
+Mitha Bhaja,Tripura,Veg,None,170,Meal
+Ruti,Tripura,Veg,None,190,Meal
+Kharan Roti,Tripura,Veg,None,200,Meal
+Mula Bharta,Tripura,Veg,None,180,Meal
+Tarela Bharta,Tripura,Veg,None,190,Meal
+Masa Curry,Tripura,Non-Veg,None,250,Meal
+Kachri Bhaji,Tripura,Veg,None,170,Meal
+Bamboo Shoot Salad,Tripura,Veg,None,150,Snack
+Lungi,Tripura,Veg,None,180,Meal
+Gakhri,Tripura,Non-Veg,None,230,Meal
+Fried Ilish,Tripura,Non-Veg,None,240,Meal
+Mithi Kachri,Tripura,Veg,Nuts,200,Meal
+Bamboo Shoot Rice,Tripura,Veg,None,200,Meal
+Panch Phoran Bharta,Tripura,Veg,None,190,Meal
+Pora Bhaji,Tripura,Veg,None,180,Meal
+Dheki Bharta,Tripura,Veg,None,200,Meal
+Thukpa Curry,Tripura,Veg,None,220,Meal
+Moukok Bharta,Tripura,Non-Veg,None,250,Meal
+Kharam Bhaji,Tripura,Non-Veg,None,230,Meal
+Aloo Bharta,Tripura,Veg,None,180,Meal
+Bamboo Shoot Pulao,Tripura,Veg,None,210,Meal
+Kachri Masala,Tripura,Veg,None,190,Meal
+Ting Gaar Bharta,Tripura,Non-Veg,None,230,Meal
+Fried Bamboo Shoot,Tripura,Veg,None,200,Meal
+Aloo Gachri,Tripura,Veg,None,170,Meal
+Bamboo Shoot Fry,Tripura,Veg,None,180,Meal
+Mangsor Bharta,Tripura,Non-Veg,None,220,Meal
+Kachri Curry,Tripura,Veg,None,190,Meal
+Pachra,Tripura,Veg,None,200,Meal
+Ilish Curry,Tripura,Non-Veg,None,240,Meal
+Chingri Bharta,Tripura,Non-Veg,None,250,Meal
+Mithing Bharta,Tripura,Veg,Nuts,200,Meal
+Pora Curry,Tripura,Veg,None,190,Meal
+Mithing Masala,Tripura,Veg,Nuts,210,Meal
+Bhapa Kachri,Tripura,Veg,None,200,Meal
+Pachra Bhaji,Tripura,Veg,None,180,Meal
+Gahat Bharta,Tripura,Veg,None,190,Meal
+Chakso Bharta,Tripura,Non-Veg,None,240,Meal
+Gahar Roti,Tripura,Veg,None,210,Meal
+Pora Bharta,Tripura,Veg,None,200,Meal
+Tarela Curry,Tripura,Veg,None,190,Meal
+Mithi Bhaji,Tripura,Veg,Nuts,210,Meal
+Chingri Curry,Tripura,Non-Veg,None,240,Meal
+Gagri Bhaji,Tripura,Non-Veg,None,220,Meal
+Mitha Pulao,Tripura,Veg,Nuts,190,Meal
+Bhapa Fish,Tripura,Non-Veg,None,230,Meal
+Moukok Masala,Tripura,Non-Veg,None,240,Meal
+Bamboo Shoot Stir Fry,Tripura,Veg,None,200,Meal
+Kachri Pulao,Tripura,Veg,None,210,Meal
+Pora Masala,Tripura,Veg,None,180,Meal
+Gahat Curry,Tripura,Veg,None,190,Meal
+Kharan Bharta,Tripura,Non-Veg,None,220,Meal
+Ilish Bharta,Tripura,Non-Veg,None,240,Meal
+Pani Puri Bhaji,Tripura,Veg,Gluten,210,Meal
+Chakso Curry,Tripura,Non-Veg,None,250,Meal
+Mitha Curry,Tripura,Veg,Nuts,190,Meal
+Tarela Bhaji,Tripura,Veg,None,180,Meal
+Bamboo Shoot Khichdi,Tripura,Veg,None,210,Meal
+Fried Mitha,Tripura,Veg,Nuts,200,Meal
+Bhapa Kachri Curry,Tripura,Veg,None,190,Meal
+Moukok Roti,Tripura,Non-Veg,None,220,Meal
+Mithi Bharta,Tripura,Veg,Nuts,210,Meal
+Kachri Soup,Tripura,Veg,None,180,Meal
+Aloo Bhaji,Tripura,Veg,None,200,Meal
+Bamboo Shoot Stir-Fry,Tripura,Veg,None,190,Meal
+Fried Ilish Curry,Tripura,Non-Veg,None,230,Meal
+Pora Bhaji,Tripura,Veg,None,190,Meal
+Chamcham Bhaji,Tripura,Veg,Dairy,200,Meal
+Kachri Salad,Tripura,Veg,None,180,Snack
+Ilish Masala,Tripura,Non-Veg,None,250,Meal
+Gagri Curry,Tripura,Non-Veg,None,240,Meal
+Moukok Soup,Tripura,Non-Veg,None,230,Meal
+Pachra Bharta,Tripura,Veg,None,180,Meal
+Kachri Roti,Tripura,Veg,None,200,Meal
+Mitha Roti,Tripura,Veg,Nuts,190,Meal
+Bhapa Bamboo Shoot,Tripura,Veg,None,180,Meal
+Fried Mitha Roti,Tripura,Veg,Nuts,200,Meal
+Moukok Bhaji,Tripura,Non-Veg,None,230,Meal
+Bamboo Shoot Pulao,Tripura,Veg,None,210,Meal
+Gahat Masala,Tripura,Veg,None,190,Meal
+Kachri Bhaji,Tripura,Veg,None,180,Meal
+Mitha Bharta,Tripura,Veg,Nuts,200,Meal
+Pachra Curry,Tripura,Veg,None,180,Meal
+Kachri Masala,Tripura,Veg,None,190,Meal
+Chamcham Curry,Tripura,Veg,Dairy,210,Meal
+Moukok Roti,Tripura,Non-Veg,None,230,Meal
+Gagri Roti,Tripura,Non-Veg,None,220,Meal
+Kachri Bharta,Tripura,Veg,None,200,Meal
+Pora Roti,Tripura,Veg,None,190,Meal
+Mitha Roti,Tripura,Veg,Nuts,200,Meal
+Kachri Soup,Tripura,Veg,None,180,Meal
+Gahat Roti,Tripura,Veg,None,190,Meal
+Moukok Bhaji,Tripura,Non-Veg,None,240,Meal
+Kachri Bhaji,Tripura,Veg,None,190,Meal
+Mitha Bhaji,Tripura,Veg,Nuts,200,Meal
+Fried Bamboo Shoot,Tripura,Veg,None,200,Meal
+Bhapa Bhaji,Tripura,Veg,None,190,Meal
+Chamcham Bhaji,Tripura,Veg,Dairy,200,Meal
+Kachri Pulao,Tripura,Veg,None,210,Meal
+Gahat Bhaji,Tripura,Veg,None,180,Meal
+Fish Curry,Andaman,Non-Veg,Seafood,300,Meal
+Chicken Korma,Andaman,Non-Veg,Dairy,350,Meal
+Vegetable Pulao,Andaman,Veg,None,250,Meal
+Tandoori Lobster,Andaman,Non-Veg,Seafood,400,Meal
+Prawn Masala,Andaman,Non-Veg,Seafood,320,Meal
+Coconut Rice,Andaman,Veg,None,270,Meal
+Mutton Rogan Josh,Andaman,Non-Veg,Dairy,450,Meal
+Tamarind Fish,Andaman,Non-Veg,Seafood,290,Meal
+Spicy Vegetable Soup,Andaman,Veg,None,150,Meal
+Fish Fry,Andaman,Non-Veg,Seafood,330,Meal
+Grilled Chicken,Andaman,Non-Veg,None,280,Meal
+Seafood Paella,Andaman,Non-Veg,Seafood,400,Meal
+Vegetable Stir Fry,Andaman,Veg,None,200,Meal
+Prawn Curry,Andaman,Non-Veg,Seafood,320,Meal
+Chili Crab,Andaman,Non-Veg,Seafood,360,Meal
+Mango Salad,Andaman,Veg,None,180,Snack
+Banana Pancakes,Andaman,Veg,Dairy,350,Breakfast
+Beef Vindaloo,Andaman,Non-Veg,None,400,Meal
+Vegetable Korma,Andaman,Veg,Dairy,330,Meal
+Fish Tikka,Andaman,Non-Veg,Seafood,300,Meal
+Shrimp Scampi,Andaman,Non-Veg,Seafood,320,Meal
+Coconut Milk Curry,Andaman,Non-Veg,"Seafood, Dairy",340,Meal
+Papaya Salad,Andaman,Veg,None,160,Snack
+Pineapple Rice,Andaman,Veg,None,290,Meal
+Chicken Biryani,Andaman,Non-Veg,None,400,Meal
+Vegetable Samosas,Andaman,Veg,None,250,Meal
+Mutton Kebab,Andaman,Non-Veg,None,330,Meal
+Prawn Tempura,Andaman,Non-Veg,Seafood,310,Meal
+Curried Squid,Andaman,Non-Veg,Seafood,340,Meal
+Jackfruit Curry,Andaman,Veg,None,280,Snack
+Roasted Lobster,Andaman,Non-Veg,Seafood,360,Meal
+Vegetable Stew,Andaman,Veg,None,220,Meal
+Chicken Skewers,Andaman,Non-Veg,None,270,Meal
+Lamb Shank,Andaman,Non-Veg,None,450,Meal
+Seafood Chowder,Andaman,Non-Veg,"Seafood, Dairy",350,Meal
+Coconut Chutney,Andaman,Veg,None,100,Meal
+Sweet Potato Fries,Andaman,Veg,None,250,Meal
+Fish Molee,Andaman,Non-Veg,Seafood,320,Meal
+Lobster Bisque,Andaman,Non-Veg,"Seafood, Dairy",330,Meal
+Tamarind Rice,Andaman,Veg,None,280,Meal
+Vegetable Cutlet,Andaman,Veg,None,200,Meal
+Spicy Crab Cakes,Andaman,Non-Veg,Seafood,340,Meal
+Mango Chutney,Andaman,Veg,None,150,Meal
+Grilled Prawns,Andaman,Non-Veg,Seafood,290,Meal
+Chicken Satay,Andaman,Non-Veg,None,300,Meal
+Vegetable Pakoras,Andaman,Veg,None,280,Meal
+Goat Curry,Andaman,Non-Veg,None,370,Meal
+Seafood Salad,Andaman,Non-Veg,Seafood,260,Snack
+Spicy Lobster,Andaman,Non-Veg,Seafood,350,Meal
+Coconut Chicken,Andaman,Non-Veg,Dairy,340,Meal
+Prawn Biryani,Andaman,Non-Veg,Seafood,410,Meal
+Vegetable Raita,Andaman,Veg,Dairy,140,Meal
+Mutton Pulao,Andaman,Non-Veg,None,350,Meal
+Tandoori Prawns,Andaman,Non-Veg,Seafood,320,Meal
+Chana Masala,Andaman,Veg,None,280,Meal
+Fish Tikka Masala,Andaman,Non-Veg,Seafood,350,Meal
+Grilled Mutton,Andaman,Non-Veg,None,330,Meal
+Vegetable Sambar,Andaman,Veg,None,220,Meal
+Prawn Soup,Andaman,Non-Veg,Seafood,250,Meal
+Fish Kababs,Andaman,Non-Veg,Seafood,290,Meal
+Vegetable Biryani,Andaman,Veg,None,270,Meal
+Spicy Mutton Curry,Andaman,Non-Veg,None,370,Meal
+Fried Squid,Andaman,Non-Veg,Seafood,320,Meal
+Coconut Fish,Andaman,Non-Veg,Seafood,290,Meal
+Grilled Octopus,Andaman,Non-Veg,Seafood,340,Meal
+Vegetable Khichdi,Andaman,Veg,None,250,Meal
+Mutton Shish Kebab,Andaman,Non-Veg,None,330,Meal
+Lobster Curry,Andaman,Non-Veg,Seafood,370,Meal
+Spicy Chicken Wings,Andaman,Non-Veg,None,310,Meal
+Vegetable Pita,Andaman,Veg,None,220,Meal
+Seafood Risotto,Andaman,Non-Veg,Seafood,350,Meal
+Chicken Shawarma,Andaman,Non-Veg,None,320,Meal
+Prawn Tempura Sushi,Andaman,Non-Veg,Seafood,340,Meal
+Vegetable Dosa,Andaman,Veg,None,250,Breakfast
+Mutton Seekh Kebab,Andaman,Non-Veg,None,320,Meal
+Spicy Fish Stew,Andaman,Non-Veg,Seafood,300,Meal
+Vegetable Quinoa Salad,Andaman,Veg,None,220,Snack
+Seafood Risotto,Andaman,Non-Veg,Seafood,350,Meal
+Chili Lobster,Andaman,Non-Veg,Seafood,360,Meal
+Vegetable Roll,Andaman,Veg,None,200,Meal
+Coconut Prawns,Andaman,Non-Veg,Seafood,330,Meal
+Chicken Masala,Andaman,Non-Veg,None,360,Meal
+Mutton Stew,Andaman,Non-Veg,None,380,Meal
+Vegetable Fritters,Andaman,Veg,None,270,Meal
+Lobster Salad,Andaman,Non-Veg,Seafood,290,Snack
+Prawn Skewers,Andaman,Non-Veg,Seafood,320,Meal
+Mutton Curry,Andaman,Non-Veg,None,350,Meal
+Spicy Fish Cake,Andaman,Non-Veg,Seafood,320,Meal
+Vegetable Pancakes,Andaman,Veg,None,250,Breakfast
+Grilled Mahi Mahi,Andaman,Non-Veg,Seafood,340,Meal
+Prawn Curry Rice,Andaman,Non-Veg,Seafood,370,Meal
+Vegetable Chowder,Andaman,Veg,None,200,Meal
+Chicken Biriyani,Andaman,Non-Veg,None,400,Meal
+Seafood Tacos,Andaman,Non-Veg,Seafood,330,Meal
+Fish and Chips,Andaman,Non-Veg,Seafood,350,Meal
+Vegetable Kebab,Andaman,Veg,None,220,Meal
+Spicy Crab Soup,Andaman,Non-Veg,Seafood,290,Meal
+Coconut Rice Pudding,Andaman,Veg,Dairy,300,Meal
+Chicken Kebab,Andaman,Non-Veg,None,300,Meal
+Grilled Fish Fillet,Andaman,Non-Veg,Seafood,330,Meal
+Vegetable Masala Dosa,Andaman,Veg,None,280,Breakfast
+Seafood Biryani,Andaman,Non-Veg,Seafood,420,Meal
+Mutton Soup,Andaman,Non-Veg,None,300,Meal
+Spicy Lobster Soup,Andaman,Non-Veg,Seafood,340,Meal
+Vegetable Uthappam,Andaman,Veg,None,260,Meal
+Prawn Gyoza,Andaman,Non-Veg,Seafood,320,Meal
+Chicken Masala Soup,Andaman,Non-Veg,None,300,Meal
+Spicy Prawn Salad,Andaman,Non-Veg,Seafood,320,Snack
+Seafood Fritters,Andaman,Non-Veg,Seafood,300,Meal
+Chicken Curry,Andaman,Non-Veg,None,350,Meal
+Vegetable Spring Rolls,Andaman,Veg,None,220,Meal
+Prawn Salad,Andaman,Non-Veg,Seafood,290,Snack
+Spicy Mutton Ribs,Andaman,Non-Veg,None,380,Meal
+Vegetable Samosa,Andaman,Veg,None,250,Meal
+Mutton Kofta,Andaman,Non-Veg,Dairy,330,Meal
+Coconut Prawn Curry,Andaman,Non-Veg,Seafood,340,Meal
+Vegetable Dosa,Andaman,Veg,None,250,Breakfast
+Lobster Stir Fry,Andaman,Non-Veg,Seafood,360,Meal
+Chicken Satay Skewers,Andaman,Non-Veg,None,300,Meal
+Prawn Fried Rice,Andaman,Non-Veg,Seafood,340,Meal
+Vegetable Pakora,Andaman,Veg,None,270,Meal
+Fish Curry Rice,Andaman,Non-Veg,Seafood,340,Meal
+Spicy Lobster Biryani,Andaman,Non-Veg,Seafood,420,Meal
+Mutton Korma,Andaman,Non-Veg,Dairy,350,Meal
+Vegetable Pulao,Andaman,Veg,None,250,Meal
+Grilled Lobster,Andaman,Non-Veg,Seafood,360,Meal
+Chicken Curry with Rice,Andaman,Non-Veg,None,400,Meal
+Spicy Vegetable Soup,Andaman,Veg,None,200,Meal
+Prawn Biryani,Andaman,Non-Veg,Seafood,410,Meal
+Lobster and Prawn Skewers,Andaman,Non-Veg,Seafood,340,Meal
+Grilled Mutton,Andaman,Non-Veg,None,340,Meal
+Chicken and Vegetable Stir Fry,Andaman,Non-Veg,None,280,Meal
+Spicy Crab Curry,Andaman,Non-Veg,Seafood,330,Meal
+Hyderabadi Biryani,Telangana,Non-Veg,"Nuts, Dairy",500,Meal
+Bagara Baingan,Telangana,Veg,None,200,Meal
+Kheema Samosa,Telangana,Non-Veg,Gluten,300,Meal
+Pesarattu,Telangana,Veg,None,250,Meal
+Gongura Pachadi,Telangana,Veg,None,100,Meal
+Qubooli,Telangana,Veg,Nuts,300,Meal
+Hyderabadi Marag,Telangana,Non-Veg,None,450,Meal
+Lemon Rice,Telangana,Veg,None,350,Meal
+Telangana Chicken Curry,Telangana,Non-Veg,None,400,Meal
+Poornalu,Telangana,Veg,Nuts,150,Meal
+Ulavacharu,Telangana,Veg,None,180,Meal
+Pulao,Telangana,Veg,None,300,Meal
+Shahi Tukda,Telangana,Veg,Dairy,350,Meal
+Saree Pappu,Telangana,Veg,None,250,Meal
+Chili Chicken,Telangana,Non-Veg,None,350,Meal
+Dosa,Telangana,Veg,None,200,Breakfast
+Rajma,Telangana,Veg,None,300,Meal
+Bhindi Fry,Telangana,Veg,None,180,Meal
+Kalakand,Telangana,Veg,Dairy,250,Meal
+Karela Fry,Telangana,Veg,None,200,Meal
+Chicken Korma,Telangana,Non-Veg,"Nuts, Dairy",400,Meal
+Mutton Biryani,Telangana,Non-Veg,Nuts,500,Meal
+Rawa Kesari,Telangana,Veg,Dairy,300,Meal
+Chana Dal,Telangana,Veg,None,250,Meal
+Pongal,Telangana,Veg,None,300,Meal
+Methi Thepla,Telangana,Veg,None,250,Meal
+Khubani Ka Meetha,Telangana,Veg,None,350,Meal
+Nizami Kebab,Telangana,Non-Veg,Nuts,400,Meal
+Methi Paratha,Telangana,Veg,None,300,Breakfast
+Masala Dosa,Telangana,Veg,None,250,Breakfast
+Mutton Kheema,Telangana,Non-Veg,None,400,Meal
+Chole Bhature,Telangana,Veg,Gluten,400,Meal
+Gutti Vankaya,Telangana,Veg,None,200,Meal
+Chicken Tikka,Telangana,Non-Veg,None,350,Meal
+Masoor Dal,Telangana,Veg,None,250,Meal
+Thalipeeth,Telangana,Veg,Gluten,300,Meal
+Chakna,Telangana,Non-Veg,None,350,Meal
+Aloo Gobi,Telangana,Veg,None,200,Meal
+Rajma Chawal,Telangana,Veg,None,350,Meal
+Chole Masala,Telangana,Veg,None,300,Meal
+Prawns Curry,Telangana,Non-Veg,None,400,Meal
+Tomato Rice,Telangana,Veg,None,300,Meal
+Ghee Rice,Telangana,Veg,Dairy,350,Meal
+Dal Tadka,Telangana,Veg,None,250,Meal
+Hyderabadi Khichdi,Telangana,Veg,None,350,Meal
+Chana Sundal,Telangana,Veg,None,200,Meal
+Pesarattu Dosa,Telangana,Veg,None,250,Breakfast
+Vankaya Curry,Telangana,Veg,None,200,Meal
+Chicken Pakora,Telangana,Non-Veg,Gluten,400,Meal
+Kabab,Telangana,Non-Veg,Nuts,350,Meal
+Dahi Puri,Telangana,Veg,"Dairy, Gluten",250,Meal
+Kurkuri Bhindi,Telangana,Veg,None,200,Meal
+Bonda,Telangana,Veg,Gluten,300,Meal
+Chicken Kebab,Telangana,Non-Veg,None,400,Meal
+Palak Paneer,Telangana,Veg,Dairy,350,Meal
+Methi Dal,Telangana,Veg,None,250,Meal
+Kakara Poothi,Telangana,Veg,None,200,Meal
+Rawa Idli,Telangana,Veg,Gluten,250,Breakfast
+Sambhar,Telangana,Veg,None,150,Meal
+Chole Tikki,Telangana,Veg,Gluten,300,Meal
+Chicken Hyderabadi,Telangana,Non-Veg,None,400,Meal
+Roti,Telangana,Veg,Gluten,150,Meal
+Bhindi Masala,Telangana,Veg,None,200,Meal
+Khichdi,Telangana,Veg,None,300,Meal
+Rajma Tikki,Telangana,Veg,Gluten,250,Meal
+Biryani Masala,Telangana,Veg,None,100,Meal
+Kali Puri,Telangana,Veg,Gluten,300,Meal
+Chana Chaat,Telangana,Veg,None,200,Meal
+Bhajji,Telangana,Veg,Gluten,250,Meal
+Rawa Upma,Telangana,Veg,Gluten,300,Breakfast
+Hyderabadi Haleem,Telangana,Non-Veg,Gluten,450,Meal
+Prawn Masala,Telangana,Non-Veg,None,400,Meal
+Paneer Tikka,Telangana,Veg,Dairy,350,Meal
+Jowar Roti,Telangana,Veg,Gluten-Free,200,Meal
+Kofta Curry,Telangana,Veg,Dairy,350,Meal
+Vegetable Biryani,Telangana,Veg,None,350,Meal
+Gosht Korma,Telangana,Non-Veg,"Nuts, Dairy",400,Meal
+Vegetable Samosa,Telangana,Veg,Gluten,250,Meal
+Bitter Gourd Curry,Telangana,Veg,None,180,Meal
+Vegetable Korma,Telangana,Veg,Dairy,300,Meal
+Chicken 65,Telangana,Non-Veg,Gluten,350,Meal
+Haleem,Telangana,Non-Veg,Gluten,450,Meal
+Onion Pakoda,Telangana,Veg,Gluten,300,Meal
+Palak Chole,Telangana,Veg,None,300,Meal
+Aloo Tamatar,Telangana,Veg,None,200,Meal
+Prawn Fry,Telangana,Non-Veg,None,350,Meal
+Chana Palak,Telangana,Veg,None,250,Meal
+Idli,Telangana,Veg,Gluten,200,Breakfast
+Kache Aloo,Telangana,Veg,None,250,Meal
+Rava Kesari,Telangana,Veg,Dairy,300,Meal
+Chole Chaat,Telangana,Veg,None,200,Meal
+Daal Bati,Telangana,Veg,Gluten,350,Meal
+Khatta Dhokla,Telangana,Veg,Gluten,250,Meal
+Bhindi Masala,Telangana,Veg,None,200,Meal
+Chicken Seekh Kebab,Telangana,Non-Veg,None,350,Meal
+Cheese Dosa,Telangana,Veg,Dairy,300,Breakfast
+Beef Curry,Telangana,Non-Veg,None,400,Meal
+Onion Chutney,Telangana,Veg,None,100,Meal
+Chana Masala,Telangana,Veg,None,300,Meal
+Vada Pav,Telangana,Veg,Gluten,300,Meal
+Gongura Mutton,Telangana,Non-Veg,None,450,Meal
+Kuttu Paratha,Telangana,Veg,Gluten-Free,250,Breakfast
+Tomato Chutney,Telangana,Veg,None,80,Meal
+Paneer Butter Masala,Telangana,Veg,Dairy,350,Meal
+Mutton Korma,Telangana,Non-Veg,"Nuts, Dairy",400,Meal
+Chappati,Telangana,Veg,Gluten,150,Meal
+Aloo Methi,Telangana,Veg,None,200,Meal
+Kaddu Ki Sabzi,Telangana,Veg,None,180,Meal
+Chicken Masala,Telangana,Non-Veg,None,400,Meal
+Paneer Tikka Masala,Telangana,Veg,Dairy,350,Meal
+Biryani,Telangana,Veg,None,350,Meal
+Chicken Keema,Telangana,Non-Veg,None,350,Meal
+Kachori,Telangana,Veg,Gluten,250,Meal
+Idiyappam,Tamil Nadu,Veg,None,200,Meal
+Pongal,Tamil Nadu,Veg,None,250,Meal
+Dosa,Tamil Nadu,Veg,None,150,Breakfast
+Sambar,Tamil Nadu,Veg,None,100,Meal
+Rasam,Tamil Nadu,Veg,None,80,Meal
+Medu Vada,Tamil Nadu,Veg,None,180,Meal
+Upma,Tamil Nadu,Veg,None,220,Breakfast
+Thayir Sadam,Tamil Nadu,Veg,Dairy,200,Meal
+Kuzhambu,Tamil Nadu,Veg,None,120,Meal
+Curd Rice,Tamil Nadu,Veg,Dairy,250,Meal
+Vada Curry,Tamil Nadu,Veg,None,300,Meal
+Kootu,Tamil Nadu,Veg,None,150,Meal
+Chettinad Chicken,Tamil Nadu,Non-Veg,None,400,Meal
+Chicken Biryani,Tamil Nadu,Non-Veg,None,600,Meal
+Fish Curry,Tamil Nadu,Non-Veg,None,350,Meal
+Mutton Kola Urundai,Tamil Nadu,Non-Veg,None,450,Meal
+Prawn Masala,Tamil Nadu,Non-Veg,None,400,Meal
+Egg Curry,Tamil Nadu,Non-Veg,None,350,Meal
+Mutton Biryani,Tamil Nadu,Non-Veg,None,650,Meal
+Kothu Parotta,Tamil Nadu,Non-Veg,None,500,Meal
+Masala Dosa,Tamil Nadu,Veg,None,200,Breakfast
+Pesarattu,Tamil Nadu,Veg,None,180,Meal
+Pongal Sadam,Tamil Nadu,Veg,None,250,Meal
+Aviyal,Tamil Nadu,Veg,None,180,Meal
+Vellai Kurma,Tamil Nadu,Veg,None,220,Meal
+Vegetable Biryani,Tamil Nadu,Veg,None,300,Meal
+Pulao,Tamil Nadu,Veg,None,250,Meal
+Tomato Rice,Tamil Nadu,Veg,None,230,Meal
+Curd Vada,Tamil Nadu,Veg,Dairy,250,Meal
+Kollu Sundal,Tamil Nadu,Veg,None,180,Meal
+Bisi Bele Bath,Tamil Nadu,Veg,None,280,Meal
+Sundal,Tamil Nadu,Veg,None,150,Meal
+Kara Kuzhambu,Tamil Nadu,Veg,None,120,Meal
+Methi Thepla,Tamil Nadu,Veg,None,220,Meal
+Rawa Kesari,Tamil Nadu,Veg,Dairy,300,Meal
+Kootu Curry,Tamil Nadu,Veg,None,160,Meal
+Coconut Rice,Tamil Nadu,Veg,None,220,Meal
+Chappathi,Tamil Nadu,Veg,None,150,Meal
+Rasam Rice,Tamil Nadu,Veg,None,250,Meal
+Javvarisi Payasam,Tamil Nadu,Veg,Dairy,300,Meal
+Poondu Kuzhambu,Tamil Nadu,Veg,None,100,Meal
+Sambar Rice,Tamil Nadu,Veg,None,280,Meal
+Pesarattu Dosai,Tamil Nadu,Veg,None,200,Breakfast
+Mutton Chukka,Tamil Nadu,Non-Veg,None,350,Meal
+Chicken Kothu Parotta,Tamil Nadu,Non-Veg,None,500,Meal
+Fish Fry,Tamil Nadu,Non-Veg,None,400,Meal
+Egg Dosai,Tamil Nadu,Non-Veg,None,300,Breakfast
+Mutton Curry,Tamil Nadu,Non-Veg,None,500,Meal
+Prawn Curry,Tamil Nadu,Non-Veg,None,350,Meal
+Masala Egg,Tamil Nadu,Non-Veg,None,300,Meal
+Fish Biryani,Tamil Nadu,Non-Veg,None,650,Meal
+Chicken Chettinad,Tamil Nadu,Non-Veg,None,450,Meal
+Kothu Chicken,Tamil Nadu,Non-Veg,None,500,Meal
+Kothu Mutton,Tamil Nadu,Non-Veg,None,550,Meal
+Sambar Idiyappam,Tamil Nadu,Veg,None,250,Meal
+Puliyodarai,Tamil Nadu,Veg,None,220,Meal
+Coconut Chutney,Tamil Nadu,Veg,None,150,Meal
+Mango Rice,Tamil Nadu,Veg,None,250,Meal
+Puli Sadam,Tamil Nadu,Veg,None,220,Meal
+Curd Vada,Tamil Nadu,Veg,Dairy,250,Meal
+Mango Pachadi,Tamil Nadu,Veg,None,180,Meal
+Thayir Vada,Tamil Nadu,Veg,Dairy,220,Meal
+Ghee Rice,Tamil Nadu,Veg,Dairy,300,Meal
+Kuzhi Paniyaram,Tamil Nadu,Veg,None,250,Meal
+Vegetable Kurma,Tamil Nadu,Veg,None,200,Meal
+Raw Banana Fry,Tamil Nadu,Veg,None,200,Meal
+Kootu Curry,Tamil Nadu,Veg,None,180,Meal
+Green Gram Sundal,Tamil Nadu,Veg,None,150,Meal
+Pongal Vada,Tamil Nadu,Veg,None,230,Meal
+Kara Pidi,Tamil Nadu,Veg,None,180,Meal
+Chettinad Egg Curry,Tamil Nadu,Non-Veg,None,350,Meal
+Mutton Korma,Tamil Nadu,Non-Veg,None,400,Meal
+Prawn Biryani,Tamil Nadu,Non-Veg,None,650,Meal
+Chicken Ularthiyathu,Tamil Nadu,Non-Veg,None,500,Meal
+Mutton Stew,Tamil Nadu,Non-Veg,None,400,Meal
+Fish Moilee,Tamil Nadu,Non-Veg,None,350,Meal
+Mutton Keema,Tamil Nadu,Non-Veg,None,450,Meal
+Coconut Rice,Tamil Nadu,Veg,None,250,Meal
+Vegetable Sambar,Tamil Nadu,Veg,None,180,Meal
+Pudina Rice,Tamil Nadu,Veg,None,220,Meal
+Tomato Chutney,Tamil Nadu,Veg,None,80,Meal
+Venn Pongal,Tamil Nadu,Veg,None,250,Meal
+Poha,Tamil Nadu,Veg,None,220,Breakfast
+Rajma Rice,Tamil Nadu,Veg,None,300,Meal
+Khichdi,Tamil Nadu,Veg,None,250,Meal
+Vegetable Pulao,Tamil Nadu,Veg,None,280,Meal
+Kootu,Tamil Nadu,Veg,None,150,Meal
+Tamarind Rice,Tamil Nadu,Veg,None,250,Meal
+Capsicum Rice,Tamil Nadu,Veg,None,240,Meal
+Onion Sambar,Tamil Nadu,Veg,None,120,Meal
+Methi Rice,Tamil Nadu,Veg,None,220,Meal
+Chana Sundal,Tamil Nadu,Veg,None,180,Meal
+Mango Rice,Tamil Nadu,Veg,None,220,Meal
+Vadai Curry,Tamil Nadu,Veg,None,250,Meal
+Kollu Sundal,Tamil Nadu,Veg,None,150,Meal
+Pesarattu,Tamil Nadu,Veg,None,180,Meal
+Thukpa,Sikkim,Non-Veg,None,250,Meal
+Momos,Sikkim,Non-Veg,None,200,Meal
+Phagshapa,Sikkim,Non-Veg,None,300,Meal
+Kinema,Sikkim,Vegan,Soy,150,Meal
+Gundruk,Sikkim,Vegan,None,100,Meal
+Sel Roti,Sikkim,Vegan,Gluten,300,Meal
+Chhurpi,Sikkim,Non-Veg,Dairy,400,Meal
+Aloo Dum,Sikkim,Veg,None,250,Meal
+Sichuan Noodles,Sikkim,Veg,Gluten,350,Meal
+Yak Cheese Pizza,Sikkim,Non-Veg,Dairy,500,Meal
+Bamboo Shoot Curry,Sikkim,Veg,None,200,Meal
+Tibetan Bread,Sikkim,Vegan,Gluten,350,Meal
+Pork with Bamboo Shoot,Sikkim,Non-Veg,None,400,Meal
+Mutton Curry,Sikkim,Non-Veg,None,450,Meal
+Dal Bhat,Sikkim,Veg,None,300,Meal
+Bheda Ko Achar,Sikkim,Non-Veg,None,250,Meal
+Momo Soup,Sikkim,Non-Veg,None,200,Meal
+Tomato Chutney,Sikkim,Vegan,None,100,Meal
+Aloo Tama,Sikkim,Veg,None,250,Meal
+Mutton Tsukpa,Sikkim,Non-Veg,None,350,Meal
+Chili Chicken,Sikkim,Non-Veg,None,400,Meal
+Vegetable Fried Rice,Sikkim,Veg,None,350,Meal
+Chicken Khaja,Sikkim,Non-Veg,None,300,Meal
+Egg Curry,Sikkim,Non-Veg,None,350,Meal
+Pumpkin Soup,Sikkim,Veg,None,150,Meal
+Paneer Tikka,Sikkim,Veg,Dairy,250,Meal
+Samosa,Sikkim,Veg,Gluten,300,Meal
+Beef Momos,Sikkim,Non-Veg,None,250,Meal
+Kodo Ko Roti,Sikkim,Vegan,Gluten,250,Meal
+Mixed Vegetable Curry,Sikkim,Veg,None,200,Meal
+Pork Dumplings,Sikkim,Non-Veg,None,300,Meal
+Kachila,Sikkim,Non-Veg,None,350,Meal
+Pulao,Sikkim,Veg,None,300,Meal
+Chicken Thukpa,Sikkim,Non-Veg,None,350,Meal
+Beef Thukpa,Sikkim,Non-Veg,None,400,Meal
+Vegetable Momos,Sikkim,Veg,None,200,Meal
+Chana Masala,Sikkim,Vegan,None,250,Meal
+Chicken Pulao,Sikkim,Non-Veg,None,350,Meal
+Potato Salad,Sikkim,Veg,None,150,Snack
+Chili Paneer,Sikkim,Veg,Dairy,350,Meal
+Daal Soup,Sikkim,Vegan,None,200,Meal
+Roti,Sikkim,Vegan,Gluten,250,Meal
+Chicken Dumplings,Sikkim,Non-Veg,None,300,Meal
+Fish Curry,Sikkim,Non-Veg,None,350,Meal
+Vegetable Stew,Sikkim,Veg,None,200,Meal
+Pork Ribs,Sikkim,Non-Veg,None,400,Meal
+Spinach Curry,Sikkim,Veg,None,150,Meal
+Yak Meat Stew,Sikkim,Non-Veg,None,350,Meal
+Vegetable Pakora,Sikkim,Veg,Gluten,300,Meal
+Beef Curry,Sikkim,Non-Veg,None,400,Meal
+Fried Fish,Sikkim,Non-Veg,None,350,Meal
+Tomato Soup,Sikkim,Vegan,None,100,Meal
+Chicken Skewers,Sikkim,Non-Veg,None,250,Meal
+Vegetable Steamed Momos,Sikkim,Veg,None,200,Meal
+Beef Stew,Sikkim,Non-Veg,None,350,Meal
+Ginger Tea,Sikkim,Vegan,None,50,Meal
+Yak Meat Momos,Sikkim,Non-Veg,None,250,Meal
+Pumpkin Pie,Sikkim,Veg,Gluten,300,Meal
+Chana Salad,Sikkim,Vegan,None,200,Snack
+Chana Dal,Sikkim,Vegan,None,250,Meal
+Vegetable Pulao,Sikkim,Veg,None,300,Meal
+Mutton Momos,Sikkim,Non-Veg,None,250,Meal
+Vegetable Soup,Sikkim,Veg,None,150,Meal
+Tibetan Dumplings,Sikkim,Non-Veg,None,200,Meal
+Egg Momos,Sikkim,Non-Veg,None,250,Meal
+Vegetable Sandwich,Sikkim,Veg,Gluten,250,Meal
+Vegetable Samosa,Sikkim,Veg,Gluten,300,Meal
+Yak Meat Burger,Sikkim,Non-Veg,None,400,Meal
+Vegetable Steamed Buns,Sikkim,Veg,Gluten,200,Meal
+Pork Sausages,Sikkim,Non-Veg,None,350,Meal
+Beef Kebabs,Sikkim,Non-Veg,None,300,Meal
+Vegetable Pakoras,Sikkim,Veg,Gluten,300,Meal
+Chicken Soup,Sikkim,Non-Veg,None,200,Meal
+Beef Stir Fry,Sikkim,Non-Veg,None,350,Meal
+Pumpkin Curry,Sikkim,Veg,None,200,Meal
+Vegetable Korma,Sikkim,Veg,None,250,Meal
+Chicken Salad,Sikkim,Non-Veg,None,250,Snack
+Pork Ramen,Sikkim,Non-Veg,None,400,Meal
+Chili Beef,Sikkim,Non-Veg,None,350,Meal
+Pork Skewers,Sikkim,Non-Veg,None,300,Meal
+Vegetable Salad,Sikkim,Veg,None,150,Snack
+Chicken Burger,Sikkim,Non-Veg,None,400,Meal
+Mutton Stew,Sikkim,Non-Veg,None,350,Meal
+Vegetable Curry,Sikkim,Veg,None,200,Meal
+Pork Chops,Sikkim,Non-Veg,None,400,Meal
+Egg Salad,Sikkim,Non-Veg,None,200,Snack
+Mutton Ribs,Sikkim,Non-Veg,None,400,Meal
+Spinach Soup,Sikkim,Veg,None,150,Meal
+Beef Stir Fry,Sikkim,Non-Veg,None,300,Meal
+Vegetable Tempura,Sikkim,Veg,Gluten,300,Meal
+Chicken Kababs,Sikkim,Non-Veg,None,300,Meal
+Vegetable Biryani,Sikkim,Veg,None,350,Meal
+Chicken Fried Rice,Sikkim,Non-Veg,None,350,Meal
+Pork Belly,Sikkim,Non-Veg,None,400,Meal
+Beef Chili,Sikkim,Non-Veg,None,350,Meal
+Vegetable Wrap,Sikkim,Veg,Gluten,250,Meal
+Chicken Curry,Sikkim,Non-Veg,None,350,Meal
+Vegetable Tofu Stir Fry,Sikkim,Vegan,Soy,250,Meal
+Pork Ribs,Sikkim,Non-Veg,None,400,Meal
+Mutton Kebabs,Sikkim,Non-Veg,None,350,Meal
+Vegetable Udon,Sikkim,Veg,Gluten,300,Meal
+Chicken Satay,Sikkim,Non-Veg,None,250,Meal
+Yak Meat Stew,Sikkim,Non-Veg,None,350,Meal
+Pork Adobo,Sikkim,Non-Veg,None,350,Meal
+Chicken Teriyaki,Sikkim,Non-Veg,None,300,Meal
+Beef Soup,Sikkim,Non-Veg,None,300,Meal
+Chicken Ramen,Sikkim,Non-Veg,None,350,Meal
+Vegetable Stir Fry,Sikkim,Veg,None,250,Meal
+Pork Dumplings,Sikkim,Non-Veg,None,250,Meal
+Chicken Tikka,Sikkim,Non-Veg,None,250,Meal
+Beef Korma,Sikkim,Non-Veg,None,400,Meal
+Pork Stir Fry,Sikkim,Non-Veg,None,350,Meal
+Chicken Samosa,Sikkim,Non-Veg,None,300,Meal
+Pork Stew,Sikkim,Non-Veg,None,350,Meal
+Chicken Pot Pie,Sikkim,Non-Veg,None,400,Meal
+Beef Curry,Sikkim,Non-Veg,None,400,Meal
+Aloo Tama,Sikkim,Veg,None,250,Meal
+Chicken Kebabs,Sikkim,Non-Veg,None,300,Meal
+Beef Chops,Sikkim,Non-Veg,None,400,Meal
+Vegetable Skewers,Sikkim,Veg,None,250,Meal
+Vegetable Burger,Sikkim,Veg,Gluten,300,Meal
+Chicken Wrap,Sikkim,Non-Veg,None,300,Meal
+Beef Samosa,Sikkim,Non-Veg,None,300,Meal
+Pork Stir Fry,Sikkim,Non-Veg,None,350,Meal
+Beef Ribs,Sikkim,Non-Veg,None,400,Meal
+Chicken Korma,Sikkim,Non-Veg,None,300,Meal
+Yak Meat Ribs,Sikkim,Non-Veg,None,400,Meal
+Beef Pot Roast,Sikkim,Non-Veg,None,400,Meal
+Pork Tacos,Sikkim,Non-Veg,None,300,Meal
+Chicken Noodles,Sikkim,Non-Veg,None,350,Meal
+Dal Baati Churma,Rajasthan,Veg,None,700,Meal
+Gatte ki Sabzi,Rajasthan,Veg,None,400,Meal
+Ker Sangri,Rajasthan,Veg,None,300,Meal
+Laal Maas,Rajasthan,Non-Veg,None,600,Meal
+Methi Thepla,Rajasthan,Veg,None,350,Meal
+Bajra Roti,Rajasthan,Veg,None,250,Meal
+Rajasthani Kachori,Rajasthan,Veg,None,500,Meal
+Churma Laddu,Rajasthan,Veg,None,450,Meal
+Roti with Pulao,Rajasthan,Veg,None,600,Meal
+Murg Keema,Rajasthan,Non-Veg,None,550,Meal
+Papad Ki Sabzi,Rajasthan,Veg,None,300,Meal
+Methi Malai Chicken,Rajasthan,Non-Veg,None,650,Meal
+Panchmel Dal,Rajasthan,Veg,None,350,Meal
+Dahi Ke Kebab,Rajasthan,Veg,None,400,Meal
+Jungli Maas,Rajasthan,Non-Veg,None,700,Meal
+Sev Tameta,Rajasthan,Veg,None,300,Meal
+Ghevar,Rajasthan,Veg,None,500,Meal
+Kadhi Pakora,Rajasthan,Veg,None,400,Meal
+Rajasthani Biryani,Rajasthan,Veg,None,600,Meal
+Sangri Kachori,Rajasthan,Veg,None,500,Meal
+Pyaaz Kachori,Rajasthan,Veg,None,450,Meal
+Daal Kachori,Rajasthan,Veg,None,550,Meal
+Litti Chokha,Rajasthan,Veg,None,650,Meal
+Chane Ke Kebab,Rajasthan,Veg,None,350,Meal
+Bajra Khichdi,Rajasthan,Veg,None,400,Meal
+Rajasthani Khadi,Rajasthan,Veg,None,350,Meal
+Aloo Pyaz ki Sabzi,Rajasthan,Veg,None,300,Meal
+Gond Pak,Rajasthan,Veg,None,550,Meal
+Besan Chilla,Rajasthan,Veg,None,400,Meal
+Rajasthani Pulao,Rajasthan,Veg,None,600,Meal
+Jodhpuri Mirchi Vada,Rajasthan,Veg,None,500,Meal
+Rajma Chawal,Rajasthan,Veg,None,700,Meal
+Lassi,Rajasthan,Veg,Dairy,150,Meal
+Chaas,Rajasthan,Veg,Dairy,120,Meal
+Samosa,Rajasthan,Veg,None,400,Meal
+Dal Dhokli,Rajasthan,Veg,None,500,Meal
+Methi Thepla with Curd,Rajasthan,Veg,None,400,Meal
+Rajasthani Baingan Bharta,Rajasthan,Veg,None,350,Meal
+Pyaz ke Pakode,Rajasthan,Veg,None,350,Meal
+Pulao with Raita,Rajasthan,Veg,None,600,Meal
+Khasta Kachori,Rajasthan,Veg,None,500,Meal
+Palak Puri,Rajasthan,Veg,None,400,Meal
+Vegetable Pulao,Rajasthan,Veg,None,550,Meal
+Murg Malai Tikka,Rajasthan,Non-Veg,None,600,Meal
+Aloo Gobhi,Rajasthan,Veg,None,350,Meal
+Bhutte ka Kees,Rajasthan,Veg,None,300,Meal
+Tandoori Chicken,Rajasthan,Non-Veg,None,650,Meal
+Methi Paratha,Rajasthan,Veg,None,400,Breakfast
+Aloo Tamatar Ki Sabzi,Rajasthan,Veg,None,350,Meal
+Chana Masala,Rajasthan,Veg,None,400,Meal
+Rajasthani Rajma,Rajasthan,Veg,None,550,Meal
+Jaisalmeri Kachori,Rajasthan,Veg,None,500,Meal
+Khaman Dhokla,Rajasthan,Veg,None,300,Meal
+Gond Ki Laddu,Rajasthan,Veg,None,550,Meal
+Daal Tadka,Rajasthan,Veg,None,400,Meal
+Methi Pulao,Rajasthan,Veg,None,600,Meal
+Kachori with Aloo Curry,Rajasthan,Veg,None,600,Meal
+Samosa Chaat,Rajasthan,Veg,None,450,Meal
+Dal Pakwan,Rajasthan,Veg,None,600,Meal
+Chole Bhature,Rajasthan,Veg,None,700,Meal
+Rajasthani Ghee Ke Ladoo,Rajasthan,Veg,Dairy,550,Meal
+Baida Roti,Rajasthan,Non-Veg,None,600,Meal
+Dahi Bhalla,Rajasthan,Veg,Dairy,350,Meal
+Vegetable Pakora,Rajasthan,Veg,None,350,Meal
+Bhindi Masala,Rajasthan,Veg,None,300,Meal
+Lauki Kofta,Rajasthan,Veg,None,400,Meal
+Rajasthani Pithi,Rajasthan,Veg,None,450,Meal
+Chana Chaat,Rajasthan,Veg,None,350,Meal
+Murg Curry,Rajasthan,Non-Veg,None,650,Meal
+Rajasthani Halwa,Rajasthan,Veg,None,500,Meal
+Papad Ki Sabzi,Rajasthan,Veg,None,300,Meal
+Bhutte Ka Kees,Rajasthan,Veg,None,300,Meal
+Gatte Ki Khichdi,Rajasthan,Veg,None,500,Meal
+Methi Malai Kofta,Rajasthan,Veg,None,600,Meal
+Sangri Ki Sabzi,Rajasthan,Veg,None,350,Meal
+Rajasthani Kachori,Rajasthan,Veg,None,500,Meal
+Vegetable Biryani,Rajasthan,Veg,None,650,Meal
+Chole Chaat,Rajasthan,Veg,None,400,Meal
+Methi Ki Chutney,Rajasthan,Veg,None,200,Meal
+Rajasthani Kadi,Rajasthan,Veg,None,350,Meal
+Rajasthani Kadhi Pakora,Rajasthan,Veg,None,400,Meal
+Aloo Paratha,Punjab,Veg,Gluten,250,Breakfast
+Chole Bhature,Punjab,Veg,Gluten,600,Meal
+Butter Chicken,Punjab,Non-Veg,Dairy,500,Meal
+Dal Makhani,Punjab,Veg,Dairy,350,Meal
+Palak Paneer,Punjab,Veg,Dairy,400,Meal
+Rajma,Punjab,Veg,None,350,Meal
+Amritsari Macchi,Punjab,Non-Veg,Fish,450,Meal
+Tandoori Chicken,Punjab,Non-Veg,None,400,Meal
+Kadi Pakora,Punjab,Veg,Gluten,400,Meal
+Methi Thepla,Punjab,Veg,Gluten,300,Meal
+Pindi Chole,Punjab,Veg,None,350,Meal
+Sarson Da Saag,Punjab,Veg,None,200,Meal
+Makki Di Roti,Punjab,Veg,Gluten,250,Meal
+Gobi Parantha,Punjab,Veg,Gluten,275,Meal
+Aloo Gobi,Punjab,Veg,None,300,Meal
+Bhindi Masala,Punjab,Veg,None,200,Meal
+Dahi Bhalla,Punjab,Veg,Dairy,350,Meal
+Paneer Tikka,Punjab,Veg,Dairy,250,Meal
+Lassi,Punjab,Veg,Dairy,200,Meal
+Kachori,Punjab,Veg,Gluten,400,Meal
+Tandoori Roti,Punjab,Veg,Gluten,150,Meal
+Chana Masala,Punjab,Veg,None,350,Meal
+Pulao,Punjab,Veg,None,400,Meal
+Kheer,Punjab,Veg,Dairy,350,Meal
+Murg Malai Tikka,Punjab,Non-Veg,Dairy,400,Meal
+Kachori Chaat,Punjab,Veg,Gluten,450,Meal
+Paneer Butter Masala,Punjab,Veg,Dairy,500,Meal
+Chole Chaat,Punjab,Veg,None,350,Meal
+Jalebi,Punjab,Veg,Gluten,300,Meal
+Pakora,Punjab,Veg,Gluten,250,Meal
+Baingan Bharta,Punjab,Veg,None,250,Meal
+Pindi Chole,Punjab,Veg,None,350,Meal
+Karela Sabzi,Punjab,Veg,None,200,Meal
+Samosa,Punjab,Veg,Gluten,250,Meal
+Aloo Methi,Punjab,Veg,None,220,Meal
+Chana Pulao,Punjab,Veg,None,350,Meal
+Khichdi,Punjab,Veg,None,300,Meal
+Paneer Bhurji,Punjab,Veg,Dairy,350,Meal
+Butter Naan,Punjab,Veg,Gluten,250,Meal
+Dum Aloo,Punjab,Veg,None,300,Meal
+Chole Pulao,Punjab,Veg,None,400,Meal
+Bhindi Fry,Punjab,Veg,None,180,Meal
+Litti Chokha,Punjab,Veg,Gluten,400,Meal
+Tandoori Naan,Punjab,Veg,Gluten,230,Meal
+Dhokla,Punjab,Veg,Gluten,200,Meal
+Tandoori Aloo,Punjab,Veg,None,250,Meal
+Prawn Masala,Punjab,Non-Veg,Seafood,450,Meal
+Veg Biryani,Punjab,Veg,None,400,Meal
+Masala Dosa,Punjab,Veg,Gluten,350,Breakfast
+Chole Tikki,Punjab,Veg,Gluten,300,Meal
+Pakora Chaat,Punjab,Veg,Gluten,450,Meal
+Methi Parantha,Punjab,Veg,Gluten,300,Meal
+Ghee Rice,Punjab,Veg,Dairy,300,Meal
+Gosht Korma,Punjab,Non-Veg,None,450,Meal
+Naan,Punjab,Veg,Gluten,220,Meal
+Paneer Kofta,Punjab,Veg,Dairy,400,Meal
+Palak Chole,Punjab,Veg,None,300,Meal
+Lachha Paratha,Punjab,Veg,Gluten,350,Breakfast
+Butter Paneer,Punjab,Veg,Dairy,450,Meal
+Paneer Tikka Masala,Punjab,Veg,Dairy,500,Meal
+Amritsari Chole,Punjab,Veg,None,350,Meal
+Dal Tadka,Punjab,Veg,None,350,Meal
+Chana Chaat,Punjab,Veg,None,250,Meal
+Aloo Gobhi,Punjab,Veg,None,300,Meal
+Rajma,Punjab,Veg,None,350,Meal
+Kashmiri Dum Aloo,Punjab,Veg,None,300,Meal
+Vegetable Pulao,Punjab,Veg,None,400,Meal
+Chole,Punjab,Veg,None,350,Meal
+Rajma Chawal,Punjab,Veg,None,400,Meal
+Aloo Parantha,Punjab,Veg,Gluten,250,Meal
+Aloo Gobi,Punjab,Veg,None,300,Meal
+Soya Dosa,Puducherry,Vegan,Soy,230,Breakfast
+Prawn Curry,Puducherry,Non-Veg,Shellfish,320,Meal
+Chettinad Chicken,Puducherry,Non-Veg,None,450,Meal
+Idiyappam,Puducherry,Veg,Gluten,180,Meal
+Mutton Biryani,Puducherry,Non-Veg,None,550,Meal
+Vatha Kuzhambu,Puducherry,Veg,None,150,Meal
+Coconut Rice,Puducherry,Vegan,Coconut,240,Meal
+Karuvadu Curry,Puducherry,Non-Veg,Fish,300,Meal
+Paal Payasam,Puducherry,Veg,Dairy,350,Meal
+Vegetable Kurma,Puducherry,Veg,None,200,Meal
+Fish Fry,Puducherry,Non-Veg,Fish,380,Meal
+Paneer Masala,Puducherry,Veg,Dairy,400,Meal
+Adai,Puducherry,Vegan,None,220,Meal
+Thenga Podi,Puducherry,Vegan,None,210,Meal
+Tamarind Rice,Puducherry,Vegan,None,250,Meal
+Meen Kozhambu,Puducherry,Non-Veg,Fish,320,Meal
+Kozhukattai,Puducherry,Veg,Gluten,180,Meal
+Sambar,Puducherry,Veg,None,140,Meal
+Aloo Poriyal,Puducherry,Vegan,None,210,Meal
+Thayir Sadam,Puducherry,Veg,Dairy,190,Meal
+Keerai Masiyal,Puducherry,Vegan,None,150,Meal
+Rava Kesari,Puducherry,Veg,Gluten,380,Meal
+Egg Curry,Puducherry,Non-Veg,Egg,270,Meal
+Beetroot Poriyal,Puducherry,Vegan,None,130,Meal
+Chow Chow Kootu,Puducherry,Vegan,None,140,Meal
+Paruppu Usili,Puducherry,Veg,None,200,Meal
+Pongal,Puducherry,Veg,None,320,Meal
+Banana Chips,Puducherry,Vegan,None,250,Meal
+Chicken Fry,Puducherry,Non-Veg,None,420,Meal
+Puli Kuzhambu,Puducherry,Vegan,None,180,Meal
+Curd Rice,Puducherry,Veg,Dairy,220,Meal
+Thattai,Puducherry,Vegan,None,200,Meal
+Avial,Puducherry,Veg,None,180,Meal
+Shrimp Fry,Puducherry,Non-Veg,Shellfish,310,Meal
+Rasam,Puducherry,Vegan,None,100,Meal
+Kara Chutney,Puducherry,Vegan,None,80,Meal
+Egg Bhurji,Puducherry,Non-Veg,Egg,210,Meal
+Kuzhi Paniyaram,Puducherry,Veg,Gluten,180,Meal
+Ellu Podi,Puducherry,Vegan,Sesame,150,Meal
+Cabbage Poriyal,Puducherry,Vegan,None,120,Meal
+Masala Vada,Puducherry,Vegan,None,250,Meal
+Thengai Chutney,Puducherry,Vegan,Coconut,120,Meal
+Vendakkai Fry,Puducherry,Vegan,None,160,Meal
+Sweet Pongal,Puducherry,Veg,Dairy,320,Meal
+Egg Appam,Puducherry,Non-Veg,Egg,280,Meal
+Milagu Rasam,Puducherry,Vegan,None,90,Meal
+Mango Pachadi,Puducherry,Vegan,None,150,Meal
+Kothamalli Thokku,Puducherry,Vegan,None,120,Meal
+Mutton Chukka,Puducherry,Non-Veg,None,420,Meal
+Ulli Theeyal,Puducherry,Vegan,None,190,Meal
+Kadala Curry,Puducherry,Vegan,None,230,Meal
+Chicken Kulambu,Puducherry,Non-Veg,None,400,Meal
+Paniyaram,Puducherry,Veg,None,180,Meal
+Murukku,Puducherry,Vegan,None,250,Meal
+Kappa,Puducherry,Vegan,None,140,Meal
+Pakhala Bhata,Odisha,Vegan,None,120,Meal
+Dalma,Odisha,Veg,None,200,Meal
+Chuda Ghasa,Odisha,Vegan,None,150,Meal
+Macha Tarkari,Odisha,Non-Veg,Fish,250,Meal
+Kanika,Odisha,Veg,None,230,Meal
+Raja Chura,Odisha,Vegan,None,180,Meal
+Khatta,Odisha,Veg,None,120,Meal
+Dahi Bara Aloo Dum,Odisha,Veg,Dairy,350,Meal
+Aloo Posto,Odisha,Veg,None,220,Meal
+Ambila,Odisha,Veg,None,190,Meal
+Santula,Odisha,Veg,None,150,Meal
+Khichdi,Odisha,Veg,None,200,Meal
+Macha Besara,Odisha,Non-Veg,Fish,270,Meal
+Rasam,Odisha,Vegan,None,100,Meal
+Bhendi Fry,Odisha,Veg,None,180,Meal
+Chhenna Poda,Odisha,Veg,Dairy,300,Meal
+Biryani,Odisha,Non-Veg,None,400,Meal
+Pithas,Odisha,Veg,None,250,Meal
+Puri Sabji,Odisha,Veg,None,320,Meal
+Chhena Jhili,Odisha,Veg,Dairy,350,Meal
+Ghee Rice,Odisha,Veg,Dairy,330,Meal
+Murgi Kasa,Odisha,Non-Veg,Chicken,300,Meal
+Bhaja Macha,Odisha,Non-Veg,Fish,250,Meal
+Chingudi Malai Curry,Odisha,Non-Veg,Shrimp,350,Meal
+Saja Dali,Odisha,Veg,None,180,Meal
+Pakhala,Odisha,Vegan,None,130,Meal
+Bamboo Shoot Curry,Odisha,Veg,None,190,Meal
+Moong Dal Chilla,Odisha,Veg,None,250,Meal
+Chenna Kasa,Odisha,Veg,Dairy,220,Meal
+Mutton Kasa,Odisha,Non-Veg,Mutton,320,Meal
+Macha Rai,Odisha,Non-Veg,Fish,280,Meal
+Dahi Pakhala,Odisha,Veg,Dairy,180,Meal
+Chakuli Pitha,Odisha,Veg,None,200,Meal
+Biri Biri,Odisha,Veg,None,190,Meal
+Chana Tarkari,Odisha,Veg,None,220,Meal
+Macha Khatta,Odisha,Non-Veg,Fish,250,Meal
+Kheema,Odisha,Non-Veg,Mutton,320,Meal
+Aloo Chana Curry,Odisha,Veg,None,200,Meal
+Dahi Bara,Odisha,Veg,Dairy,250,Meal
+Fish Fry,Odisha,Non-Veg,Fish,280,Meal
+Guguni,Odisha,Veg,None,180,Meal
+Pakhal Pitha,Odisha,Veg,None,200,Meal
+Mutton Kebab,Odisha,Non-Veg,Mutton,350,Meal
+Khatta Meetha,Odisha,Veg,None,160,Meal
+Prawn Curry,Odisha,Non-Veg,Prawn,270,Meal
+Chenna Curry,Odisha,Veg,Dairy,210,Meal
+Macha Rasa,Odisha,Non-Veg,Fish,280,Meal
+Aloo Gobi,Odisha,Veg,None,220,Meal
+Chenna Poda,Odisha,Veg,Dairy,300,Meal
+Mutton Kasa,Odisha,Non-Veg,Mutton,320,Meal
+Pitha,Odisha,Veg,None,200,Meal
+Aloo Methi,Odisha,Veg,None,190,Meal
+Kakharu Pitha,Odisha,Veg,None,180,Meal
+Fish Curry,Odisha,Non-Veg,Fish,280,Meal
+Chicken Curry,Odisha,Non-Veg,Chicken,320,Meal
+Chhenna Kheema,Odisha,Veg,Dairy,230,Meal
+Chura Pakhala,Odisha,Vegan,None,150,Meal
+Macher Jhal,Odisha,Non-Veg,Fish,250,Meal
+Chhena Besara,Odisha,Veg,Dairy,220,Meal
+Dalma Pakhala,Odisha,Veg,None,210,Meal
+Chenna Poda,Odisha,Veg,Dairy,310,Meal
+Smoked Pork with Bamboo Shoot,Nagaland,Non-Veg,Pork,400,Meal
+Naga King Chilli Pickle,Nagaland,Non-Veg,Chili,150,Meal
+Pork Ribs with Bamboo Shoot,Nagaland,Non-Veg,Pork,350,Meal
+Rice Cake,Nagaland,Veg,None,250,Meal
+Chicken with Naga Chili,Nagaland,Non-Veg,Chicken,400,Meal
+Fermented Soybean Paste,Nagaland,Vegan,Soybean,100,Meal
+Naga Fish Curry,Nagaland,Non-Veg,Fish,350,Meal
+Pork with Bamboo Shoot Soup,Nagaland,Non-Veg,Pork,250,Meal
+Vegetable Stew,Nagaland,Veg,None,200,Meal
+Naga Style Fried Fish,Nagaland,Non-Veg,Fish,300,Meal
+Naga Bean Curry,Nagaland,Vegan,Beans,250,Meal
+Naga Pork Belly,Nagaland,Non-Veg,Pork,400,Meal
+Khawza,Nagaland,Veg,None,300,Meal
+Smoked Pork Ribs,Nagaland,Non-Veg,Pork,350,Meal
+Naga Spicy Chicken,Nagaland,Non-Veg,Chicken,400,Meal
+Rice with Naga Pork,Nagaland,Non-Veg,Pork,450,Meal
+Naga Bamboo Shoot Salad,Nagaland,Veg,None,150,Snack
+Naga Green Chili Paste,Nagaland,Vegan,Chili,100,Meal
+Pork with Naga Herbs,Nagaland,Non-Veg,Pork,400,Meal
+Vegetable Stir Fry,Nagaland,Veg,None,200,Meal
+Naga Chili Chicken,Nagaland,Non-Veg,Chicken,350,Meal
+Bamboo Shoot and Pork Curry,Nagaland,Non-Veg,Pork,300,Meal
+Sticky Rice with Pork,Nagaland,Non-Veg,Pork,400,Meal
+Pork and Bamboo Shoot Salad,Nagaland,Non-Veg,Pork,250,Snack
+Naga Style Fish Fry,Nagaland,Non-Veg,Fish,300,Meal
+Chicken Soup with Herbs,Nagaland,Non-Veg,Chicken,200,Meal
+Pork with Green Beans,Nagaland,Non-Veg,Pork,350,Meal
+Spicy Naga Chicken Wings,Nagaland,Non-Veg,Chicken,350,Meal
+Vegetable Curry with Rice,Nagaland,Veg,None,300,Meal
+Pork with Garlic and Ginger,Nagaland,Non-Veg,Pork,400,Meal
+Naga Meat Stew,Nagaland,Non-Veg,Beef,350,Meal
+Naga Style Boiled Vegetables,Nagaland,Veg,None,150,Meal
+Naga Dry Fish,Nagaland,Non-Veg,Fish,200,Meal
+Bamboo Shoot and Fish Curry,Nagaland,Non-Veg,Fish,300,Meal
+Naga Chicken Roast,Nagaland,Non-Veg,Chicken,400,Meal
+Pork with Red Chilli,Nagaland,Non-Veg,Pork,350,Meal
+Naga Style Spicy Rice,Nagaland,Veg,None,250,Meal
+Vegetable and Pork Stew,Nagaland,Non-Veg,Pork,300,Meal
+Naga Pork with Herbs,Nagaland,Non-Veg,Pork,350,Meal
+Pork with Naga Spices,Nagaland,Non-Veg,Pork,400,Meal
+Naga Style Chicken Stew,Nagaland,Non-Veg,Chicken,300,Meal
+Bamboo Shoot Stir Fry,Nagaland,Veg,None,200,Meal
+Pork and Beans Curry,Nagaland,Non-Veg,Pork,350,Meal
+Spicy Naga Fried Rice,Nagaland,Veg,None,300,Meal
+Chicken and Bamboo Shoot Soup,Nagaland,Non-Veg,Chicken,250,Meal
+Naga Style Pork Ribs,Nagaland,Non-Veg,Pork,400,Meal
+Vegetable and Bean Soup,Nagaland,Vegan,Beans,200,Meal
+Spicy Pork Stir Fry,Nagaland,Non-Veg,Pork,350,Meal
+Naga Fish and Bamboo Shoot Stew,Nagaland,Non-Veg,Fish,300,Meal
+Rice with Naga Beans,Nagaland,Vegan,Beans,300,Meal
+Pork with Naga Vegetables,Nagaland,Non-Veg,Pork,350,Meal
+Naga Style Spicy Fish,Nagaland,Non-Veg,Fish,300,Meal
+Pork with Soybean,Nagaland,Non-Veg,Pork,350,Meal
+Naga Chicken with Herbs,Nagaland,Non-Veg,Chicken,400,Meal
+Vegetable and Pork Fried Rice,Nagaland,Non-Veg,Pork,400,Meal
+Naga Pork and Bean Curry,Nagaland,Non-Veg,Pork,350,Meal
+Naga Style Green Chili Soup,Nagaland,Vegan,Chili,150,Meal
+Smoked Fish with Bamboo Shoot,Nagaland,Non-Veg,Fish,300,Meal
+Naga Pork Belly Stew,Nagaland,Non-Veg,Pork,400,Meal
+Vegetable and Rice Stir Fry,Nagaland,Veg,None,250,Meal
+Pork with Naga Sauce,Nagaland,Non-Veg,Pork,350,Meal
+Naga Chicken and Bamboo Shoot,Nagaland,Non-Veg,Chicken,350,Meal
+Rice with Naga Bean Stew,Nagaland,Vegan,Beans,300,Meal
+Naga Pork with Ginger,Nagaland,Non-Veg,Pork,400,Meal
+Naga Style Fish Stew,Nagaland,Non-Veg,Fish,300,Meal
+Vegetable and Pork Rice Bowl,Nagaland,Non-Veg,Pork,350,Meal
+Naga Spicy Pork Curry,Nagaland,Non-Veg,Pork,400,Meal
+Chicken and Bean Curry,Nagaland,Non-Veg,Chicken,350,Meal
+Naga Style Vegetable Soup,Nagaland,Vegan,None,150,Meal
+Pork with Spicy Naga Herbs,Nagaland,Non-Veg,Pork,400,Meal
+Naga Fish and Rice,Nagaland,Non-Veg,Fish,350,Meal
+Vegetable and Pork Stir Fry,Nagaland,Non-Veg,Pork,300,Meal
+Naga Style Spicy Bean Soup,Nagaland,Vegan,Beans,200,Meal
+Smoked Pork with Spices,Nagaland,Non-Veg,Pork,400,Meal
+Naga Green Chili Chicken,Nagaland,Non-Veg,Chicken,350,Meal
+Bamboo Shoot and Pork Rice,Nagaland,Non-Veg,Pork,400,Meal
+Naga Style Pork Stew,Nagaland,Non-Veg,Pork,350,Meal
+Vegetable and Chicken Stir Fry,Nagaland,Non-Veg,Chicken,300,Meal
+Naga Bean and Rice Bowl,Nagaland,Vegan,Beans,300,Meal
+Pork with Naga Pickles,Nagaland,Non-Veg,Pork,400,Meal
+Naga Style Spicy Fish Curry,Nagaland,Non-Veg,Fish,300,Meal
+Chicken with Naga Beans,Nagaland,Non-Veg,Chicken,350,Meal
+Pork and Vegetable Curry,Nagaland,Non-Veg,Pork,350,Meal
+Naga Style Rice and Fish,Nagaland,Non-Veg,Fish,350,Meal
+Vegetable and Pork Soup,Nagaland,Non-Veg,Pork,250,Meal
+Naga Style Spicy Chicken Soup,Nagaland,Non-Veg,Chicken,250,Meal
+Naga Fish and Vegetable Stir Fry,Nagaland,Non-Veg,Fish,300,Meal
+Chicken with Bamboo Shoot Curry,Nagaland,Non-Veg,Chicken,300,Meal
+Spicy Pork with Beans,Nagaland,Non-Veg,Pork,350,Meal
+Naga Style Vegetable Rice,Nagaland,Veg,None,300,Meal
+Pork with Naga Sauce and Beans,Nagaland,Non-Veg,Pork,350,Meal
+Naga Fish with Garlic,Nagaland,Non-Veg,Fish,300,Meal
+Vegetable and Bean Stir Fry,Nagaland,Vegan,Beans,200,Meal
+Pork with Naga Chilies and Rice,Nagaland,Non-Veg,Pork,400,Meal
+Naga Style Chicken Curry,Nagaland,Non-Veg,Chicken,350,Meal
+Spicy Naga Bean Soup,Nagaland,Vegan,Beans,200,Meal
+Pork with Naga Chili Pickle,Nagaland,Non-Veg,Pork,350,Meal
+Naga Style Fish with Vegetables,Nagaland,Non-Veg,Fish,300,Meal
+Chicken with Spicy Naga Herbs,Nagaland,Non-Veg,Chicken,350,Meal
+Pork and Bamboo Shoot Stir Fry,Nagaland,Non-Veg,Pork,350,Meal
+Vegetable Rice Bowl,Nagaland,Veg,None,250,Meal
+Naga Style Spicy Pork Curry,Nagaland,Non-Veg,Pork,400,Meal
+Fish and Bean Stew,Nagaland,Non-Veg,Fish,300,Meal
+Naga Pork with Bamboo Shoot Soup,Nagaland,Non-Veg,Pork,300,Meal
+Vegetable and Pork Stir Fry with Rice,Nagaland,Non-Veg,Pork,350,Meal
+Spicy Naga Pork Soup,Nagaland,Non-Veg,Pork,300,Meal
+Chicken with Naga Beans and Rice,Nagaland,Non-Veg,Chicken,400,Meal
+Naga Style Fish and Vegetable Curry,Nagaland,Non-Veg,Fish,300,Meal
+Pork with Bamboo Shoot and Chili,Nagaland,Non-Veg,Pork,400,Meal
+Vegetable Bean Stew,Nagaland,Vegan,Beans,200,Meal
+Naga Spicy Fish Soup,Nagaland,Non-Veg,Fish,250,Meal
+Pork and Vegetable Rice Stir Fry,Nagaland,Non-Veg,Pork,350,Meal
+Naga Style Chicken and Rice,Nagaland,Non-Veg,Chicken,350,Meal
+Vegetable and Naga Beans Stew,Nagaland,Vegan,Beans,200,Meal
+Spicy Pork with Bamboo Shoots,Nagaland,Non-Veg,Pork,350,Meal
+Naga Style Fish and Rice Bowl,Nagaland,Non-Veg,Fish,300,Meal
+Chicken with Naga Herbs and Rice,Nagaland,Non-Veg,Chicken,400,Meal
+Naga Pork and Vegetable Soup,Nagaland,Non-Veg,Pork,300,Meal
+Spicy Naga Bean Curry,Nagaland,Vegan,Beans,200,Meal
+Pork with Naga Spices and Rice,Nagaland,Non-Veg,Pork,400,Meal
+Naga Style Fish and Bean Soup,Nagaland,Non-Veg,Fish,250,Meal
+Vegetable Stir Fry with Rice,Nagaland,Veg,None,250,Meal
+Pork with Naga Beans and Herbs,Nagaland,Non-Veg,Pork,350,Meal
+Naga Style Spicy Chicken Stew,Nagaland,Non-Veg,Chicken,350,Meal
+Spicy Pork and Vegetable Soup,Nagaland,Non-Veg,Pork,300,Meal
+Naga Style Fish with Bamboo Shoots,Nagaland,Non-Veg,Fish,300,Meal
+Chicken and Bean Stew,Nagaland,Non-Veg,Chicken,300,Meal
+Pork with Naga Rice,Nagaland,Non-Veg,Pork,400,Meal
+Vegetable and Pork Soup with Rice,Nagaland,Non-Veg,Pork,300,Meal
+Naga Style Fish with Herbs,Nagaland,Non-Veg,Fish,300,Meal
+Spicy Naga Pork Stew,Nagaland,Non-Veg,Pork,350,Meal
+Chicken and Vegetable Stir Fry,Nagaland,Non-Veg,Chicken,300,Meal
+Pork with Naga Chili Sauce,Nagaland,Non-Veg,Pork,350,Meal
+Naga Style Fish and Rice Stir Fry,Nagaland,Non-Veg,Fish,300,Meal
+Vegetable Bean Soup with Rice,Nagaland,Vegan,Beans,200,Meal
+Pork with Bamboo Shoot Curry,Nagaland,Non-Veg,Pork,350,Meal
+Naga Style Chicken with Beans,Nagaland,Non-Veg,Chicken,350,Meal
+Spicy Pork and Bean Stew,Nagaland,Non-Veg,Pork,300,Meal
+Naga Style Fish Curry with Rice,Nagaland,Non-Veg,Fish,350,Meal
+Chicken with Spicy Naga Vegetables,Nagaland,Non-Veg,Chicken,350,Meal
+Pork and Naga Bean Stew,Nagaland,Non-Veg,Pork,350,Meal
+Naga Style Fish and Vegetable Stew,Nagaland,Non-Veg,Fish,300,Meal
+Vegetable Stir Fry with Naga Herbs,Nagaland,Veg,None,250,Meal
+Naga Style Chicken and Bean Curry,Nagaland,Non-Veg,Chicken,350,Meal
+Pork with Naga Rice and Beans,Nagaland,Non-Veg,Pork,400,Meal
+Naga Style Fish and Vegetable Curry with Rice,Nagaland,Non-Veg,Fish,350,Meal
+Chicken with Bamboo Shoot Stir Fry,Nagaland,Non-Veg,Chicken,300,Meal
+Pork with Naga Beans and Vegetables,Nagaland,Non-Veg,Pork,350,Meal
+Naga Style Fish and Vegetable Stir Fry,Nagaland,Non-Veg,Fish,300,Meal
+Vegetable Rice Stir Fry with Naga Spices,Nagaland,Veg,None,300,Meal
+Pork with Naga Chili Stew,Nagaland,Non-Veg,Pork,350,Meal
+Naga Style Fish and Pork Stew,Nagaland,Non-Veg,Fish,350,Meal
+Spicy Chicken with Naga Beans,Nagaland,Non-Veg,Chicken,350,Meal
+Pork with Bamboo Shoots and Beans,Nagaland,Non-Veg,Pork,350,Meal
+Naga Style Fish Curry with Vegetables,Nagaland,Non-Veg,Fish,300,Meal
+Vegetable and Naga Bean Curry,Nagaland,Vegan,Beans,200,Meal
+Pork with Naga Chili and Rice,Nagaland,Non-Veg,Pork,350,Meal
+Naga Style Fish and Vegetable Curry with Beans,Nagaland,Non-Veg,Fish,350,Meal
+Chicken with Spicy Naga Beans,Nagaland,Non-Veg,Chicken,350,Meal
+Pork and Naga Bean Curry,Nagaland,Non-Veg,Pork,350,Meal
+Naga Style Spicy Fish Stew,Nagaland,Non-Veg,Fish,350,Meal
+Vegetable and Naga Bean Soup,Nagaland,Vegan,Beans,200,Meal
+Pork with Naga Beans and Rice,Nagaland,Non-Veg,Pork,400,Meal
+Naga Style Fish and Bean Stir Fry,Nagaland,Non-Veg,Fish,350,Meal
+Spicy Chicken and Naga Beans,Nagaland,Non-Veg,Chicken,350,Meal
+Pork with Naga Bean Soup,Nagaland,Non-Veg,Pork,350,Meal
+Naga Style Fish and Rice Curry,Nagaland,Non-Veg,Fish,350,Meal
+Vegetable Stir Fry with Naga Beans,Nagaland,Vegan,Beans,200,Meal
+Pork with Naga Bean Stir Fry,Nagaland,Non-Veg,Pork,350,Meal
+Naga Style Fish and Vegetable Soup,Nagaland,Non-Veg,Fish,300,Meal
+Chicken with Spicy Naga Beans and Rice,Nagaland,Non-Veg,Chicken,350,Meal
+Naga Style Fish Curry with Beans,Nagaland,Non-Veg,Fish,350,Meal
+Vegetable Rice Stir Fry with Naga Herbs,Nagaland,Veg,None,300,Meal
+Pork with Naga Spices and Beans,Nagaland,Non-Veg,Pork,350,Meal
+Naga Style Fish and Bean Curry,Nagaland,Non-Veg,Fish,350,Meal
+Chicken with Naga Spices and Rice,Nagaland,Non-Veg,Chicken,400,Meal
+Pork with Naga Beans and Rice,Nagaland,Non-Veg,Pork,350,Meal
+Naga Style Fish and Vegetable Curry,Nagaland,Non-Veg,Fish,350,Meal
+Bamboo Shoot Curry,Mizoram,Veg,None,200,Meal
+Mizo Chicken Stew,Mizoram,Non-Veg,None,300,Meal
+Mizo Fish Curry,Mizoram,Non-Veg,None,250,Meal
+Vawksa Rep,Mizoram,Non-Veg,None,350,Meal
+Mizo Veg Thali,Mizoram,Veg,None,500,Meal
+Farcha Chicken,Mizoram,Non-Veg,None,400,Meal
+Mizo Pork Stew,Mizoram,Non-Veg,None,350,Meal
+Mizo Pumpkin Curry,Mizoram,Veg,None,180,Meal
+Khaw Hmoo,Mizoram,Non-Veg,None,320,Meal
+Mizo Green Bean Curry,Mizoram,Veg,None,200,Meal
+Mizo Chicken Fried Rice,Mizoram,Non-Veg,None,350,Meal
+Mizo Fish Soup,Mizoram,Non-Veg,None,150,Meal
+Vawksa Bu,Mizoram,Non-Veg,None,400,Meal
+Mizo Pork with Bamboo Shoot,Mizoram,Non-Veg,None,350,Meal
+Mizo Green Leaf Salad,Mizoram,Vegan,None,120,Snack
+Mizo Pumpkin Soup,Mizoram,Veg,None,150,Meal
+Mizo Pork Curry,Mizoram,Non-Veg,None,350,Meal
+Mizo Chicken Gravy,Mizoram,Non-Veg,None,300,Meal
+Mizo Fried Fish,Mizoram,Non-Veg,None,250,Meal
+Mizo Vegetable Soup,Mizoram,Veg,None,100,Meal
+Mizo Chicken Salad,Mizoram,Non-Veg,None,200,Snack
+Mizo Rice Cake,Mizoram,Veg,None,220,Meal
+Mizo Bamboo Shoot Salad,Mizoram,Veg,None,150,Snack
+Mizo Veg Stew,Mizoram,Veg,None,250,Meal
+Mizo Chicken Noodles,Mizoram,Non-Veg,None,350,Meal
+Mizo Pork Noodles,Mizoram,Non-Veg,None,360,Meal
+Mizo Vegetable Fried Rice,Mizoram,Veg,None,300,Meal
+Mizo Pork with Rice,Mizoram,Non-Veg,None,400,Meal
+Mizo Chicken Skewers,Mizoram,Non-Veg,None,250,Meal
+Mizo Egg Curry,Mizoram,Non-Veg,None,280,Meal
+Mizo Vegetable Pakora,Mizoram,Veg,None,350,Meal
+Mizo Grilled Fish,Mizoram,Non-Veg,None,250,Meal
+Mizo Chicken Soup,Mizoram,Non-Veg,None,200,Meal
+Mizo Veg Pakora,Mizoram,Veg,None,300,Meal
+Mizo Bamboo Shoot and Pork Stew,Mizoram,Non-Veg,None,400,Meal
+Mizo Fried Rice with Chicken,Mizoram,Non-Veg,None,350,Meal
+Mizo Green Bean Salad,Mizoram,Vegan,None,180,Snack
+Mizo Pork and Bamboo Shoot Curry,Mizoram,Non-Veg,None,350,Meal
+Mizo Chicken Curry with Rice,Mizoram,Non-Veg,None,400,Meal
+Mizo Veg and Pork Soup,Mizoram,Non-Veg,None,250,Meal
+Mizo Vegetable and Rice,Mizoram,Veg,None,350,Meal
+Mizo Chicken Thukpa,Mizoram,Non-Veg,None,300,Meal
+Mizo Rice with Pork,Mizoram,Non-Veg,None,400,Meal
+Mizo Pork and Vegetable Stir Fry,Mizoram,Non-Veg,None,350,Meal
+Mizo Chicken with Bamboo Shoots,Mizoram,Non-Veg,None,320,Meal
+Mizo Green Leaf Curry,Mizoram,Vegan,None,150,Meal
+Mizo Pork and Vegetable Curry,Mizoram,Non-Veg,None,350,Meal
+Mizo Chicken and Rice,Mizoram,Non-Veg,None,350,Meal
+Mizo Pumpkin and Rice,Mizoram,Veg,None,300,Meal
+Mizo Pork and Bean Stew,Mizoram,Non-Veg,None,350,Meal
+Mizo Fried Fish with Rice,Mizoram,Non-Veg,None,350,Meal
+Mizo Chicken with Vegetables,Mizoram,Non-Veg,None,300,Meal
+Mizo Vegetable Stir Fry,Mizoram,Veg,None,200,Meal
+Mizo Chicken with Rice and Veg,Mizoram,Non-Veg,None,350,Meal
+Mizo Pork and Pumpkin Curry,Mizoram,Non-Veg,None,350,Meal
+Mizo Fried Rice with Veg,Mizoram,Veg,None,300,Meal
+Mizo Chicken and Pumpkin Curry,Mizoram,Non-Veg,None,320,Meal
+Mizo Pork and Potato Curry,Mizoram,Non-Veg,None,350,Meal
+Mizo Vegetable and Chicken Salad,Mizoram,Non-Veg,None,250,Snack
+Mizo Fish and Rice,Mizoram,Non-Veg,None,350,Meal
+Mizo Pork and Green Bean Curry,Mizoram,Non-Veg,None,350,Meal
+Mizo Chicken and Vegetable Soup,Mizoram,Non-Veg,None,250,Meal
+Mizo Fried Pork with Rice,Mizoram,Non-Veg,None,400,Meal
+Mizo Veg and Pork Stir Fry,Mizoram,Non-Veg,None,350,Meal
+Mizo Chicken with Pumpkin,Mizoram,Non-Veg,None,300,Meal
+Mizo Vegetable and Chicken Curry,Mizoram,Non-Veg,None,350,Meal
+Mizo Pork and Vegetable Rice,Mizoram,Non-Veg,None,400,Meal
+Mizo Fried Fish and Veg,Mizoram,Non-Veg,None,300,Meal
+Mizo Green Bean and Pork Stew,Mizoram,Non-Veg,None,350,Meal
+Mizo Chicken with Beans,Mizoram,Non-Veg,None,320,Meal
+Mizo Veg and Pork Noodles,Mizoram,Non-Veg,None,350,Meal
+Mizo Chicken and Green Bean Curry,Mizoram,Non-Veg,None,300,Meal
+Mizo Pork and Veg Soup,Mizoram,Non-Veg,None,250,Meal
+Mizo Chicken and Pumpkin Stew,Mizoram,Non-Veg,None,320,Meal
+Mizo Fried Rice with Chicken and Veg,Mizoram,Non-Veg,None,350,Meal
+Mizo Pork with Rice and Veg,Mizoram,Non-Veg,None,400,Meal
+Mizo Chicken and Bamboo Shoot Soup,Mizoram,Non-Veg,None,250,Meal
+Mizo Green Leaf and Rice Curry,Mizoram,Veg,None,300,Meal
+Mizo Pork and Green Bean Soup,Mizoram,Non-Veg,None,250,Meal
+Mizo Chicken Fried Rice with Veg,Mizoram,Non-Veg,None,350,Meal
+Mizo Pork and Vegetable Fried Rice,Mizoram,Non-Veg,None,350,Meal
+Mizo Veg Curry with Rice,Mizoram,Veg,None,350,Meal
+Mizo Chicken with Bean Stew,Mizoram,Non-Veg,None,300,Meal
+Mizo Pork and Green Bean Stir Fry,Mizoram,Non-Veg,None,350,Meal
+Mizo Chicken and Rice Soup,Mizoram,Non-Veg,None,250,Meal
+Mizo Veg Salad,Mizoram,Vegan,None,120,Snack
+Mizo Pork and Rice Soup,Mizoram,Non-Veg,None,300,Meal
+Mizo Chicken with Pumpkin and Rice,Mizoram,Non-Veg,None,350,Meal
+Mizo Fried Fish with Veg and Rice,Mizoram,Non-Veg,None,350,Meal
+Mizo Vegetable Soup with Rice,Mizoram,Veg,None,300,Meal
+Mizo Pork and Vegetable Stew with Rice,Mizoram,Non-Veg,None,400,Meal
+Mizo Chicken and Bean Curry,Mizoram,Non-Veg,None,300,Meal
+Mizo Fried Rice with Pork and Veg,Mizoram,Non-Veg,None,350,Meal
+Mizo Veg and Chicken Soup,Mizoram,Non-Veg,None,250,Meal
+Mizo Pork and Pumpkin Stew,Mizoram,Non-Veg,None,350,Meal
+Mizo Chicken and Green Bean Stir Fry,Mizoram,Non-Veg,None,320,Meal
+Mizo Veg and Rice Salad,Mizoram,Veg,None,180,Snack
+Mizo Pork with Beans,Mizoram,Non-Veg,None,350,Meal
+Mizo Chicken and Pumpkin Stir Fry,Mizoram,Non-Veg,None,320,Meal
+Mizo Fried Rice with Green Beans,Mizoram,Veg,None,300,Meal
+Mizo Chicken with Veg Soup,Mizoram,Non-Veg,None,250,Meal
+Mizo Pork and Vegetable Salad,Mizoram,Non-Veg,None,250,Snack
+Mizo Vegetable and Chicken Stew,Mizoram,Non-Veg,None,300,Meal
+Mizo Chicken and Green Beans,Mizoram,Non-Veg,None,320,Meal
+Mizo Pork Fried Rice,Mizoram,Non-Veg,None,350,Meal
+Mizo Veg and Chicken Noodles,Mizoram,Non-Veg,None,350,Meal
+Mizo Pork and Rice Salad,Mizoram,Non-Veg,None,300,Snack
+Mizo Chicken with Vegetable Stew,Mizoram,Non-Veg,None,350,Meal
+Mizo Pork and Pumpkin Salad,Mizoram,Non-Veg,None,250,Snack
+Mizo Fried Rice with Pork,Mizoram,Non-Veg,None,350,Meal
+Mizo Chicken and Veg Curry,Mizoram,Non-Veg,None,300,Meal
+Mizo Pork with Veg Soup,Mizoram,Non-Veg,None,250,Meal
+Mizo Chicken with Pumpkin and Veg,Mizoram,Non-Veg,None,320,Meal
+Mizo Fried Fish with Rice and Veg,Mizoram,Non-Veg,None,350,Meal
+Mizo Vegetable Soup with Pork,Mizoram,Non-Veg,None,250,Meal
+Mizo Pork and Rice Curry,Mizoram,Non-Veg,None,350,Meal
+Mizo Chicken and Bean Salad,Mizoram,Non-Veg,None,250,Snack
+Mizo Fried Rice with Veg and Chicken,Mizoram,Non-Veg,None,350,Meal
+Mizo Pork and Vegetable Soup,Mizoram,Non-Veg,None,250,Meal
+Mizo Chicken Stew with Veg,Mizoram,Non-Veg,None,300,Meal
+Mizo Rice with Green Beans,Mizoram,Veg,None,250,Meal
+Mizo Pork and Green Bean Soup,Mizoram,Non-Veg,None,250,Meal
+Mizo Chicken and Veg Salad,Mizoram,Non-Veg,None,250,Snack
+Mizo Veg and Pork Stew,Mizoram,Non-Veg,None,350,Meal
+Mizo Fried Fish and Rice,Mizoram,Non-Veg,None,350,Meal
+Mizo Chicken and Pumpkin Soup,Mizoram,Non-Veg,None,300,Meal
+Mizo Pork Fried Rice with Veg,Mizoram,Non-Veg,None,350,Meal
+Mizo Chicken and Veg Soup,Mizoram,Non-Veg,None,250,Meal
+Mizo Pork with Pumpkin and Veg,Mizoram,Non-Veg,None,350,Meal
+Mizo Fried Rice with Chicken,Mizoram,Non-Veg,None,350,Meal
+Mizo Chicken and Vegetable Salad,Mizoram,Non-Veg,None,250,Snack
+Mizo Pork and Vegetable Curry,Mizoram,Non-Veg,None,350,Meal
+Mizo Chicken with Veg Stew,Mizoram,Non-Veg,None,300,Meal
+Mizo Fried Fish with Beans,Mizoram,Non-Veg,None,300,Meal
+Mizo Vegetable Soup with Pork,Mizoram,Non-Veg,None,250,Meal
+Mizo Pork with Veg and Rice,Mizoram,Non-Veg,None,400,Meal
+Mizo Chicken and Veg Soup,Mizoram,Non-Veg,None,250,Meal
+Mizo Chicken with Beans and Rice,Mizoram,Non-Veg,None,350,Meal
+Mizo Vegetable Salad with Rice,Mizoram,Veg,None,300,Snack
+Mizo Pork and Vegetable Stir Fry,Mizoram,Non-Veg,None,350,Meal
+Mizo Chicken with Veg and Rice,Mizoram,Non-Veg,None,350,Meal
+Mizo Fried Rice with Chicken and Veg,Mizoram,Non-Veg,None,350,Meal
+Mizo Chicken with Veg Curry,Mizoram,Non-Veg,None,300,Meal
+Mizo Vegetable Soup with Chicken,Mizoram,Non-Veg,None,250,Meal
+Mizo Pork and Bean Stew with Rice,Mizoram,Non-Veg,None,400,Meal
+Mizo Chicken with Rice and Veg,Mizoram,Non-Veg,None,350,Meal
+Mizo Vegetable Stir Fry with Rice,Mizoram,Veg,None,300,Meal
+Khar,Meghalaya,Non-Veg,None,200,Meal
+Jadoh,Meghalaya,Non-Veg,None,250,Meal
+Dohneiiong,Meghalaya,Non-Veg,None,300,Meal
+Pumaloi,Meghalaya,Veg,None,180,Meal
+Tungrymbai,Meghalaya,Veg,None,220,Meal
+Khurkhure,Meghalaya,Non-Veg,None,280,Meal
+Momos,Meghalaya,Non-Veg,None,150,Meal
+Bamboo Shoot Curry,Meghalaya,Veg,None,200,Meal
+Vawksa Rep,Meghalaya,Non-Veg,None,350,Meal
+Nakham Bitchi,Meghalaya,Veg,None,170,Meal
+Shillong Pork,Meghalaya,Non-Veg,None,300,Meal
+Khasi Pulao,Meghalaya,Non-Veg,None,260,Meal
+Veg Thali,Meghalaya,Veg,None,350,Meal
+Pork with Bamboo Shoot,Meghalaya,Non-Veg,None,320,Meal
+Raya,Meghalaya,Veg,None,150,Meal
+Sohra Pulao,Meghalaya,Veg,None,230,Meal
+Pork with Black Sesame Seeds,Meghalaya,Non-Veg,None,310,Meal
+Patri,Meghalaya,Veg,None,180,Meal
+Meghalaya Chicken Curry,Meghalaya,Non-Veg,None,290,Meal
+Bamboo Shoot Pickle,Meghalaya,Veg,None,100,Meal
+Riverside Fish Curry,Meghalaya,Non-Veg,None,280,Meal
+Roasted Pork,Meghalaya,Non-Veg,None,350,Meal
+Vegetable Salad,Meghalaya,Veg,None,120,Snack
+Shija,Meghalaya,Veg,None,190,Meal
+Pork and Black Bean Stew,Meghalaya,Non-Veg,None,320,Meal
+Khaman,Meghalaya,Veg,None,150,Meal
+Spicy Pork Salad,Meghalaya,Non-Veg,None,280,Snack
+Mutton Khar,Meghalaya,Non-Veg,None,310,Meal
+Sweet Potato Curry,Meghalaya,Veg,None,200,Meal
+Pork and Potato Stew,Meghalaya,Non-Veg,None,320,Meal
+Rice Cake,Meghalaya,Veg,None,170,Meal
+Duck with Bamboo Shoot,Meghalaya,Non-Veg,None,350,Meal
+Mixed Vegetable Curry,Meghalaya,Veg,None,200,Meal
+Meghalaya Chicken Soup,Meghalaya,Non-Veg,None,250,Meal
+Vegetable Pakora,Meghalaya,Veg,None,150,Meal
+Meghalaya Fish Fry,Meghalaya,Non-Veg,None,280,Meal
+Khar with Pork,Meghalaya,Non-Veg,None,320,Meal
+Vegetable Fried Rice,Meghalaya,Veg,None,250,Meal
+Pork and Bamboo Shoot Curry,Meghalaya,Non-Veg,None,310,Meal
+Masala Rice,Meghalaya,Veg,None,220,Meal
+Duck Curry,Meghalaya,Non-Veg,None,330,Meal
+Bamboo Shoot Soup,Meghalaya,Veg,None,180,Meal
+Pork with Rice,Meghalaya,Non-Veg,None,280,Meal
+Sweet Corn Soup,Meghalaya,Veg,None,150,Meal
+Pork Skewers,Meghalaya,Non-Veg,None,300,Meal
+Ginger Pork,Meghalaya,Non-Veg,None,320,Meal
+Spicy Potato Curry,Meghalaya,Veg,None,200,Meal
+Pork with Tomato Curry,Meghalaya,Non-Veg,None,310,Meal
+Vegetable Stew,Meghalaya,Veg,None,180,Meal
+Pork with Green Chili,Meghalaya,Non-Veg,None,330,Meal
+Pork and Bean Salad,Meghalaya,Non-Veg,None,290,Snack
+Chicken with Bamboo Shoot,Meghalaya,Non-Veg,None,320,Meal
+Spicy Vegetable Soup,Meghalaya,Veg,None,150,Meal
+Meghalaya Fish Curry,Meghalaya,Non-Veg,None,280,Meal
+Pork Khar,Meghalaya,Non-Veg,None,320,Meal
+Cabbage Curry,Meghalaya,Veg,None,180,Meal
+Duck with Black Beans,Meghalaya,Non-Veg,None,350,Meal
+Vegetable Stir-Fry,Meghalaya,Veg,None,200,Meal
+Meghalaya Chicken Salad,Meghalaya,Non-Veg,None,270,Snack
+Pork with Spinach,Meghalaya,Non-Veg,None,320,Meal
+Pumpkin Soup,Meghalaya,Veg,None,170,Meal
+Pork with Peppers,Meghalaya,Non-Veg,None,310,Meal
+Vegetable and Lentil Curry,Meghalaya,Veg,None,200,Meal
+Fish with Tomato Sauce,Meghalaya,Non-Veg,None,250,Meal
+Pork and Potato Salad,Meghalaya,Non-Veg,None,290,Snack
+Vegetable Curry with Rice,Meghalaya,Veg,None,250,Meal
+Duck Curry with Bamboo Shoots,Meghalaya,Non-Veg,None,330,Meal
+Pork with Green Beans,Meghalaya,Non-Veg,None,310,Meal
+Chili Chicken,Meghalaya,Non-Veg,None,290,Meal
+Vegetable Dumplings,Meghalaya,Veg,None,150,Meal
+Pork and Mushroom Curry,Meghalaya,Non-Veg,None,320,Meal
+Fish and Vegetable Stew,Meghalaya,Non-Veg,None,280,Meal
+Spicy Veggie Noodles,Meghalaya,Veg,None,250,Meal
+Pork with Pumpkin,Meghalaya,Non-Veg,None,320,Meal
+Chicken Stew with Veggies,Meghalaya,Non-Veg,None,270,Meal
+Green Bean Salad,Meghalaya,Veg,None,180,Snack
+Pork and Bean Curry,Meghalaya,Non-Veg,None,310,Meal
+Rice and Lentil Soup,Meghalaya,Veg,None,200,Meal
+Pork with Eggplant,Meghalaya,Non-Veg,None,320,Meal
+Spicy Vegetable Stir-fry,Meghalaya,Veg,None,200,Meal
+Meghalaya Mutton Curry,Meghalaya,Non-Veg,None,320,Meal
+Vegetable Pulao,Meghalaya,Veg,None,220,Meal
+Pork with Spinach and Mushrooms,Meghalaya,Non-Veg,None,330,Meal
+Cabbage and Pork Stew,Meghalaya,Non-Veg,None,290,Meal
+Sweet Potato and Pork Curry,Meghalaya,Non-Veg,None,320,Meal
+Vegetable Samosa,Meghalaya,Veg,None,180,Meal
+Duck with Vegetable Curry,Meghalaya,Non-Veg,None,330,Meal
+Pork with Green Beans and Peppers,Meghalaya,Non-Veg,None,310,Meal
+Vegetable Soup with Rice,Meghalaya,Veg,None,200,Meal
+Meghalaya Fish Stew,Meghalaya,Non-Veg,None,270,Meal
+Pork and Green Chili Stew,Meghalaya,Non-Veg,None,330,Meal
+Vegetable and Bean Stew,Meghalaya,Veg,None,200,Meal
+Chicken and Vegetable Curry,Meghalaya,Non-Veg,None,270,Meal
+Spicy Pork and Rice,Meghalaya,Non-Veg,None,320,Meal
+Vegetable Kebab,Meghalaya,Veg,None,150,Meal
+Duck with Bamboo Shoots and Peppers,Meghalaya,Non-Veg,None,350,Meal
+Pork and Sweet Corn Stew,Meghalaya,Non-Veg,None,320,Meal
+Vegetable and Pork Salad,Meghalaya,Non-Veg,None,290,Snack
+Chicken and Bean Stew,Meghalaya,Non-Veg,None,270,Meal
+Pumpkin and Pork Curry,Meghalaya,Non-Veg,None,330,Meal
+Vegetable and Lentil Soup,Meghalaya,Veg,None,200,Meal
+Meghalaya Duck Salad,Meghalaya,Non-Veg,None,290,Snack
+Pork with Mixed Vegetables,Meghalaya,Non-Veg,None,320,Meal
+Vegetable Fried Rice with Nuts,Meghalaya,Veg,Nuts,250,Meal
+Duck Curry with Potatoes,Meghalaya,Non-Veg,None,340,Meal
+Chicken Curry with Vegetables,Meghalaya,Non-Veg,None,270,Meal
+Vegetable and Pork Stir-fry,Meghalaya,Non-Veg,None,290,Meal
+Sweet Potato and Vegetable Curry,Meghalaya,Veg,None,220,Meal
+Pork and Eggplant Stir-fry,Meghalaya,Non-Veg,None,320,Meal
+Duck with Tomato Curry,Meghalaya,Non-Veg,None,340,Meal
+Vegetable and Chicken Soup,Meghalaya,Non-Veg,None,250,Meal
+Pork and Bean Salad,Meghalaya,Non-Veg,None,280,Snack
+Vegetable Curry with Pork,Meghalaya,Non-Veg,None,320,Meal
+Duck and Vegetable Stew,Meghalaya,Non-Veg,None,340,Meal
+Pork and Cabbage Stir-fry,Meghalaya,Non-Veg,None,310,Meal
+Vegetable Curry with Sweet Potato,Meghalaya,Veg,None,220,Meal
+Pork with Carrots and Beans,Meghalaya,Non-Veg,None,320,Meal
+Vegetable and Duck Salad,Meghalaya,Non-Veg,None,290,Snack
+Spicy Pork and Rice Soup,Meghalaya,Non-Veg,None,310,Meal
+Sweet Potato and Pork Stew,Meghalaya,Non-Veg,None,330,Meal
+Pork with Mushrooms and Beans,Meghalaya,Non-Veg,None,310,Meal
+Vegetable and Chicken Salad,Meghalaya,Non-Veg,None,270,Snack
+Pork and Pumpkin Curry,Meghalaya,Non-Veg,None,330,Meal
+Vegetable Soup with Beans,Meghalaya,Veg,None,200,Meal
+Duck Curry with Spinach,Meghalaya,Non-Veg,None,340,Meal
+Pork and Potato Stir-fry,Meghalaya,Non-Veg,None,320,Meal
+Vegetable Pulao with Nuts,Meghalaya,Veg,Nuts,250,Meal
+Duck with Beans and Peppers,Meghalaya,Non-Veg,None,340,Meal
+Pork and Sweet Potato Stew,Meghalaya,Non-Veg,None,320,Meal
+Vegetable Stir-fry with Pork,Meghalaya,Non-Veg,None,310,Meal
+Chicken and Cabbage Curry,Meghalaya,Non-Veg,None,270,Meal
+Pork with Cauliflower,Meghalaya,Non-Veg,None,310,Meal
+Vegetable Curry with Peanuts,Meghalaya,Veg,Peanuts,220,Meal
+Duck and Potato Stew,Meghalaya,Non-Veg,None,340,Meal
+Pork and Carrot Stir-fry,Meghalaya,Non-Veg,None,310,Meal
+Vegetable and Bean Curry,Meghalaya,Veg,None,200,Meal
+Chicken and Mushroom Curry,Meghalaya,Non-Veg,None,270,Meal
+Pork with Spinach and Peppers,Meghalaya,Non-Veg,None,320,Meal
+Vegetable and Mushroom Soup,Meghalaya,Veg,None,200,Meal
+Duck with Pumpkin and Beans,Meghalaya,Non-Veg,None,350,Meal
+Pork with Beans and Peppers,Meghalaya,Non-Veg,None,310,Meal
+Vegetable and Sweet Corn Salad,Meghalaya,Veg,None,200,Snack
+Pork and Green Beans Stew,Meghalaya,Non-Veg,None,320,Meal
+Vegetable and Chicken Stir-fry,Meghalaya,Non-Veg,None,290,Meal
+Pork with Bean Curry,Meghalaya,Non-Veg,None,310,Meal
+Vegetable Curry with Chicken,Meghalaya,Non-Veg,None,270,Meal
+Pork and Carrot Curry,Meghalaya,Non-Veg,None,310,Meal
+Vegetable and Eggplant Curry,Meghalaya,Veg,None,200,Meal
+Duck with Sweet Potato and Beans,Meghalaya,Non-Veg,None,340,Meal
+Pork and Mushroom Salad,Meghalaya,Non-Veg,None,290,Snack
+Vegetable Soup with Peanuts,Meghalaya,Veg,Peanuts,220,Meal
+Pork and Vegetable Curry,Meghalaya,Non-Veg,None,320,Meal
+Chicken Curry with Beans,Meghalaya,Non-Veg,None,270,Meal
+Vegetable and Duck Stir-fry,Meghalaya,Non-Veg,None,290,Meal
+Pork and Carrot Salad,Meghalaya,Non-Veg,None,310,Snack
+Vegetable and Pork Stir-fry,Meghalaya,Non-Veg,None,310,Meal
+Pork and Vegetable Salad,Meghalaya,Non-Veg,None,290,Snack
+Duck with Mushroom and Peppers,Meghalaya,Non-Veg,None,340,Meal
+Vegetable and Bean Soup,Meghalaya,Veg,None,200,Meal
+Pork and Cabbage Salad,Meghalaya,Non-Veg,None,290,Snack
+Vegetable and Pork Soup,Meghalaya,Non-Veg,None,320,Meal
+Chicken and Vegetable Salad,Meghalaya,Non-Veg,None,270,Snack
+Pork with Beans and Mushrooms,Meghalaya,Non-Veg,None,310,Meal
+Pork and Bean Curry,Meghalaya,Non-Veg,None,320,Meal
+Duck with Green Beans,Meghalaya,Non-Veg,None,340,Meal
+Vegetable Soup with Sweet Corn,Meghalaya,Veg,None,200,Meal
+Pork with Mushrooms and Spinach,Meghalaya,Non-Veg,None,320,Meal
+Vegetable and Bean Curry,Meghalaya,Veg,None,200,Meal
+Pork and Peppers Curry,Meghalaya,Non-Veg,None,310,Meal
+Vegetable Stir-fry with Chicken,Meghalaya,Non-Veg,None,290,Meal
+Pork with Green Chili Curry,Meghalaya,Non-Veg,None,320,Meal
+Vegetable and Sweet Corn Soup,Meghalaya,Veg,None,200,Meal
+Pork with Spinach and Mushrooms,Meghalaya,Non-Veg,None,320,Meal
+Pork with Sweet Potato and Peppers,Meghalaya,Non-Veg,None,320,Meal
+Vegetable and Mushroom Salad,Meghalaya,Veg,None,200,Snack
+Duck with Green Chili and Beans,Meghalaya,Non-Veg,None,340,Meal
+Vegetable Curry with Carrots,Meghalaya,Veg,None,220,Meal
+Pork and Sweet Corn Curry,Meghalaya,Non-Veg,None,320,Meal
+Vegetable and Carrot Salad,Meghalaya,Veg,None,200,Snack
+Pork with Spinach and Mushrooms,Meghalaya,Non-Veg,None,320,Meal
+Vegetable and Bean Curry,Meghalaya,Veg,None,200,Meal
+Duck with Peanuts and Beans,Meghalaya,Non-Veg,Peanuts,340,Meal
+Pork and Sweet Potato Soup,Meghalaya,Non-Veg,None,320,Meal
+Pork with Peanuts and Beans,Meghalaya,Non-Veg,Peanuts,320,Meal
+Vegetable and Duck Soup,Meghalaya,Non-Veg,None,250,Meal
+Pork with Peanuts and Mushrooms,Meghalaya,Non-Veg,Peanuts,320,Meal
+Vegetable Stir-fry with Mushrooms,Meghalaya,Veg,None,200,Meal
+Pork with Green Beans and Peanuts,Meghalaya,Non-Veg,Peanuts,320,Meal
+Pork with Sweet Potato and Beans,Meghalaya,Non-Veg,None,320,Meal
+Vegetable and Duck Salad,Meghalaya,Non-Veg,None,290,Snack
+Pork and Mushroom Stir-fry,Meghalaya,Non-Veg,None,320,Meal
+Vegetable Curry with Sweet Corn,Meghalaya,Veg,None,200,Meal
+Pork and Bean Stir-fry,Meghalaya,Non-Veg,None,320,Meal
+Vegetable and Duck Stir-fry,Meghalaya,Non-Veg,None,290,Meal
+Pork and Carrot Stir-fry,Meghalaya,Non-Veg,None,320,Meal
+Vegetable Curry with Beans,Meghalaya,Veg,None,200,Meal
+Pork with Mushrooms and Peanuts,Meghalaya,Non-Veg,Peanuts,320,Meal
+Pork and Duck Curry,Meghalaya,Non-Veg,None,330,Meal
+Vegetable and Chicken Salad,Meghalaya,Non-Veg,None,270,Snack
+Vegetable and Mushroom Stir-fry,Meghalaya,Veg,None,200,Meal
+Eromba,Manipur,Veg,None,200,Meal
+Shingju,Manipur,Veg,None,150,Meal
+Okhomri,Manipur,Veg,None,180,Meal
+Nga-Thongba,Manipur,Non-Veg,None,250,Meal
+Kangshoi,Manipur,Veg,None,190,Meal
+Chamthong,Manipur,Veg,None,210,Meal
+Mithuna,Manipur,Non-Veg,None,280,Meal
+Pakora,Manipur,Veg,None,250,Meal
+Thukpa,Manipur,Non-Veg,None,350,Meal
+Kangshoi with Fish,Manipur,Non-Veg,None,300,Meal
+Macher Jhol,Manipur,Non-Veg,None,320,Meal
+Steamed Fish,Manipur,Non-Veg,None,200,Meal
+Fish Curry,Manipur,Non-Veg,None,350,Meal
+Naga Stew,Manipur,Non-Veg,None,320,Meal
+Vegetable Khichdi,Manipur,Veg,None,230,Meal
+Pork with Bamboo Shoot,Manipur,Non-Veg,None,350,Meal
+Bamboo Shoot Salad,Manipur,Veg,None,150,Snack
+Eroomba with Fish,Manipur,Non-Veg,None,320,Meal
+Chakhao Kheer,Manipur,Veg,None,350,Meal
+Sana Thongba,Manipur,Veg,None,180,Meal
+Aloo Ngari,Manipur,Veg,None,220,Meal
+Hawaijar,Manipur,Non-Veg,None,300,Meal
+Khao Yum,Manipur,Veg,None,200,Meal
+Chakhao,Manipur,Veg,None,220,Meal
+Nungshiba,Manipur,Veg,None,210,Meal
+Pawnbut,Manipur,Veg,None,200,Meal
+Angouba,Manipur,Veg,None,180,Meal
+Sani Kangshoi,Manipur,Veg,None,190,Meal
+Mritsang,Manipur,Non-Veg,None,300,Meal
+Lai Phadei,Manipur,Veg,None,210,Meal
+Pungshing,Manipur,Non-Veg,None,320,Meal
+Bamboo Shoot Soup,Manipur,Veg,None,160,Meal
+Meeyam,Manipur,Veg,None,190,Meal
+Bara,Manipur,Veg,None,220,Meal
+Nungshiba with Fish,Manipur,Non-Veg,None,320,Meal
+Mingkhat,Manipur,Non-Veg,None,310,Meal
+Sana Makhong,Manipur,Veg,None,180,Meal
+Yongcha,Manipur,Veg,None,200,Meal
+Saba,Manipur,Non-Veg,None,290,Meal
+Thangjing,Manipur,Non-Veg,None,320,Meal
+Aloo Kangshoi,Manipur,Veg,None,230,Meal
+Cha Thongba,Manipur,Non-Veg,None,320,Meal
+Kangshoi with Pork,Manipur,Non-Veg,None,350,Meal
+Peshawari Paneer,Manipur,Veg,None,250,Meal
+Chamthong with Fish,Manipur,Non-Veg,None,340,Meal
+Bamboo Shoot Curry,Manipur,Veg,None,220,Meal
+Tungba,Manipur,Non-Veg,None,300,Meal
+Mumlik,Manipur,Non-Veg,None,310,Meal
+Thangjing with Pork,Manipur,Non-Veg,None,320,Meal
+Sungthang,Manipur,Veg,None,190,Meal
+Kangshoi with Beef,Manipur,Non-Veg,None,330,Meal
+Naga Chicken,Manipur,Non-Veg,None,310,Meal
+Eromba with Pork,Manipur,Non-Veg,None,320,Meal
+Khao Thek,Manipur,Veg,None,200,Meal
+Eromba with Beef,Manipur,Non-Veg,None,330,Meal
+Hawaijar with Fish,Manipur,Non-Veg,None,320,Meal
+Kangshoi with Chicken,Manipur,Non-Veg,None,340,Meal
+Chakhao with Fish,Manipur,Non-Veg,None,320,Meal
+Eroomba with Mutton,Manipur,Non-Veg,None,340,Meal
+Saba with Bamboo Shoot,Manipur,Non-Veg,None,310,Meal
+Aloo Makhong,Manipur,Veg,None,220,Meal
+Mumlik with Pork,Manipur,Non-Veg,None,320,Meal
+Eromba with Chicken,Manipur,Non-Veg,None,330,Meal
+Cha Thongba with Pork,Manipur,Non-Veg,None,340,Meal
+Kangshoi with Mutton,Manipur,Non-Veg,None,350,Meal
+Steamed Pork,Manipur,Non-Veg,None,290,Meal
+Macher Jhol with Bamboo Shoot,Manipur,Non-Veg,None,340,Meal
+Eromba with Bamboo Shoot,Manipur,Non-Veg,None,320,Meal
+Kangshoi with Pork and Bamboo Shoot,Manipur,Non-Veg,None,340,Meal
+Thukpa with Chicken,Manipur,Non-Veg,None,340,Meal
+Bamboo Shoot Khichdi,Manipur,Veg,None,240,Meal
+Bamboo Shoot Salad with Fish,Manipur,Non-Veg,None,250,Snack
+Saba with Fish,Manipur,Non-Veg,None,310,Meal
+Mithuna with Pork,Manipur,Non-Veg,None,330,Meal
+Mithuna with Mutton,Manipur,Non-Veg,None,340,Meal
+Steamed Fish with Bamboo Shoot,Manipur,Non-Veg,None,290,Meal
+Pakora with Fish,Manipur,Non-Veg,None,270,Meal
+Peshawari Paneer with Chicken,Manipur,Non-Veg,None,260,Meal
+Kangshoi with Beef and Bamboo Shoot,Manipur,Non-Veg,None,350,Meal
+Khao Yum with Fish,Manipur,Non-Veg,None,280,Meal
+Pakora with Chicken,Manipur,Non-Veg,None,280,Meal
+Pawnbut with Pork,Manipur,Non-Veg,None,330,Meal
+Kangshoi with Fish and Bamboo Shoot,Manipur,Non-Veg,None,340,Meal
+Macher Jhol with Pork,Manipur,Non-Veg,None,320,Meal
+Saba with Chicken,Manipur,Non-Veg,None,310,Meal
+Chamthong with Pork,Manipur,Non-Veg,None,330,Meal
+Mithuna with Fish,Manipur,Non-Veg,None,320,Meal
+Eromba with Chicken and Bamboo Shoot,Manipur,Non-Veg,None,330,Meal
+Nungshiba with Fish,Manipur,Non-Veg,None,320,Meal
+Mumlik with Fish,Manipur,Non-Veg,None,310,Meal
+Kangshoi with Pork and Chicken,Manipur,Non-Veg,None,340,Meal
+Mithuna with Beef,Manipur,Non-Veg,None,330,Meal
+Saba with Mutton,Manipur,Non-Veg,None,320,Meal
+Thangjing with Fish,Manipur,Non-Veg,None,320,Meal
+Steamed Fish with Chicken,Manipur,Non-Veg,None,290,Meal
+Eromba with Mutton and Bamboo Shoot,Manipur,Non-Veg,None,340,Meal
+Pakora with Mutton,Manipur,Non-Veg,None,290,Meal
+Chamthong with Beef,Manipur,Non-Veg,None,340,Meal
+Mithuna with Chicken and Bamboo Shoot,Manipur,Non-Veg,None,330,Meal
+Kangshoi with Mutton and Bamboo Shoot,Manipur,Non-Veg,None,350,Meal
+Steamed Pork with Fish,Manipur,Non-Veg,None,300,Meal
+Mithuna with Pork and Bamboo Shoot,Manipur,Non-Veg,None,340,Meal
+Pakora with Beef,Manipur,Non-Veg,None,280,Meal
+Eromba with Fish and Chicken,Manipur,Non-Veg,None,330,Meal
+Saba with Pork,Manipur,Non-Veg,None,320,Meal
+Nungshiba with Pork,Manipur,Non-Veg,None,320,Meal
+"Kangshoi with Fish, Chicken, and Bamboo Shoot",Manipur,Non-Veg,None,350,Meal
+Mithuna with Pork and Mutton,Manipur,Non-Veg,None,340,Meal
+Thukpa with Beef,Manipur,Non-Veg,None,350,Meal
+Khao Yum with Chicken,Manipur,Non-Veg,None,300,Meal
+Bamboo Shoot Soup with Fish,Manipur,Non-Veg,None,250,Meal
+Eromba with Pork and Chicken,Manipur,Non-Veg,None,330,Meal
+Kangshoi with Fish and Pork,Manipur,Non-Veg,None,340,Meal
+Saba with Fish and Mutton,Manipur,Non-Veg,None,330,Meal
+Pakora with Chicken and Bamboo Shoot,Manipur,Non-Veg,None,290,Meal
+Chamthong with Mutton,Manipur,Non-Veg,None,340,Meal
+Eromba with Mutton and Fish,Manipur,Non-Veg,None,350,Meal
+"Kangshoi with Chicken, Fish, and Bamboo Shoot",Manipur,Non-Veg,None,350,Meal
+Thukpa with Mutton,Manipur,Non-Veg,None,340,Meal
+Mithuna with Chicken and Mutton,Manipur,Non-Veg,None,350,Meal
+Saba with Pork and Bamboo Shoot,Manipur,Non-Veg,None,320,Meal
+"Kangshoi with Pork, Fish, and Mutton",Manipur,Non-Veg,None,360,Meal
+Eromba with Chicken and Pork,Manipur,Non-Veg,None,330,Meal
+Mithuna with Beef and Chicken,Manipur,Non-Veg,None,340,Meal
+Saba with Chicken and Bamboo Shoot,Manipur,Non-Veg,None,320,Meal
+Bamboo Shoot Khichdi with Mutton,Manipur,Non-Veg,None,340,Meal
+Thukpa with Fish and Pork,Manipur,Non-Veg,None,340,Meal
+Saba with Mutton and Bamboo Shoot,Manipur,Non-Veg,None,340,Meal
+Kangshoi with Beef and Chicken,Manipur,Non-Veg,None,350,Meal
+"Eromba with Fish, Mutton, and Chicken",Manipur,Non-Veg,None,360,Meal
+Pakora with Mutton and Chicken,Manipur,Non-Veg,None,300,Meal
+Nungshiba with Chicken and Pork,Manipur,Non-Veg,None,320,Meal
+"Kangshoi with Chicken, Mutton, and Bamboo Shoot",Manipur,Non-Veg,None,360,Meal
+"Saba with Fish, Pork, and Mutton",Manipur,Non-Veg,None,340,Meal
+Khao Yum with Beef,Manipur,Non-Veg,None,320,Meal
+Eromba with Chicken and Fish,Manipur,Non-Veg,None,330,Meal
+Mumlik with Mutton,Manipur,Non-Veg,None,320,Meal
+"Kangshoi with Pork, Chicken, and Bamboo Shoot",Manipur,Non-Veg,None,350,Meal
+Pakora with Fish and Mutton,Manipur,Non-Veg,None,290,Meal
+"Eromba with Pork, Chicken, and Mutton",Manipur,Non-Veg,None,350,Meal
+"Kangshoi with Mutton, Fish, and Bamboo Shoot",Manipur,Non-Veg,None,360,Meal
+"Saba with Chicken, Pork, and Mutton",Manipur,Non-Veg,None,350,Meal
+Bamboo Shoot Khichdi with Pork,Manipur,Non-Veg,None,320,Meal
+"Pakora with Fish, Chicken, and Mutton",Manipur,Non-Veg,None,300,Meal
+"Saba with Fish, Chicken, and Mutton",Manipur,Non-Veg,None,340,Meal
+"Eromba with Chicken, Pork, and Mutton",Manipur,Non-Veg,None,350,Meal
+"Kangshoi with Pork, Chicken, Mutton, and Bamboo Shoot",Manipur,Non-Veg,None,370,Meal
+"Mithuna with Pork, Fish, and Mutton",Manipur,Non-Veg,None,360,Meal
+"Thukpa with Fish, Pork, and Chicken",Manipur,Non-Veg,None,350,Meal
+"Saba with Fish, Chicken, Pork, and Mutton",Manipur,Non-Veg,None,360,Meal
+"Kangshoi with Pork, Chicken, Mutton, Fish, and Bamboo Shoot",Manipur,Non-Veg,None,380,Meal
+"Eromba with Fish, Chicken, Mutton, and Pork",Manipur,Non-Veg,None,370,Meal
+Puran Poli,Maharashtra,Veg,"Nuts, Dairy",400,Meal
+Vada Pav,Maharashtra,Veg,Gluten,300,Meal
+Misal Pav,Maharashtra,Veg,Gluten,450,Meal
+Pithla Bhakri,Maharashtra,Veg,None,350,Meal
+Kanda Bhaji,Maharashtra,Veg,None,250,Meal
+Sabudana Khichdi,Maharashtra,Veg,Nuts,300,Meal
+Kolhapuri Misal,Maharashtra,Veg,Gluten,500,Meal
+Bombay Sandwich,Maharashtra,Veg,Gluten,350,Meal
+Batata Vada,Maharashtra,Veg,Gluten,350,Meal
+Dahi Puri,Maharashtra,Veg,Dairy,300,Meal
+Kothimbir Vadi,Maharashtra,Veg,None,250,Meal
+Pithla,Maharashtra,Veg,None,300,Meal
+Thalipeeth,Maharashtra,Veg,Gluten,400,Meal
+Sheera,Maharashtra,Veg,Dairy,350,Meal
+Kharas,Maharashtra,Veg,None,200,Meal
+Chole Bhature,Maharashtra,Veg,Gluten,500,Meal
+Rawa Upma,Maharashtra,Veg,Gluten,300,Breakfast
+Dosa,Maharashtra,Veg,Gluten,250,Breakfast
+Idli,Maharashtra,Veg,Gluten,200,Breakfast
+Pav Bhaji,Maharashtra,Veg,Gluten,400,Meal
+Bhakri,Maharashtra,Veg,Gluten,350,Meal
+Sabudana Wada,Maharashtra,Veg,Nuts,350,Meal
+Aloo Paratha,Maharashtra,Veg,Gluten,400,Breakfast
+Ragda Pattice,Maharashtra,Veg,None,400,Meal
+Jowar Bhakri,Maharashtra,Veg,None,300,Meal
+Paneer Bhurji,Maharashtra,Veg,Dairy,350,Meal
+Veg Biryani,Maharashtra,Veg,None,450,Meal
+Kadhi,Maharashtra,Veg,Dairy,250,Meal
+Prawn Koliwada,Maharashtra,Non-Veg,Seafood,400,Meal
+Bombil Fry,Maharashtra,Non-Veg,Seafood,300,Meal
+Kothimbir Wadi,Maharashtra,Veg,None,250,Meal
+Paneer Tikka,Maharashtra,Veg,Dairy,350,Meal
+Kacchi Dabeli,Maharashtra,Veg,Gluten,350,Meal
+Methi Thepla,Maharashtra,Veg,Gluten,300,Meal
+Misal,Maharashtra,Veg,Gluten,400,Meal
+Aloo Pulao,Maharashtra,Veg,None,350,Meal
+Goan Prawn Curry,Maharashtra,Non-Veg,Seafood,500,Meal
+Shreekhand,Maharashtra,Veg,Dairy,250,Meal
+Kachori,Maharashtra,Veg,Gluten,400,Meal
+Aloo Chaat,Maharashtra,Veg,None,300,Meal
+Dal Tadka,Maharashtra,Veg,None,350,Meal
+Chana Masala,Maharashtra,Veg,None,400,Meal
+Paya Soup,Maharashtra,Non-Veg,Meat,350,Meal
+Khatta Meetha,Maharashtra,Veg,None,250,Meal
+Kaju Katli,Maharashtra,Veg,Nuts,500,Meal
+Gulab Jamun,Maharashtra,Veg,Dairy,450,Meal
+Vegetable Pulav,Maharashtra,Veg,None,400,Meal
+Onion Pakoda,Maharashtra,Veg,Gluten,350,Meal
+Rajma Chawal,Maharashtra,Veg,None,450,Meal
+Amti,Maharashtra,Veg,None,300,Meal
+Poha,Maharashtra,Veg,None,300,Breakfast
+Samosa,Maharashtra,Veg,Gluten,400,Meal
+Bhendi Masala,Maharashtra,Veg,None,250,Meal
+Dahi Kebab,Maharashtra,Veg,Dairy,350,Meal
+Alu Vadi,Maharashtra,Veg,None,300,Meal
+Batata Wada,Maharashtra,Veg,Gluten,350,Meal
+Maharashtrian Thali,Maharashtra,Veg,None,600,Meal
+Chappal,Maharashtra,Veg,None,250,Meal
+Dosa,Maharashtra,Veg,Gluten,250,Breakfast
+Vegetable Khichdi,Maharashtra,Veg,None,400,Meal
+Khandvi,Maharashtra,Veg,Dairy,250,Meal
+Sukha Bhel,Maharashtra,Veg,None,300,Meal
+Dal Khichdi,Maharashtra,Veg,None,350,Meal
+Chole Masala,Maharashtra,Veg,None,400,Meal
+Poha,Madhya Pradesh,veg,none,220,Breakfast
+Bhutte Ka Kees,Madhya Pradesh,veg,dairy,250,Meal
+Murg Malai Tikka,Madhya Pradesh,non-veg,dairy,300,Meal
+Daal Bafla,Madhya Pradesh,veg,none,350,Meal
+Rajma Pulao,Madhya Pradesh,veg,none,280,Meal
+Chana Dal,Madhya Pradesh,veg,none,220,Meal
+Chole Biryani,Madhya Pradesh,veg,none,320,Meal
+Methi Thepla,Madhya Pradesh,veg,gluten,230,Meal
+Paneer Korma,Madhya Pradesh,veg,dairy,320,Meal
+Methi Malai Chicken,Madhya Pradesh,non-veg,dairy,350,Meal
+Gatta Curry,Madhya Pradesh,veg,none,350,Meal
+Palak Paneer,Madhya Pradesh,veg,dairy,300,Meal
+Murg Tikka,Madhya Pradesh,non-veg,none,300,Meal
+Chole Chaat,Madhya Pradesh,veg,gluten,270,Meal
+Rajma Tikki,Madhya Pradesh,veg,gluten,250,Meal
+Chana Samosa,Madhya Pradesh,veg,gluten,220,Meal
+Daal Tadka,Madhya Pradesh,veg,none,250,Meal
+Rajma Kachori,Madhya Pradesh,veg,gluten,250,Meal
+Palak Chole,Madhya Pradesh,veg,none,250,Meal
+Kachori Sabzi,Madhya Pradesh,veg,gluten,300,Meal
+Paneer Tikka,Madhya Pradesh,veg,dairy,280,Meal
+Aloo Methi Paratha,Madhya Pradesh,veg,gluten,270,Breakfast
+Methi Thepla,Madhya Pradesh,veg,gluten,220,Meal
+Tuna Curry,Lakshadweep,Non-Veg,"Fish, Coconut",350,Meal
+Masoon Pollichathu,Lakshadweep,Non-Veg,"Fish, Coconut, Spices",400,Meal
+Parotta with Chicken Curry,Lakshadweep,Non-Veg,"Gluten, Dairy",550,Meal
+Fried Fish,Lakshadweep,Non-Veg,"Fish, Spices",450,Meal
+Coconut Rice,Lakshadweep,Veg,Coconut,300,Meal
+Tuna Biryani,Lakshadweep,Non-Veg,"Fish, Gluten",500,Meal
+Octopus Fry,Lakshadweep,Non-Veg,"Seafood, Spices",400,Meal
+Prawn Curry,Lakshadweep,Non-Veg,Shellfish,350,Meal
+Breadfruit Curry,Lakshadweep,Veg,Coconut,280,Snack
+Tapioca and Fish Curry,Lakshadweep,Non-Veg,"Fish, Tapioca",450,Meal
+Malabar Chicken Curry,Lakshadweep,Non-Veg,"Chicken, Coconut",500,Meal
+Coconut Ladoo,Lakshadweep,Veg,"Coconut, Dairy",250,Meal
+Banana Fry,Lakshadweep,Veg,"Banana, Gluten",200,Meal
+Fish Roe Fry,Lakshadweep,Non-Veg,Fish,420,Meal
+Crab Curry,Lakshadweep,Non-Veg,"Shellfish, Coconut",480,Meal
+Coconut Pulao,Lakshadweep,Veg,Coconut,300,Meal
+Breadfruit Chips,Lakshadweep,Veg,Breadfruit,150,Snack
+Tapioca Fry,Lakshadweep,Veg,Tapioca,200,Meal
+Fish Cutlet,Lakshadweep,Non-Veg,"Fish, Gluten",320,Meal
+Coconut Barfi,Lakshadweep,Veg,"Coconut, Dairy",270,Meal
+Prawn Fry,Lakshadweep,Non-Veg,Shellfish,370,Meal
+Spicy Fish Curry,Lakshadweep,Non-Veg,"Fish, Spices",360,Meal
+Tuna Fry,Lakshadweep,Non-Veg,Fish,400,Meal
+Chicken Stew,Lakshadweep,Non-Veg,"Chicken, Coconut",350,Meal
+Squid Roast,Lakshadweep,Non-Veg,Seafood,380,Meal
+Breadfruit Fry,Lakshadweep,Veg,Breadfruit,180,Snack
+Chilly Fish,Lakshadweep,Non-Veg,"Fish, Spices",450,Meal
+Kerala Parotta,Lakshadweep,Veg,Gluten,350,Meal
+Coconut Milk Curry,Lakshadweep,Veg,Coconut,300,Meal
+Tapioca with Chutney,Lakshadweep,Veg,Tapioca,250,Meal
+Coconut Halwa,Lakshadweep,Veg,"Coconut, Dairy",350,Meal
+Fish Biryani,Lakshadweep,Non-Veg,"Fish, Gluten",500,Meal
+Seafood Stew,Lakshadweep,Non-Veg,Seafood,420,Meal
+Fried Prawns,Lakshadweep,Non-Veg,Shellfish,390,Meal
+Octopus Curry,Lakshadweep,Non-Veg,Seafood,370,Meal
+Breadfruit Stew,Lakshadweep,Veg,Breadfruit,260,Snack
+Fish Pickle,Lakshadweep,Non-Veg,Fish,150,Meal
+Coconut Chutney,Lakshadweep,Veg,Coconut,100,Meal
+Mutton Curry,Lakshadweep,Non-Veg,Mutton,550,Meal
+Sweet Coconut Rice,Lakshadweep,Veg,Coconut,320,Meal
+Banana Pudding,Lakshadweep,Veg,"Banana, Dairy",250,Meal
+Clam Fry,Lakshadweep,Non-Veg,Shellfish,420,Meal
+Tapioca and Prawn Curry,Lakshadweep,Non-Veg,"Shellfish, Tapioca",450,Meal
+Egg Curry,Lakshadweep,Non-Veg,Eggs,350,Meal
+Squid Fry,Lakshadweep,Non-Veg,Seafood,400,Meal
+Breadfruit Pakora,Lakshadweep,Veg,"Breadfruit, Gluten",220,Snack
+Prawn Roast,Lakshadweep,Non-Veg,Shellfish,390,Meal
+Chicken Fry,Lakshadweep,Non-Veg,Chicken,450,Meal
+Fish Soup,Lakshadweep,Non-Veg,Fish,200,Meal
+Breadfruit Soup,Lakshadweep,Veg,Breadfruit,180,Snack
+Coconut Banana Smoothie,Lakshadweep,Vegan,"Coconut, Banana",200,Meal
+Fish Curry with Rice,Lakshadweep,Non-Veg,Fish,500,Meal
+Tuna Fish Stew,Lakshadweep,Non-Veg,"Fish, Coconut",400,Meal
+Crab Roast,Lakshadweep,Non-Veg,Shellfish,480,Meal
+Thukpa,Ladakh,Non-Veg,Gluten,320,Meal
+Skyu,Ladakh,Veg,Gluten,250,Meal
+Chhurpi Soup,Ladakh,Veg,Dairy,210,Meal
+Momos,Ladakh,Non-Veg,Gluten,290,Meal
+Chhang (Barley Beer),Ladakh,Vegan,Gluten,180,Meal
+Tingmo,Ladakh,Veg,Gluten,190,Meal
+Khambir,Ladakh,Vegan,Gluten,250,Meal
+Paba,Ladakh,Vegan,Gluten,220,Meal
+Butter Tea,Ladakh,Veg,Dairy,150,Meal
+Thenthuk,Ladakh,Non-Veg,Gluten,310,Meal
+Chhutagi,Ladakh,Non-Veg,Gluten,280,Meal
+Phirni,Ladakh,Veg,"Dairy, Nuts",210,Meal
+Rgi Tsos,Ladakh,Vegan,None,260,Meal
+Tapu,Ladakh,Vegan,Gluten,200,Meal
+Gur Gur Cha,Ladakh,Veg,Dairy,130,Meal
+Zan,Ladakh,Vegan,Gluten,240,Meal
+Yak Meat Stew,Ladakh,Non-Veg,None,350,Meal
+Paba with Tangtur,Ladakh,Vegan,Gluten,280,Meal
+Kholak,Ladakh,Vegan,Gluten,230,Meal
+Chhaang Paa,Ladakh,Vegan,Gluten,210,Meal
+Tsampa,Ladakh,Vegan,Gluten,220,Meal
+Shapta,Ladakh,Non-Veg,Gluten,360,Meal
+Keu,Ladakh,Vegan,Gluten,240,Meal
+Tagi Khambir,Ladakh,Vegan,Gluten,270,Meal
+Gyathuk,Ladakh,Non-Veg,Gluten,320,Meal
+Chhurpey,Ladakh,Veg,Dairy,210,Meal
+Chilagi,Ladakh,Non-Veg,None,290,Meal
+Ladakhi Pulao,Ladakh,Veg,Gluten,280,Meal
+Chhutkur,Ladakh,Veg,Dairy,220,Meal
+Mokthuk,Ladakh,Non-Veg,Gluten,310,Meal
+Apricot Jam,Ladakh,Vegan,None,150,Meal
+Ladakhi Green Tea,Ladakh,Vegan,None,2,Meal
+Yarkhandi Pulao,Ladakh,Non-Veg,None,380,Meal
+Sheer Yakhni,Ladakh,Non-Veg,Dairy,340,Meal
+Chilak,Ladakh,Veg,Gluten,220,Meal
+Ngampe,Ladakh,Vegan,Gluten,200,Meal
+Khur-le,Ladakh,Vegan,Gluten,250,Meal
+Gorduk,Ladakh,Non-Veg,None,360,Meal
+Ladakhi Barley Cake,Ladakh,Vegan,Gluten,230,Meal
+Yak Butter Tea,Ladakh,Veg,Dairy,140,Meal
+Changthangi Tea,Ladakh,Veg,Dairy,120,Meal
+Ba Phing,Ladakh,Vegan,Gluten,190,Meal
+Ladakhi Dumplings,Ladakh,Non-Veg,Gluten,280,Meal
+Yarkhandi Soup,Ladakh,Non-Veg,None,330,Meal
+Buckwheat Bread,Ladakh,Vegan,Gluten,240,Meal
+Dre-thuk,Ladakh,Non-Veg,Gluten,300,Meal
+Kashur,Ladakh,Vegan,None,250,Meal
+Bak-tso,Ladakh,Non-Veg,None,350,Meal
+Sey Thukpa,Ladakh,Non-Veg,Gluten,310,Meal
+Tse-lachang,Ladakh,Vegan,Gluten,230,Meal
+Grain Soup,Ladakh,Vegan,Gluten,200,Meal
+Himalayan Barley Pancake,Ladakh,Vegan,Gluten,240,Breakfast
+Ladakhi Spinach Soup,Ladakh,Vegan,None,190,Meal
+Butter Barley Soup,Ladakh,Veg,"Dairy, Gluten",220,Meal
+Yak Cheese,Ladakh,Veg,Dairy,250,Meal
+Ladakhi Lamb Stew,Ladakh,Non-Veg,None,340,Meal
+Roasted Barley Flour,Ladakh,Vegan,Gluten,230,Meal
+Shakhtu,Ladakh,Non-Veg,None,330,Meal
+Spinach and Buckwheat Salad,Ladakh,Vegan,None,180,Snack
+Ladakhi Stir Fry,Ladakh,Vegan,None,200,Meal
+Barley Wine,Ladakh,Vegan,Gluten,180,Meal
+Grilled Yak Meat,Ladakh,Non-Veg,None,370,Meal
+Steamed Yak Dumplings,Ladakh,Non-Veg,Gluten,300,Meal
+Fermented Turnip,Ladakh,Vegan,None,170,Meal
+Ladakhi Radish Soup,Ladakh,Vegan,None,180,Meal
+Yak Jerky,Ladakh,Non-Veg,None,260,Meal
+Barley Millet Cake,Ladakh,Vegan,Gluten,230,Meal
+Spinach Barley Porridge,Ladakh,Vegan,None,190,Meal
+Boiled Barley,Ladakh,Vegan,Gluten,200,Meal
+Yak Butter,Ladakh,Veg,Dairy,220,Meal
+Ladakhi Garlic Soup,Ladakh,Vegan,None,170,Meal
+Yarkhandi Spiced Rice,Ladakh,Non-Veg,None,320,Meal
+Apricot Nut Pudding,Ladakh,Veg,"Nuts, Dairy",210,Meal
+Goat Cheese,Ladakh,Veg,Dairy,240,Meal
+Sour Yogurt,Ladakh,Veg,Dairy,150,Meal
+Ladakhi Barley Gruel,Ladakh,Vegan,Gluten,230,Meal
+Apricot Laddu,Ladakh,Vegan,Nuts,240,Meal
+Yak Milk,Ladakh,Veg,Dairy,190,Meal
+Barley Pilaf,Ladakh,Vegan,Gluten,220,Meal
+Steamed Buckwheat Bread,Ladakh,Vegan,Gluten,230,Meal
+Appam,Kerala,Veg,Gluten,250,Meal
+Puttu,Kerala,Veg,Gluten,150,Meal
+Idiyappam,Kerala,Veg,Gluten,200,Meal
+Dosa,Kerala,Veg,Gluten,250,Breakfast
+Sambar,Kerala,Veg,None,180,Meal
+Avial,Kerala,Veg,None,220,Meal
+Thoran,Kerala,Veg,None,180,Meal
+Meen Curry,Kerala,Non-Veg,None,350,Meal
+Fish Fry,Kerala,Non-Veg,None,400,Meal
+Kappa,Kerala,Veg,None,300,Meal
+Kadala Curry,Kerala,Veg,None,280,Meal
+Nadan Chicken Curry,Kerala,Non-Veg,None,500,Meal
+Kaalan,Kerala,Veg,Dairy,250,Meal
+Pulissery,Kerala,Veg,Dairy,220,Meal
+Chemeen Curry,Kerala,Non-Veg,None,400,Meal
+Kerala Beef Curry,Kerala,Non-Veg,None,550,Meal
+Vegetable Korma,Kerala,Veg,Dairy,300,Meal
+Banana Chips,Kerala,Veg,None,350,Meal
+Parippu Curry,Kerala,Veg,None,220,Meal
+Fish Molee,Kerala,Non-Veg,Dairy,400,Meal
+Chicken Roast,Kerala,Non-Veg,None,450,Meal
+Vegetable Stew,Kerala,Veg,Dairy,200,Meal
+Sambharam,Kerala,Veg,Dairy,100,Meal
+Kichadi,Kerala,Veg,Dairy,210,Meal
+Olan,Kerala,Veg,Dairy,190,Meal
+Kuttanadan Duck Curry,Kerala,Non-Veg,None,500,Meal
+Chettinad Chicken,Kerala,Non-Veg,None,450,Meal
+Keralan Pork Curry,Kerala,Non-Veg,None,550,Meal
+Rasam,Kerala,Veg,None,150,Meal
+Kozhukatta,Kerala,Veg,Dairy,280,Meal
+Prawn Masala,Kerala,Non-Veg,None,400,Meal
+Pachadi,Kerala,Veg,Dairy,180,Meal
+Chakka Varatti,Kerala,Veg,None,300,Meal
+Fried Tapioca,Kerala,Veg,None,350,Meal
+Vegetable Biriyani,Kerala,Veg,None,350,Meal
+Chicken Biryani,Kerala,Non-Veg,None,500,Meal
+Mutton Curry,Kerala,Non-Veg,None,600,Meal
+Coconut Rice,Kerala,Veg,None,300,Meal
+Kothu Parotta,Kerala,Non-Veg,None,500,Meal
+Lemon Rice,Kerala,Veg,None,280,Meal
+Mango Pickle,Kerala,Veg,None,150,Meal
+Puttu and Kadala Curry,Kerala,Veg,None,400,Meal
+Appam with Stew,Kerala,Veg,Dairy,350,Meal
+Neyyappam,Kerala,Veg,Dairy,320,Meal
+Prawn Curry,Kerala,Non-Veg,None,400,Meal
+Vada,Kerala,Veg,None,350,Meal
+Mutton Korma,Kerala,Non-Veg,Dairy,500,Meal
+Chappathi,Kerala,Veg,Gluten,250,Meal
+Prawn Masala,Kerala,Non-Veg,None,350,Meal
+Fish Cutlet,Kerala,Non-Veg,None,300,Meal
+Sadhya,Kerala,Veg,None,600,Meal
+Vegetable Salad,Kerala,Veg,None,120,Snack
+Ghee Rice,Kerala,Veg,Dairy,300,Meal
+Chicken Stew,Kerala,Non-Veg,Dairy,400,Meal
+Parotta,Kerala,Veg,Gluten,300,Meal
+Prawn Roast,Kerala,Non-Veg,None,350,Meal
+Vegetable Uthappam,Kerala,Veg,Gluten,250,Meal
+Mutton Biryani,Kerala,Non-Veg,None,550,Meal
+Fish Fry,Kerala,Non-Veg,None,400,Meal
+Dosa with Sambar,Kerala,Veg,Gluten,350,Breakfast
+Mango Curry,Kerala,Veg,None,200,Meal
+Coconut Chutney,Kerala,Veg,Dairy,150,Meal
+Pulao,Kerala,Veg,None,300,Meal
+Pulav,Kerala,Veg,None,350,Meal
+Kozhikode Biryani,Kerala,Non-Veg,None,500,Meal
+Vegetable Pulao,Kerala,Veg,None,300,Meal
+Rava Dosa,Kerala,Veg,Gluten,250,Breakfast
+Idiyappam with Stew,Kerala,Veg,Dairy,300,Meal
+Palada Payasam,Kerala,Veg,Dairy,300,Meal
+Beef Fry,Kerala,Non-Veg,None,400,Meal
+Fish Curry with Coconut Milk,Kerala,Non-Veg,Dairy,350,Meal
+Vegetable Kootu,Kerala,Veg,Dairy,200,Meal
+Vermicelli Payasam,Kerala,Veg,Dairy,300,Meal
+Rava Kesari,Kerala,Veg,Dairy,350,Meal
+Egg Curry,Kerala,Non-Veg,Dairy,350,Meal
+Parippu,Kerala,Veg,None,200,Meal
+Kappa and Fish Curry,Kerala,Non-Veg,None,400,Meal
+Cheera Thoran,Kerala,Veg,None,180,Meal
+Coconut Milk Stew,Kerala,Veg,Dairy,200,Meal
+Prawn Salad,Kerala,Non-Veg,None,250,Snack
+Chicken Vindaloo,Kerala,Non-Veg,None,500,Meal
+Vegetable Curry,Kerala,Veg,None,220,Meal
+Tapioca and Fish Curry,Kerala,Non-Veg,None,400,Meal
+Pulao with Raita,Kerala,Veg,Dairy,350,Meal
+Chicken Cutlet,Kerala,Non-Veg,None,300,Meal
+Mutton Shami Kebab,Kerala,Non-Veg,None,400,Meal
+Fish in Tamarind Sauce,Kerala,Non-Veg,None,350,Meal
+Vegetable Sambar,Kerala,Veg,None,180,Meal
+Mutton Rogan Josh,Kerala,Non-Veg,None,500,Meal
+Nendran Banana Chips,Kerala,Veg,None,350,Meal
+Beef Ularthiyathu,Kerala,Non-Veg,None,500,Meal
+Kuttu Dosa,Kerala,Veg,Gluten,250,Breakfast
+Chicken Kurma,Kerala,Non-Veg,Dairy,400,Meal
+Mango Lassi,Kerala,Veg,Dairy,250,Meal
+Fish Curry with Rice,Kerala,Non-Veg,None,500,Meal
+Vegetable Soup,Kerala,Veg,None,100,Meal
+Chicken Kabab,Kerala,Non-Veg,None,300,Meal
+Mutton Biryani with Raita,Kerala,Non-Veg,Dairy,550,Meal
+Vegetable Pakora,Kerala,Veg,None,300,Meal
+Egg Roast,Kerala,Non-Veg,None,300,Meal
+Prawn Soup,Kerala,Non-Veg,None,150,Meal
+Vegetable Manchurian,Kerala,Veg,None,250,Meal
+Beef Steak,Kerala,Non-Veg,None,400,Meal
+Chicken Korma,Kerala,Non-Veg,Dairy,350,Meal
+Mutton Nihari,Kerala,Non-Veg,None,500,Meal
+Fish Biriyani,Kerala,Non-Veg,None,500,Meal
+Vegetable Pappu,Kerala,Veg,None,250,Meal
+Pulao with Vegetables,Kerala,Veg,None,300,Meal
+Mutton Curry with Rice,Kerala,Non-Veg,None,550,Meal
+Chicken Pasta,Kerala,Non-Veg,Dairy,400,Meal
+Kachori,Kerala,Veg,Gluten,250,Meal
+Beef Cutlet,Kerala,Non-Veg,None,300,Meal
+Vegetable Biryani,Kerala,Veg,None,350,Meal
+Tapioca with Coconut,Kerala,Veg,None,350,Meal
+Beef Kabab,Kerala,Non-Veg,None,350,Meal
+Chickpea Salad,Kerala,Veg,None,180,Snack
+Chicken Masala,Kerala,Non-Veg,None,400,Meal
+Vegetable Khichdi,Kerala,Veg,None,250,Meal
+Fish Tikka,Kerala,Non-Veg,None,300,Meal
+Egg Bhurji,Kerala,Non-Veg,None,300,Meal
+Chicken Shawarma,Kerala,Non-Veg,None,400,Meal
+Paneer Tikka,Kerala,Veg,Dairy,250,Meal
+Chole Bhature,Kerala,Veg,Gluten,500,Meal
+Ghee Roast,Kerala,Veg,Dairy,300,Meal
+Beef Soup,Kerala,Non-Veg,None,150,Meal
+Vegetable Upma,Kerala,Veg,Gluten,200,Breakfast
+Keralan Prawn Curry,Kerala,Non-Veg,None,400,Meal
+Mutton Seekh Kebab,Kerala,Non-Veg,None,400,Meal
+Egg Curry with Rice,Kerala,Non-Veg,Dairy,400,Meal
+Fish in Coconut Sauce,Kerala,Non-Veg,Dairy,350,Meal
+Chicken Satay,Kerala,Non-Veg,None,300,Meal
+Vegetable Patties,Kerala,Veg,None,250,Meal
+Chicken Pulao,Kerala,Non-Veg,None,500,Meal
+Kerala Kachori,Kerala,Veg,Gluten,250,Meal
+Mutton Kofta Curry,Kerala,Non-Veg,Dairy,500,Meal
+Vegetable Pulao,Kerala,Veg,None,300,Meal
+Fish Masala,Kerala,Non-Veg,None,350,Meal
+Beef Biryani,Kerala,Non-Veg,None,500,Meal
+Chicken Biryani,Kerala,Non-Veg,None,500,Meal
+Prawn Curry,Kerala,Non-Veg,None,350,Meal
+Bisi Bele Bath,Karnataka,Veg,None,300,Meal
+Rava Idli,Karnataka,Veg,Gluten,250,Breakfast
+Masala Dosa,Karnataka,Veg,Gluten,400,Breakfast
+Mysore Pak,Karnataka,Veg,Dairy,350,Meal
+Dharwad Peda,Karnataka,Veg,Dairy,400,Meal
+Uttapam,Karnataka,Veg,Gluten,300,Meal
+Vada,Karnataka,Veg,Gluten,350,Meal
+Ragi Mudde,Karnataka,Veg,None,250,Meal
+Sambar,Karnataka,Veg,None,150,Meal
+Puliyodarai,Karnataka,Veg,None,280,Meal
+Chicken Biryani,Karnataka,Non-Veg,None,500,Meal
+Mutton Curry,Karnataka,Non-Veg,None,600,Meal
+Fish Fry,Karnataka,Non-Veg,None,450,Meal
+Kori Rotti,Karnataka,Non-Veg,Gluten,400,Meal
+Neer Dosa,Karnataka,Veg,Gluten,200,Breakfast
+Chitranna,Karnataka,Veg,None,280,Meal
+Kadabu,Karnataka,Veg,Gluten,350,Meal
+Benne Dosa,Karnataka,Veg,Gluten,400,Breakfast
+Puliogare,Karnataka,Veg,None,290,Meal
+Kesaribath,Karnataka,Veg,Dairy,350,Meal
+Maddur Vada,Karnataka,Veg,Gluten,320,Meal
+Pesarattu,Karnataka,Veg,None,280,Meal
+Rawa Kesari,Karnataka,Veg,Dairy,400,Meal
+Kadai Chicken,Karnataka,Non-Veg,None,500,Meal
+Mutton Kheema,Karnataka,Non-Veg,None,550,Meal
+Fish Curry,Karnataka,Non-Veg,None,450,Meal
+Chicken Kebab,Karnataka,Non-Veg,None,500,Meal
+Mango Chutney,Karnataka,Veg,None,100,Meal
+Aloo Curry,Karnataka,Veg,None,250,Meal
+Rasam,Karnataka,Veg,None,120,Meal
+Coconut Chutney,Karnataka,Veg,Dairy,150,Meal
+Saggubiyyam Payasam,Karnataka,Veg,Dairy,300,Meal
+Gobi Masala,Karnataka,Veg,None,270,Meal
+Tamarind Rice,Karnataka,Veg,None,300,Meal
+Curd Rice,Karnataka,Veg,Dairy,350,Meal
+Rawa Idli,Karnataka,Veg,Gluten,250,Breakfast
+Mysore Masala Dosa,Karnataka,Veg,Gluten,400,Breakfast
+Kele (Banana) Pancake,Karnataka,Veg,None,350,Breakfast
+Kootu,Karnataka,Veg,None,280,Meal
+Samosa,Karnataka,Veg,Gluten,350,Meal
+Chappati,Karnataka,Veg,Gluten,200,Meal
+Bhath (Rice Dish),Karnataka,Veg,None,300,Meal
+Vegetable Biryani,Karnataka,Veg,None,400,Meal
+Chicken Curry,Karnataka,Non-Veg,None,500,Meal
+Mutton Shorba,Karnataka,Non-Veg,None,450,Meal
+Fish Tikka,Karnataka,Non-Veg,None,400,Meal
+Rawa Dosa,Karnataka,Veg,Gluten,300,Breakfast
+Ragi Rotti,Karnataka,Veg,None,250,Meal
+Vegetable Korma,Karnataka,Veg,None,320,Meal
+Beetroot Sabji,Karnataka,Veg,None,200,Meal
+Kayi Chutney,Karnataka,Veg,None,100,Meal
+Vegetable Sagu,Karnataka,Veg,None,280,Meal
+Channa Masala,Karnataka,Veg,None,350,Meal
+Kundapura Koli Saaru,Karnataka,Non-Veg,None,550,Meal
+Masala Rice,Karnataka,Veg,None,300,Meal
+Cabbage Palya,Karnataka,Veg,None,200,Meal
+Bitter Gourd Fry,Karnataka,Veg,None,250,Meal
+Rajma Curry,Karnataka,Veg,None,300,Meal
+Gongura Pachadi,Karnataka,Veg,None,150,Meal
+Kadale Manchurian,Karnataka,Veg,Gluten,350,Meal
+Mango Rice,Karnataka,Veg,None,280,Meal
+Methi Thepla,Karnataka,Veg,Gluten,300,Meal
+Bhindi Masala,Karnataka,Veg,None,250,Meal
+Coconut Rice,Karnataka,Veg,None,350,Meal
+Pulao,Karnataka,Veg,None,320,Meal
+Vegetable Soup,Karnataka,Veg,None,150,Meal
+Rawa Upma,Karnataka,Veg,Gluten,300,Breakfast
+Chole Bhature,Karnataka,Veg,Gluten,400,Meal
+Ghee Rice,Karnataka,Veg,Dairy,350,Meal
+Paratha,Karnataka,Veg,Gluten,300,Breakfast
+Dosa,Karnataka,Veg,Gluten,280,Breakfast
+Vangibath,Karnataka,Veg,None,300,Meal
+Kachori,Karnataka,Veg,Gluten,350,Meal
+Idli,Karnataka,Veg,Gluten,200,Breakfast
+Lemon Rice,Karnataka,Veg,None,270,Meal
+Huli (Sambar),Karnataka,Veg,None,150,Meal
+Pesarattu Dosa,Karnataka,Veg,None,280,Breakfast
+Curd Vada,Karnataka,Veg,Dairy,350,Meal
+Masala Puri,Karnataka,Veg,Gluten,320,Meal
+Bread Upma,Karnataka,Veg,Gluten,300,Breakfast
+Pithla Bhakri,Karnataka,Veg,Gluten,350,Meal
+Kundapura Chicken Curry,Karnataka,Non-Veg,None,500,Meal
+Khara Bath,Karnataka,Veg,Gluten,250,Meal
+Chutney,Karnataka,Veg,None,100,Meal
+Mutton Biryani,Karnataka,Non-Veg,None,550,Meal
+Vegetable Raita,Karnataka,Veg,Dairy,150,Meal
+Bhindi Fry,Karnataka,Veg,None,250,Meal
+Tomato Rice,Karnataka,Veg,None,300,Meal
+Paneer Butter Masala,Karnataka,Veg,Dairy,400,Meal
+Cucumber Salad,Karnataka,Veg,None,100,Snack
+Rawa Idli Sambar,Karnataka,Veg,Gluten,300,Breakfast
+Vegetable Stew,Karnataka,Veg,None,250,Meal
+Pulao Rice,Karnataka,Veg,None,320,Meal
+Sambar Rice,Karnataka,Veg,None,350,Meal
+Kofta Curry,Karnataka,Veg,Dairy,350,Meal
+Khichdi,Karnataka,Veg,None,250,Meal
+Bisi Bele Bath with Curd,Karnataka,Veg,Dairy,350,Meal
+Vegetable Kurma,Karnataka,Veg,None,280,Meal
+Chana Sundal,Karnataka,Veg,None,220,Meal
+Vegetable Chapati,Karnataka,Veg,Gluten,350,Meal
+Rava Kesari,Karnataka,Veg,Dairy,400,Meal
+Kashaya,Karnataka,Veg,None,50,Meal
+Rice and Dal,Karnataka,Veg,None,350,Meal
+Masala Khichdi,Karnataka,Veg,None,300,Meal
+Vegetable Saagu,Karnataka,Veg,None,270,Meal
+Kacchi Biryani,Karnataka,Non-Veg,None,600,Meal
+Prawns Curry,Karnataka,Non-Veg,None,500,Meal
+Chicken Korma,Karnataka,Non-Veg,None,550,Meal
+Sundal,Karnataka,Veg,None,200,Meal
+Egg Curry,Karnataka,Non-Veg,None,450,Meal
+Lentil Soup,Karnataka,Veg,None,150,Meal
+Puliyodarai Rice,Karnataka,Veg,None,290,Meal
+Pesarattu Dosa,Karnataka,Veg,None,270,Breakfast
+Sambar Rice with Curd,Karnataka,Veg,Dairy,350,Meal
+Rice and Vegetable Curry,Karnataka,Veg,None,320,Meal
+Chana Dal Curry,Karnataka,Veg,None,300,Meal
+Corn Salad,Karnataka,Veg,None,150,Snack
+Vegetable and Rice Soup,Karnataka,Veg,None,200,Meal
+Dal Rice,Karnataka,Veg,None,350,Meal
+Vegetable Pilaf,Karnataka,Veg,None,320,Meal
+Aloo Palak,Karnataka,Veg,None,250,Meal
+Bhindi Curry,Karnataka,Veg,None,270,Meal
+Methi Paratha,Karnataka,Veg,Gluten,300,Breakfast
+Mixed Vegetable Curry,Karnataka,Veg,None,280,Meal
+Curd Rice with Pickle,Karnataka,Veg,Dairy,350,Meal
+Paneer Tikka,Karnataka,Veg,Dairy,400,Meal
+Pulao with Curd,Karnataka,Veg,Dairy,350,Meal
+Vegetable Kabab,Karnataka,Veg,None,250,Meal
+Egg Biryani,Karnataka,Non-Veg,None,550,Meal
+Vegetable Uthappam,Karnataka,Veg,Gluten,300,Meal
+Tomato Chutney,Karnataka,Veg,None,100,Meal
+Masala Egg Curry,Karnataka,Non-Veg,None,450,Meal
+Dal Tadka,Karnataka,Veg,None,300,Meal
+Kadai Paneer,Karnataka,Veg,Dairy,400,Meal
+Vegetable Quesadilla,Karnataka,Veg,Dairy,350,Meal
+Vegetable Soup with Noodles,Karnataka,Veg,Gluten,250,Meal
+Chicken Stew,Karnataka,Non-Veg,None,500,Meal
+Litti Chokha,Jharkhand,Veg,None,450,Meal
+Thekua,Jharkhand,Veg,Gluten,300,Meal
+Dal Pitha,Jharkhand,Veg,None,400,Meal
+Chana Sattu,Jharkhand,Vegan,None,250,Meal
+Khar,Jharkhand,Veg,None,150,Meal
+Rugda,Jharkhand,Veg,None,350,Meal
+Kachori,Jharkhand,Veg,Gluten,400,Meal
+Pakhala Bhata,Jharkhand,Veg,None,200,Meal
+Murgi Curry,Jharkhand,Non-Veg,None,500,Meal
+Biryani,Jharkhand,Non-Veg,None,600,Meal
+Mutton Curry,Jharkhand,Non-Veg,None,550,Meal
+Aloo Bharta,Jharkhand,Veg,None,300,Meal
+Roti,Jharkhand,Veg,Gluten,150,Meal
+Chana Masala,Jharkhand,Veg,None,350,Meal
+Murgi Ka Salan,Jharkhand,Non-Veg,None,550,Meal
+Tandoori Chicken,Jharkhand,Non-Veg,None,400,Meal
+Vegetable Pulao,Jharkhand,Veg,None,450,Meal
+Khichdi,Jharkhand,Veg,None,350,Meal
+Samosa,Jharkhand,Veg,Gluten,300,Meal
+Tamarind Rice,Jharkhand,Veg,None,400,Meal
+Egg Curry,Jharkhand,Non-Veg,None,500,Meal
+Pulao,Jharkhand,Veg,None,450,Meal
+Raita,Jharkhand,Veg,Dairy,150,Meal
+Paneer Tikka,Jharkhand,Veg,Dairy,350,Meal
+Masoor Dal,Jharkhand,Veg,None,250,Meal
+Tandoori Roti,Jharkhand,Veg,Gluten,180,Meal
+Butter Chicken,Jharkhand,Non-Veg,Dairy,600,Meal
+Gosht Biryani,Jharkhand,Non-Veg,None,650,Meal
+Dalma,Jharkhand,Veg,None,350,Meal
+Aloo Chokha,Jharkhand,Veg,None,300,Meal
+Pitha,Jharkhand,Veg,None,250,Meal
+Chole Bhature,Jharkhand,Veg,Gluten,600,Meal
+Kadhi Pakora,Jharkhand,Veg,"Dairy, Gluten",400,Meal
+Chicken Korma,Jharkhand,Non-Veg,Dairy,550,Meal
+Mutton Korma,Jharkhand,Non-Veg,Dairy,600,Meal
+Pork Vindaloo,Jharkhand,Non-Veg,None,650,Meal
+Bhindi Masala,Jharkhand,Veg,None,200,Meal
+Baigan Bharta,Jharkhand,Veg,None,300,Meal
+Chana Dal,Jharkhand,Veg,None,350,Meal
+Samosa Chaat,Jharkhand,Veg,Gluten,400,Meal
+Murgi Kofta,Jharkhand,Non-Veg,None,550,Meal
+Fish Curry,Jharkhand,Non-Veg,None,450,Meal
+Pakora,Jharkhand,Veg,Gluten,300,Meal
+Mutton Keema,Jharkhand,Non-Veg,None,500,Meal
+Vegetable Curry,Jharkhand,Veg,None,350,Meal
+Fish Fry,Jharkhand,Non-Veg,None,400,Meal
+Vegetable Korma,Jharkhand,Veg,None,400,Meal
+Chole,Jharkhand,Veg,None,350,Meal
+Chicken Biryani,Jharkhand,Non-Veg,None,650,Meal
+Chana Chaat,Jharkhand,Veg,None,250,Meal
+Masala Dosa,Jharkhand,Veg,Gluten,350,Breakfast
+Pork Curry,Jharkhand,Non-Veg,None,550,Meal
+Vegetable Soup,Jharkhand,Veg,None,100,Meal
+Mutton Biryani,Jharkhand,Non-Veg,None,650,Meal
+Chana Madra,Himachal Pradesh,Veg,Dairy,250,Meal
+Siddu,Himachal Pradesh,Veg,Gluten,300,Meal
+Chana Dal,Himachal Pradesh,Veg,None,200,Meal
+Pateer,Himachal Pradesh,Veg,Dairy,350,Meal
+Dham,Himachal Pradesh,Veg,None,400,Meal
+Bhaat,Himachal Pradesh,Veg,None,220,Meal
+Khatta Meat,Himachal Pradesh,Non-Veg,None,500,Meal
+Thukpa,Himachal Pradesh,Non-Veg,None,350,Meal
+Kullu Trout,Himachal Pradesh,Non-Veg,None,250,Meal
+Pulao,Himachal Pradesh,Veg,None,300,Meal
+Raita,Himachal Pradesh,Veg,Dairy,150,Meal
+Rogan Josh,Himachal Pradesh,Non-Veg,None,450,Meal
+Aloo Ka Raita,Himachal Pradesh,Veg,Dairy,180,Meal
+Chole Bhature,Himachal Pradesh,Veg,Gluten,600,Meal
+Himachali Kadi,Himachal Pradesh,Veg,Dairy,220,Meal
+Himachali Chicken Curry,Himachal Pradesh,Non-Veg,None,500,Meal
+Paneer Tikka,Himachal Pradesh,Veg,Dairy,250,Meal
+Tandoori Chicken,Himachal Pradesh,Non-Veg,None,350,Meal
+Gahat Ki Dal,Himachal Pradesh,Veg,None,220,Meal
+Khatta,Himachal Pradesh,Veg,None,270,Meal
+Mutton Korma,Himachal Pradesh,Non-Veg,None,550,Meal
+Noodles,Himachal Pradesh,Veg,None,350,Meal
+Veggie Pakoras,Himachal Pradesh,Veg,Gluten,400,Meal
+Butter Chicken,Himachal Pradesh,Non-Veg,Dairy,500,Meal
+Rajma,Himachal Pradesh,Veg,None,250,Meal
+Cucumber Salad,Himachal Pradesh,Veg,None,80,Snack
+Methi Thepla,Himachal Pradesh,Veg,Gluten,300,Meal
+Chana Samosa,Himachal Pradesh,Veg,Gluten,250,Meal
+Aloo Keema,Himachal Pradesh,Non-Veg,None,400,Meal
+Kadha Prashad,Himachal Pradesh,Veg,Dairy,300,Meal
+Ginger Tea,Himachal Pradesh,Veg,None,80,Meal
+Bhutte Ka Kees,Himachal Pradesh,Veg,Dairy,200,Meal
+Masala Dosa,Himachal Pradesh,Veg,Gluten,350,Breakfast
+Himachali Rice Pudding,Himachal Pradesh,Veg,Dairy,350,Meal
+Egg Curry,Himachal Pradesh,Non-Veg,None,400,Meal
+Vegetable Soup,Himachal Pradesh,Veg,None,150,Meal
+Himachali Roti,Himachal Pradesh,Veg,Gluten,250,Meal
+Kangri Dham,Himachal Pradesh,Veg,Dairy,300,Meal
+Veg Pulao,Himachal Pradesh,Veg,None,350,Meal
+Petha,Himachal Pradesh,Veg,None,200,Meal
+Aloo Ki Subzi,Himachal Pradesh,Veg,None,250,Meal
+Paneer Butter Masala,Himachal Pradesh,Veg,Dairy,400,Meal
+Himachali Kachori,Himachal Pradesh,Veg,Gluten,350,Meal
+Kashmiri Saag,Himachal Pradesh,Veg,None,300,Meal
+Mutton Stew,Himachal Pradesh,Non-Veg,None,500,Meal
+Puri,Himachal Pradesh,Veg,Gluten,250,Meal
+Vegetable Biryani,Himachal Pradesh,Veg,None,400,Meal
+Mutton Shami Kebab,Himachal Pradesh,Non-Veg,None,400,Meal
+Himachali Thali,Himachal Pradesh,Veg,Dairy,600,Meal
+Chicken Momos,Himachal Pradesh,Non-Veg,None,350,Meal
+Channa Chaat,Himachal Pradesh,Veg,None,200,Meal
+Bhindi Masala,Himachal Pradesh,Veg,None,180,Meal
+Himachali Saag,Himachal Pradesh,Veg,None,250,Meal
+Mutton Kofta,Himachal Pradesh,Non-Veg,None,500,Meal
+Vegetable Korma,Himachal Pradesh,Veg,Dairy,400,Meal
+Chana Pulao,Himachal Pradesh,Veg,None,300,Meal
+Himachali Khichdi,Himachal Pradesh,Veg,None,350,Meal
+Vegetable Cutlet,Himachal Pradesh,Veg,Gluten,250,Meal
+Fish Curry,Himachal Pradesh,Non-Veg,None,400,Meal
+Himachali Chutney,Himachal Pradesh,Veg,None,100,Meal
+Kadhi Pakora,Himachal Pradesh,Veg,Dairy,350,Meal
+Ginger Lemon Tea,Himachal Pradesh,Veg,None,70,Meal
+Himachali Paneer Tikka,Himachal Pradesh,Veg,Dairy,300,Meal
+Mutton Rogan Josh,Himachal Pradesh,Non-Veg,None,550,Meal
+Veg Pakoras,Himachal Pradesh,Veg,Gluten,400,Meal
+Aloo Paratha,Himachal Pradesh,Veg,Gluten,350,Breakfast
+Vegetable Stew,Himachal Pradesh,Veg,None,200,Meal
+Mutton Biryani,Himachal Pradesh,Non-Veg,None,500,Meal
+Himachali Rajma,Himachal Pradesh,Veg,None,250,Meal
+Methi Paratha,Himachal Pradesh,Veg,Gluten,300,Breakfast
+Chicken Korma,Himachal Pradesh,Non-Veg,Dairy,400,Meal
+Gajar Halwa,Himachal Pradesh,Veg,Dairy,300,Meal
+Vegetable Khichdi,Himachal Pradesh,Veg,None,350,Meal
+Himachali Masoor Dal,Himachal Pradesh,Veg,None,220,Meal
+Egg Bhurji,Himachal Pradesh,Non-Veg,None,350,Meal
+Himachali Aloo Gobi,Himachal Pradesh,Veg,None,200,Meal
+Fish Fry,Himachal Pradesh,Non-Veg,None,300,Meal
+Bhutta,Himachal Pradesh,Veg,None,150,Meal
+Mutton Korma,Himachal Pradesh,Non-Veg,None,500,Meal
+Vegetable Pakora,Himachal Pradesh,Veg,Gluten,400,Meal
+Aloo Tikki,Himachal Pradesh,Veg,Gluten,250,Meal
+Chole Chaat,Himachal Pradesh,Veg,None,200,Meal
+Himachali Mutton Curry,Himachal Pradesh,Non-Veg,None,500,Meal
+Dum Aloo,Himachal Pradesh,Veg,None,300,Meal
+Pulao,Himachal Pradesh,Veg,None,350,Meal
+Egg Curry,Himachal Pradesh,Non-Veg,None,400,Meal
+Bajra Khichdi,Haryana,Veg,Gluten,320,Meal
+Besan Masala Roti,Haryana,Veg,Gluten,200,Meal
+Kachri ki Sabzi,Haryana,Veg,None,180,Meal
+Bajra Roti,Haryana,Vegan,Gluten,250,Meal
+Churma,Haryana,Veg,"Gluten, Dairy",400,Meal
+Dahi Bhalla,Haryana,Veg,"Dairy, Gluten",280,Meal
+Methi Thepla,Haryana,Veg,Gluten,300,Meal
+Hara Dhania Chutney,Haryana,Vegan,None,50,Meal
+Kadhi Pakora,Haryana,Veg,"Gluten, Dairy",400,Meal
+Bajre ki Khichdi,Haryana,Vegan,Gluten,300,Meal
+Chole Bhature,Haryana,Veg,Gluten,450,Meal
+Kachori,Haryana,Veg,Gluten,350,Meal
+Ghevar,Haryana,Veg,"Dairy, Gluten",500,Meal
+Paneer Pakora,Haryana,Veg,"Dairy, Gluten",350,Meal
+Bajre ki Roti,Haryana,Vegan,Gluten,220,Meal
+Dahi Aloo,Haryana,Veg,Dairy,280,Meal
+Sarson ka Saag,Haryana,Vegan,None,250,Meal
+Makai Roti,Haryana,Vegan,Gluten,200,Meal
+Aloo Paratha,Haryana,Veg,"Gluten, Dairy",400,Breakfast
+Dal Makhni,Haryana,Veg,Dairy,450,Meal
+Lassi,Haryana,Veg,Dairy,250,Meal
+Bajra Kheer,Haryana,Veg,Dairy,350,Meal
+Kadhi,Haryana,Veg,"Dairy, Gluten",300,Meal
+Methi Paratha,Haryana,Veg,Gluten,300,Breakfast
+Aloo Gobhi,Haryana,Veg,None,200,Meal
+Missi Roti,Haryana,Vegan,Gluten,230,Meal
+Bhalle,Haryana,Veg,"Gluten, Dairy",300,Meal
+Chana Dal,Haryana,Vegan,None,320,Meal
+Methi Gajar,Haryana,Vegan,None,180,Meal
+Raita,Haryana,Veg,Dairy,120,Meal
+Aloo Methi,Haryana,Veg,None,220,Meal
+Churma Ladoo,Haryana,Veg,"Gluten, Dairy",400,Meal
+Tinda Masala,Haryana,Vegan,None,150,Meal
+Rajma,Haryana,Vegan,None,350,Meal
+Bhindi Masala,Haryana,Vegan,None,200,Meal
+Pinni,Haryana,Veg,"Dairy, Nuts",450,Meal
+Jeera Aloo,Haryana,Vegan,None,200,Meal
+Besan ki Roti,Haryana,Vegan,Gluten,250,Meal
+Dahi Ka Raita,Haryana,Veg,Dairy,120,Meal
+Aloo Bhujia,Haryana,Veg,None,250,Meal
+Makki ki Roti,Haryana,Vegan,None,200,Meal
+Khichdi,Haryana,Vegan,None,300,Meal
+Moong Dal Halwa,Haryana,Veg,Dairy,450,Meal
+Tamatar Chutney,Haryana,Vegan,None,60,Meal
+Kadhi Chawal,Haryana,Veg,"Gluten, Dairy",350,Meal
+Chana Masala,Haryana,Vegan,None,300,Meal
+Baigan Bharta,Haryana,Vegan,None,180,Meal
+Masala Chaach,Haryana,Veg,Dairy,100,Meal
+Biryani,Haryana,Non-Veg,None,500,Meal
+Aloo Methi Paratha,Haryana,Veg,Gluten,350,Breakfast
+Gond ke Laddu,Haryana,Veg,"Dairy, Nuts",400,Meal
+Gur Chana,Haryana,Vegan,None,200,Meal
+Kachri ki Chutney,Haryana,Vegan,None,50,Meal
+Masala Papad,Haryana,Veg,Gluten,120,Meal
+Pulao,Haryana,Veg,None,350,Meal
+Ghar ki Chai,Haryana,Veg,None,70,Meal
+Aloo Jeera,Haryana,Vegan,None,220,Meal
+Bhutte ka Kees,Haryana,Vegan,None,180,Meal
+Rajma Chawal,Haryana,Vegan,None,400,Meal
+Palak Paratha,Haryana,Veg,Gluten,300,Breakfast
+Makki ki Khichdi,Haryana,Vegan,Gluten,300,Meal
+Ghee Rice,Haryana,Veg,Dairy,400,Meal
+Hara Saag,Haryana,Vegan,None,150,Meal
+Kheer,Haryana,Veg,Dairy,350,Meal
+Khichdi with Curd,Haryana,Veg,"Dairy, Gluten",320,Meal
+Tandoori Roti,Haryana,Vegan,Gluten,250,Meal
+Methi Malai Chicken,Haryana,Non-Veg,Dairy,500,Meal
+Chole,Haryana,Vegan,None,300,Meal
+Bhindi Do Pyaza,Haryana,Vegan,None,200,Meal
+Paneer Tikka,Haryana,Veg,Dairy,350,Meal
+Aloo Gobi Paratha,Haryana,Veg,Gluten,350,Breakfast
+Gatte ki Sabzi,Haryana,Veg,Gluten,280,Meal
+Rajasthani Kadhi,Haryana,Veg,Dairy,300,Meal
+Kachori Chaat,Haryana,Veg,Gluten,350,Meal
+Palak Paneer,Haryana,Veg,Dairy,400,Meal
+Rawa Idli,Haryana,Veg,Gluten,250,Breakfast
+Jeera Rice,Haryana,Veg,None,300,Meal
+Bhindi Fry,Haryana,Vegan,None,180,Meal
+Baingan ka Bharta,Haryana,Vegan,None,200,Meal
+Rajma Masala,Haryana,Vegan,None,350,Meal
+Paneer Butter Masala,Haryana,Veg,Dairy,450,Meal
+Dahi Ke Kebab,Haryana,Veg,Dairy,250,Meal
+Dal Tadka,Haryana,Vegan,None,300,Meal
+Chole Pulao,Haryana,Vegan,None,350,Meal
+Ghee ke Parathe,Haryana,Veg,"Dairy, Gluten",400,Meal
+Paneer Kofta,Haryana,Veg,Dairy,400,Meal
+Dal Chawal,Haryana,Vegan,None,350,Meal
+Kheer with Jaggery,Haryana,Veg,Dairy,350,Meal
+Bhindi Masala,Haryana,Vegan,None,200,Meal
+Gatte ka Pulao,Haryana,Veg,Gluten,350,Meal
+Poriya,Haryana,Veg,None,250,Meal
+Pulao with Raita,Haryana,Veg,Dairy,350,Meal
+Methi Malai Paneer,Haryana,Veg,Dairy,450,Meal
+Kadhi Pakora Rice,Haryana,Veg,"Dairy, Gluten",400,Meal
+Chana dal Roti,Haryana,Vegan,Gluten,250,Meal
+Tandoori Chicken,Haryana,Non-Veg,None,500,Meal
+Chana dal khichdi,Haryana,Vegan,None,300,Meal
+Vegetable Biryani,Haryana,Veg,None,400,Meal
+Paneer Bhurji,Haryana,Veg,Dairy,350,Meal
+Gundar ki Chikki,Haryana,Veg,Nuts,400,Meal
+Bajra Chilla,Haryana,Vegan,Gluten,250,Meal
+Tandoori Roti with Dal,Haryana,Veg,Gluten,350,Meal
+Baingan Tamatar,Haryana,Vegan,None,200,Meal
+Methi Thepla with Curd,Haryana,Veg,"Dairy, Gluten",350,Meal
+Palak Dal,Haryana,Vegan,None,300,Meal
+Ghee Rice with Curry,Haryana,Veg,Dairy,450,Meal
+Aloo Baingan,Haryana,Vegan,None,220,Meal
+Methi Poori,Haryana,Veg,Gluten,350,Meal
+Pulao with Kadhi,Haryana,Veg,Dairy,350,Meal
+Churma with Ghee,Haryana,Veg,"Dairy, Gluten",450,Meal
+Methi Paratha with Pickle,Haryana,Veg,Gluten,350,Breakfast
+Ghee Laddu,Haryana,Veg,"Dairy, Nuts",400,Meal
+Chana Dal with Rice,Haryana,Vegan,None,320,Meal
+Aloo Tamatar Curry,Haryana,Vegan,None,220,Meal
+Biryani with Raita,Haryana,Veg,Dairy,500,Meal
+Rajma with Rice,Haryana,Vegan,None,400,Meal
+Chole with Bhature,Haryana,Veg,Gluten,450,Meal
+Bhindi with Roti,Haryana,Vegan,Gluten,250,Meal
+Chana Dal with Roti,Haryana,Vegan,Gluten,300,Meal
+Palak with Paneer,Haryana,Veg,Dairy,400,Meal
+Bhutte ke Kebab,Haryana,Vegan,None,180,Meal
+Rajma Chawal with Curd,Haryana,Vegan,Dairy,400,Meal
+Chana Dal with Curd,Haryana,Vegan,Dairy,300,Meal
+Paneer with Capsicum,Haryana,Veg,Dairy,350,Meal
+Masoor Dal,Haryana,Vegan,None,280,Meal
+Vegetable Khichdi,Haryana,Vegan,None,320,Meal
+Khichdi with Pickle,Haryana,Vegan,None,320,Meal
+Ghee Paratha,Haryana,Veg,"Dairy, Gluten",350,Breakfast
+Paneer Tikka with Salad,Haryana,Veg,Dairy,400,Snack
+Kachori with Chutney,Haryana,Veg,Gluten,350,Meal
+Masala Chaas,Haryana,Veg,Dairy,90,Meal
+Aloo Bhindi,Haryana,Vegan,None,220,Meal
+Dhokla,Gujarat,Veg,Gluten,150,Meal
+Thepla,Gujarat,Veg,"Gluten, Dairy",180,Meal
+Khandvi,Gujarat,Veg,Dairy,120,Meal
+Undhiyu,Gujarat,Veg,None,300,Meal
+Fafda,Gujarat,Veg,Gluten,250,Meal
+Handvo,Gujarat,Veg,"Gluten, Dairy",220,Meal
+Mohanthal,Gujarat,Veg,"Nuts, Dairy",400,Meal
+Patra,Gujarat,Veg,None,160,Meal
+Sev Khamani,Gujarat,Veg,Gluten,220,Meal
+Dal Dhokli,Gujarat,Veg,"Gluten, Dairy",250,Meal
+Khakra,Gujarat,Veg,Gluten,100,Meal
+Shrikhand,Gujarat,Veg,Dairy,200,Meal
+Chorafali,Gujarat,Veg,None,180,Meal
+Bhajiya,Gujarat,Veg,Gluten,300,Meal
+Sev Tameta,Gujarat,Veg,None,250,Meal
+Ghughra,Gujarat,Veg,"Dairy, Gluten",200,Meal
+Gathiya,Gujarat,Veg,Gluten,280,Meal
+Bharela Ringan,Gujarat,Veg,None,200,Meal
+Surti Locho,Gujarat,Veg,None,230,Meal
+Dudhi Halwa,Gujarat,Veg,"Dairy, Nuts",350,Meal
+Bharela Marcha,Gujarat,Veg,None,100,Meal
+Khichu,Gujarat,Veg,None,150,Meal
+Dabeli,Gujarat,Veg,"Gluten, Nuts",350,Meal
+Lasaniya Bataka,Gujarat,Veg,None,250,Meal
+Sukhdi,Gujarat,Veg,Dairy,400,Meal
+Khaman,Gujarat,Veg,Gluten,120,Meal
+Besan Ladoo,Gujarat,Veg,"Nuts, Dairy",300,Meal
+Paatra,Gujarat,Veg,None,200,Meal
+Surati Sev,Gujarat,Veg,Gluten,280,Meal
+Gujarati Kadhi,Gujarat,Veg,Dairy,120,Meal
+Batata Nu Shaak,Gujarat,Veg,None,200,Meal
+Chaas,Gujarat,Veg,Dairy,80,Meal
+Lassi,Gujarat,Veg,Dairy,250,Meal
+Rotla,Gujarat,Veg,Gluten,120,Meal
+Farsi Puri,Gujarat,Veg,Gluten,150,Meal
+Muthiya,Gujarat,Veg,Gluten,220,Meal
+Samosa,Gujarat,Veg,Gluten,300,Meal
+Farsan,Gujarat,Veg,Gluten,250,Meal
+Ghari,Gujarat,Veg,"Dairy, Gluten",450,Meal
+Bhinda Nu Shaak,Gujarat,Veg,None,180,Meal
+Kachori,Gujarat,Veg,Gluten,300,Meal
+Vada Pav,Gujarat,Veg,Gluten,350,Meal
+Lilva Kachori,Gujarat,Veg,Gluten,250,Meal
+Sabudana Khichdi,Gujarat,Vegan,None,200,Meal
+Dal Tadka,Gujarat,Veg,None,150,Meal
+Nankhatai,Gujarat,Veg,"Dairy, Gluten",220,Meal
+Papdi,Gujarat,Veg,Gluten,180,Meal
+Churma Ladoo,Gujarat,Veg,"Nuts, Dairy",300,Meal
+Makai No Chevdo,Gujarat,Vegan,None,250,Meal
+Bhungra,Gujarat,Veg,None,200,Meal
+Keri No Ras,Gujarat,Vegan,None,100,Meal
+Ringan No Oro,Gujarat,Veg,None,150,Meal
+Ponk,Gujarat,Vegan,None,150,Meal
+Prawn Balchao,Goa,Non-Veg,"Seafood, Garlic",320,Meal
+Goan Fish Curry,Goa,Non-Veg,"Fish, Coconut",350,Meal
+Bebinca,Goa,Veg,"Eggs, Coconut",410,Meal
+Sorpotel,Goa,Non-Veg,Pork,480,Meal
+Xacuti,Goa,Non-Veg,"Chicken, Coconut",390,Meal
+Prawn Curry,Goa,Non-Veg,"Seafood, Coconut",310,Meal
+Goan Poi,Goa,Vegan,Gluten,210,Meal
+Sannas,Goa,Vegan,"Rice, Coconut",150,Meal
+Fried Fish,Goa,Non-Veg,Fish,320,Meal
+Vindaloo,Goa,Non-Veg,"Pork, Vinegar",500,Meal
+Fish Recheado,Goa,Non-Veg,"Fish, Vinegar",360,Meal
+Khatkhate,Goa,Veg,Coconut,270,Meal
+Rissois,Goa,Non-Veg,"Eggs, Seafood",340,Meal
+Ros Omlette,Goa,Non-Veg,"Eggs, Chicken",420,Meal
+Patoleo,Goa,Vegan,"Rice, Coconut",190,Meal
+Fish Caldine,Goa,Non-Veg,"Fish, Coconut",310,Meal
+Chouricos,Goa,Non-Veg,Pork,450,Meal
+Ambotik,Goa,Non-Veg,Fish,330,Meal
+Goan Red Rice,Goa,Vegan,Gluten-Free,220,Meal
+Sol Kadi,Goa,Vegan,Coconut,100,Meal
+Prawn Rawa Fry,Goa,Non-Veg,Seafood,370,Meal
+Bafad,Goa,Non-Veg,Beef,500,Meal
+Samarachi Kodi,Goa,Non-Veg,"Seafood, Coconut",350,Meal
+Goan Sausage Pulao,Goa,Non-Veg,Pork,470,Meal
+Crab Xec Xec,Goa,Non-Veg,"Crab, Coconut",380,Meal
+Chicken Cafreal,Goa,Non-Veg,Chicken,390,Meal
+Cucumber Kismur,Goa,Vegan,Coconut,120,Meal
+Vegetable Caldin,Goa,Vegan,Coconut,210,Meal
+Moonga Gathi,Goa,Vegan,Mung Beans,260,Meal
+Tisreo Sukem,Goa,Non-Veg,"Clams, Coconut",300,Meal
+Goan Prawn Pulao,Goa,Non-Veg,"Prawns, Rice",450,Meal
+Fish Kismur,Goa,Non-Veg,Fish,320,Meal
+Mushroom Xacuti,Goa,Veg,Coconut,250,Meal
+Alsande Tonak,Goa,Vegan,Black-Eyed Peas,240,Meal
+Shark Ambot Tik,Goa,Non-Veg,Shark,400,Meal
+Goan Crab Curry,Goa,Non-Veg,"Crab, Coconut",370,Meal
+Kismur,Goa,Vegan,"Coconut, Raw Mango",140,Meal
+Fonna Kadi,Goa,Vegan,Coconut,100,Meal
+Fish Roe,Goa,Non-Veg,Fish Roe,350,Meal
+Mutton Sukka,Goa,Non-Veg,Mutton,460,Meal
+Green Coconut Chutney,Goa,Vegan,Coconut,90,Meal
+Prawn Molho,Goa,Non-Veg,"Seafood, Vinegar",310,Meal
+Banana Halwa,Goa,Veg,"Banana, Coconut",350,Meal
+Mango Sasav,Goa,Vegan,Raw Mango,180,Meal
+Vegetable Khatkhate,Goa,Vegan,Coconut,220,Meal
+Bottled Masala,Goa,Vegan,"Coconut, Spices",110,Meal
+Rawa Fried Mussels,Goa,Non-Veg,Mussels,390,Meal
+Kokum Curry,Goa,Vegan,Kokum,80,Meal
+Tamarind Fish Curry,Goa,Non-Veg,"Fish, Tamarind",320,Meal
+Cashew Feni,Goa,Vegan,Cashew,150,Meal
+Tizaan,Goa,Vegan,Rice Flour,180,Meal
+Goan Bebinca,Goa,Veg,"Coconut, Eggs",390,Meal
+Chana Ros,Goa,Vegan,Chickpeas,260,Meal
+Crab Bhurjee,Goa,Non-Veg,Crab,320,Meal
+Shark Fry,Goa,Non-Veg,Shark,350,Meal
+Feijoada,Goa,Non-Veg,"Beans, Pork",460,Meal
+Pork Sorpotel,Goa,Non-Veg,Pork,500,Meal
+Goan Fish Fry,Goa,Non-Veg,Fish,340,Meal
+Fried Mussels,Goa,Non-Veg,Mussels,400,Meal
+Beef Assado,Goa,Non-Veg,Beef,480,Meal
+Mushroom Recheado,Goa,Veg,Mushrooms,240,Meal
+Fish Hooman,Goa,Non-Veg,Fish,320,Meal
+Fish Roe Curry,Goa,Non-Veg,Fish Roe,330,Meal
+Pork Vindaloo,Goa,Non-Veg,"Pork, Vinegar",480,Meal
+Spicy Rawa Fried Fish,Goa,Non-Veg,Fish,350,Meal
+Coconut Ladoo,Goa,Veg,"Coconut, Sugar",290,Meal
+Rawa Fried Prawns,Goa,Non-Veg,Prawns,370,Meal
+Chana Bhaji,Goa,Vegan,Chickpeas,240,Meal
+Goan Fish Cutlet,Goa,Non-Veg,Fish,330,Meal
+Goan Style Omelette,Goa,Non-Veg,Eggs,300,Meal
+Pork Amsol,Goa,Non-Veg,"Pork, Kokum",450,Meal
+Peixe Recheado,Goa,Non-Veg,Fish,320,Meal
+Ambadyachi Uddamethi,Goa,Vegan,"Mango, Coconut",160,Meal
+Mackerel Rava Fry,Goa,Non-Veg,Mackerel,350,Meal
+Fonna Kadi,Goa,Vegan,Coconut,110,Meal
+Beef Croquettes,Goa,Non-Veg,Beef,430,Meal
+Fish Amotik,Goa,Non-Veg,Fish,340,Meal
+Prawn Balchao,Goa,Non-Veg,Prawns,320,Meal
+Mango Sasav,Goa,Vegan,Mango,180,Meal
+Chana Samosa,Chhattisgarh,Veg,Gluten,180,Meal
+Bara,Chhattisgarh,Veg,Gluten,200,Meal
+Aamat,Chhattisgarh,Non-Veg,None,250,Meal
+Chana Badi,Chhattisgarh,Veg,None,170,Meal
+Thethri,Chhattisgarh,Veg,Gluten,160,Meal
+Faraa,Chhattisgarh,Veg,Gluten,140,Meal
+Dubki Kadi,Chhattisgarh,Veg,Dairy,180,Meal
+Chausela,Chhattisgarh,Veg,Gluten,230,Meal
+Chana Dal Puri,Chhattisgarh,Veg,Gluten,190,Meal
+Bafauri,Chhattisgarh,Vegan,None,150,Meal
+Bhajia,Chhattisgarh,Veg,Gluten,220,Meal
+Muthiya,Chhattisgarh,Veg,None,160,Meal
+Bore Baasi,Chhattisgarh,Veg,None,180,Meal
+Arsa,Chhattisgarh,Veg,Gluten,150,Meal
+Khadi Patal Bhaji,Chhattisgarh,Veg,None,90,Meal
+Tikar Badi,Chhattisgarh,Vegan,None,170,Meal
+Dubu Roti,Chhattisgarh,Veg,Gluten,200,Meal
+Angakar Roti,Chhattisgarh,Veg,Gluten,210,Meal
+Kusli,Chhattisgarh,Veg,Gluten,190,Meal
+Tilgur,Chhattisgarh,Veg,Sesame,110,Meal
+Balushahi,Chhattisgarh,Veg,"Dairy, Gluten",220,Meal
+Dehrori,Chhattisgarh,Veg,Dairy,230,Meal
+Khichiya,Chhattisgarh,Vegan,None,170,Meal
+Bhai Bhata,Chhattisgarh,Veg,None,160,Meal
+Cheela,Chhattisgarh,Veg,Gluten,190,Meal
+Poha,Chhattisgarh,Veg,Gluten,120,Breakfast
+Rakhia Badi,Chhattisgarh,Veg,None,160,Meal
+Khurmi,Chhattisgarh,Veg,Gluten,170,Meal
+Phara,Chhattisgarh,Vegan,None,140,Meal
+Fiki Kadhi,Chhattisgarh,Veg,Dairy,110,Meal
+Sanna Pakora,Chhattisgarh,Veg,Gluten,220,Meal
+Bhabhro,Chhattisgarh,Vegan,None,140,Meal
+Bara Kadhi,Chhattisgarh,Veg,Dairy,180,Meal
+Dahi Baati,Chhattisgarh,Veg,Dairy,220,Meal
+Raita,Chhattisgarh,Veg,Dairy,120,Meal
+Chira,Chhattisgarh,Veg,Gluten,100,Meal
+Gulgula,Chhattisgarh,Veg,Gluten,170,Meal
+Jalebi,Chhattisgarh,Veg,Gluten,320,Meal
+Bhakhra,Chhattisgarh,Veg,Gluten,180,Meal
+Khoba Roti,Chhattisgarh,Veg,Gluten,210,Meal
+Sabudana Khichdi,Chhattisgarh,Veg,None,180,Meal
+Bada,Chhattisgarh,Veg,Gluten,190,Meal
+Masoor Dal,Chhattisgarh,Vegan,None,140,Meal
+Arhar Dal,Chhattisgarh,Vegan,None,150,Meal
+Kaddu Bharta,Chhattisgarh,Veg,None,120,Meal
+Biranji,Chhattisgarh,Veg,None,200,Meal
+Mawa Bati,Chhattisgarh,Veg,Dairy,250,Meal
+Gul Bhajiya,Chhattisgarh,Veg,Gluten,180,Meal
+Tilkut,Chhattisgarh,Veg,Sesame,120,Meal
+Chakli,Chhattisgarh,Veg,Gluten,190,Meal
+Gur Halwa,Chhattisgarh,Veg,Gluten,220,Meal
+Bhaat,Chhattisgarh,Vegan,None,150,Meal
+Chana Ghughra,Chhattisgarh,Vegan,None,170,Meal
+Mawa Jalebi,Chhattisgarh,Veg,Dairy,320,Meal
+Roti,Chhattisgarh,Veg,Gluten,110,Meal
+Masala Bhat,Chhattisgarh,Veg,None,180,Meal
+Sabudana Vada,Chhattisgarh,Veg,None,210,Meal
+Litti Chokha,Bihar,Veg,Gluten,350,Meal
+Sattu Paratha,Bihar,Veg,Gluten,320,Breakfast
+Chana Ghugni,Bihar,Veg,None,180,Meal
+Thekua,Bihar,Veg,Gluten,230,Meal
+Dal Pitha,Bihar,Veg,Gluten,300,Meal
+Malpua,Bihar,Veg,"Dairy, Gluten",270,Meal
+Khaja,Bihar,Veg,Gluten,340,Meal
+Balushahi,Bihar,Veg,"Dairy, Gluten",450,Meal
+Chana Samosa,Bihar,Veg,Gluten,300,Meal
+Aloo Kachori,Bihar,Veg,Gluten,400,Meal
+Kadhi Badi,Bihar,Veg,Dairy,350,Meal
+Sev Tamatar,Bihar,Veg,None,200,Meal
+Makhana Kheer,Bihar,Veg,"Dairy, Nuts",280,Meal
+Chura Dahi,Bihar,Veg,"Dairy, Gluten",320,Meal
+Besar,Bihar,Veg,None,180,Meal
+Parwal ki Mithai,Bihar,Veg,Dairy,290,Meal
+Anarsa,Bihar,Veg,Gluten,240,Meal
+Kesar Peda,Bihar,Veg,Dairy,320,Meal
+Tilkut,Bihar,Veg,Nuts,300,Meal
+Lai,Bihar,Veg,None,230,Meal
+Pedakiya,Bihar,Veg,"Gluten, Dairy",350,Meal
+Tarua,Bihar,Veg,None,280,Meal
+Kheer,Bihar,Veg,Dairy,300,Meal
+Chawal ki Roti,Bihar,Veg,Gluten,220,Meal
+Aloo Chop,Bihar,Veg,Gluten,350,Meal
+Bhunjia,Bihar,Veg,None,180,Meal
+Dahi Chura,Bihar,Veg,Dairy,320,Meal
+Dal Bati,Bihar,Veg,Gluten,370,Meal
+Khichdi,Bihar,Veg,None,240,Meal
+Puri Sabzi,Bihar,Veg,Gluten,400,Meal
+Dhuska,Bihar,Veg,Gluten,260,Meal
+Mutton Curry,Bihar,Non-Veg,None,450,Meal
+Chicken Biryani,Bihar,Non-Veg,None,600,Meal
+Fish Curry,Bihar,Non-Veg,None,320,Meal
+Keema Paratha,Bihar,Non-Veg,Gluten,500,Breakfast
+Bihari Kebab,Bihar,Non-Veg,None,450,Meal
+Egg Curry,Bihar,Non-Veg,None,280,Meal
+Bihari Fish Fry,Bihar,Non-Veg,None,400,Meal
+Mutton Kebab,Bihar,Non-Veg,None,450,Meal
+Prawn Curry,Bihar,Non-Veg,None,350,Meal
+Chura Mutton,Bihar,Non-Veg,None,500,Meal
+Bihari Egg Roll,Bihar,Non-Veg,Gluten,300,Meal
+Champaran Mutton,Bihar,Non-Veg,None,550,Meal
+Bihari Chicken Curry,Bihar,Non-Veg,None,480,Meal
+Mutton Saag,Bihar,Non-Veg,None,420,Meal
+Bihari Prawn Fry,Bihar,Non-Veg,None,360,Meal
+Fish Pulao,Bihar,Non-Veg,None,400,Meal
+Chicken Saag,Bihar,Non-Veg,None,350,Meal
+Paneer Kebab,Bihar,Veg,Dairy,350,Meal
+Aloo Bhujia,Bihar,Veg,None,240,Meal
+Baingan Bharta,Bihar,Veg,None,200,Meal
+Makhana Curry,Bihar,Veg,"Dairy, Nuts",280,Meal
+Chana Dal Fry,Bihar,Veg,None,220,Meal
+Vegetable Pulao,Bihar,Veg,None,300,Meal
+Roti Sabzi,Bihar,Veg,Gluten,300,Meal
+Moong Dal Halwa,Bihar,Veg,Dairy,380,Meal
+Aloo Posto,Bihar,Veg,None,240,Meal
+Palak Paneer,Bihar,Veg,Dairy,320,Meal
+Chana Masala,Bihar,Veg,None,280,Meal
+Bihari Dal,Bihar,Veg,None,220,Meal
+Gobhi Masala,Bihar,Veg,None,240,Meal
+Aloo Palak,Bihar,Veg,None,260,Meal
+Sattu Drink,Bihar,Veg,Gluten,180,Meal
+Bhindi Masala,Bihar,Veg,None,220,Meal
+Dahi Bhalla,Bihar,Veg,Dairy,280,Meal
+Samosa,Bihar,Veg,Gluten,250,Meal
+Bihari Rajma,Bihar,Veg,None,280,Meal
+Chole Bhature,Bihar,Veg,Gluten,400,Meal
+Dal Makhani,Bihar,Veg,Dairy,320,Meal
+Bihari Chicken Fry,Bihar,Non-Veg,None,500,Meal
+Bihari Fish Pulao,Bihar,Non-Veg,None,450,Meal
+Chicken Ghugni,Bihar,Non-Veg,None,350,Meal
+Mutton Bharta,Bihar,Non-Veg,None,500,Meal
+Egg Pulao,Bihar,Non-Veg,None,400,Meal
+Fish Fry,Bihar,Non-Veg,None,400,Meal
+Chicken Kebab,Bihar,Non-Veg,None,450,Meal
+Bihari Mutton Curry,Bihar,Non-Veg,None,550,Meal
+Prawn Pulao,Bihar,Non-Veg,None,380,Meal
+Bihari Prawn Curry,Bihar,Non-Veg,None,350,Meal
+Assamese Fish Curry,Assam,Non-Veg,Fish,250,Meal
+Khar,Assam,Veg,None,180,Meal
+Masor Tenga,Assam,Non-Veg,Fish,220,Meal
+Pitha,Assam,Veg,None,150,Meal
+Bora Saul,Assam,Veg,None,130,Meal
+Duck Meat Curry,Assam,Non-Veg,Duck,300,Meal
+Bhapa Alu,Assam,Veg,None,200,Meal
+Aloo Pitika,Assam,Veg,None,190,Meal
+Xukhua Murgi,Assam,Non-Veg,Chicken,270,Meal
+Masor Tenga with Bamboo Shoot,Assam,Non-Veg,Fish,240,Meal
+Ona,Assam,Veg,None,180,Meal
+Tenga Paat,Assam,Veg,None,200,Meal
+Tamul Pitha,Assam,Veg,None,160,Meal
+Masoor Dal,Assam,Veg,None,210,Meal
+Chutney,Assam,Veg,None,80,Meal
+Sukuti,Assam,Non-Veg,Beef,350,Meal
+Murgi Khar,Assam,Non-Veg,Chicken,290,Meal
+Kumura,Assam,Veg,None,180,Meal
+Bora Saul Pitha,Assam,Veg,None,170,Meal
+Bhut Jolokia Pickle,Assam,Veg,None,120,Meal
+Laar,Assam,Veg,None,200,Meal
+Patot Diya Maas,Assam,Non-Veg,Fish,280,Meal
+Aloo Bhaji,Assam,Veg,None,180,Meal
+Silkworm Curry,Assam,Non-Veg,Silkworm,350,Meal
+Mung Dal,Assam,Veg,None,200,Meal
+Koni Pitha,Assam,Veg,None,160,Meal
+Patot Diya Tenga,Assam,Non-Veg,Fish,250,Meal
+Khar with Peanuts,Assam,Veg,None,210,Meal
+Masor Tenga with Potatoes,Assam,Non-Veg,Fish,260,Meal
+Bamboo Shoot Curry,Assam,Veg,None,200,Meal
+Mezika,Assam,Veg,None,180,Meal
+Aloo Tenga,Assam,Veg,None,190,Meal
+Duck with Bamboo Shoot,Assam,Non-Veg,Duck,320,Meal
+Zan,Assam,Veg,None,160,Meal
+Pitika with Mustard Oil,Assam,Veg,None,210,Meal
+Bhapa Alu with Peanuts,Assam,Veg,Peanuts,220,Meal
+Assamese Style Egg Curry,Assam,Non-Veg,Egg,240,Meal
+Khar with Pumpkin,Assam,Veg,None,200,Meal
+Fish Curry with Vegetables,Assam,Non-Veg,Fish,260,Meal
+Tenga with Lentils,Assam,Veg,None,210,Meal
+Pitha with Jaggery,Assam,Veg,None,170,Meal
+Assamese Chicken Stew,Assam,Non-Veg,Chicken,280,Meal
+Masoor Dal with Vegetables,Assam,Veg,None,230,Meal
+Bora Pitha,Assam,Veg,None,160,Meal
+Duck Curry with Bamboo Shoot,Assam,Non-Veg,Duck,330,Meal
+Khar with Fish,Assam,Non-Veg,Fish,230,Meal
+Chutney with Ginger,Assam,Veg,None,90,Meal
+Sukuti with Beans,Assam,Non-Veg,Beef,360,Meal
+Pitha with Coconut,Assam,Veg,None,180,Meal
+Duck Curry with Potato,Assam,Non-Veg,Duck,340,Meal
+Patot Diya Aloo,Assam,Veg,None,200,Meal
+Masoor Dal with Pumpkin,Assam,Veg,None,220,Meal
+Mezika with Coconut,Assam,Veg,None,190,Meal
+Patot Diya Maas with Bamboo Shoot,Assam,Non-Veg,Fish,270,Meal
+Mung Dal with Spinach,Assam,Veg,None,210,Meal
+Xukhua Murgi with Rice,Assam,Non-Veg,Chicken,320,Meal
+Aloo Bhaji with Peanuts,Assam,Veg,Peanuts,200,Meal
+Assamese Pork Curry,Assam,Non-Veg,Pork,340,Meal
+Tenga with Pumpkin,Assam,Veg,None,190,Meal
+Sukuti with Rice,Assam,Non-Veg,Beef,370,Meal
+Aloo Pitika with Chutney,Assam,Veg,None,210,Meal
+Duck with Lentils,Assam,Non-Veg,Duck,330,Meal
+Khar with Eggplant,Assam,Veg,None,200,Meal
+Pitha with Sugar,Assam,Veg,None,170,Meal
+Masor Tenga with Beans,Assam,Non-Veg,Fish,250,Meal
+Chutney with Peanuts,Assam,Veg,Peanuts,100,Meal
+Bora Saul with Coconut,Assam,Veg,None,140,Meal
+Tamul Pitha with Jaggery,Assam,Veg,None,170,Meal
+Masoor Dal with Eggplant,Assam,Veg,None,230,Meal
+Silkworm Curry with Vegetables,Assam,Non-Veg,Silkworm,360,Meal
+Duck Curry with Eggplant,Assam,Non-Veg,Duck,340,Meal
+Bhapa Alu with Tomato,Assam,Veg,None,210,Meal
+Xukhua Murgi with Tomato,Assam,Non-Veg,Chicken,320,Meal
+Aloo Tenga with Fish,Assam,Non-Veg,Fish,250,Meal
+Pitha with Banana,Assam,Veg,None,180,Meal
+Khar with Rice,Assam,Veg,None,210,Meal
+Masor Tenga with Lentils,Assam,Non-Veg,Fish,260,Meal
+Bamboo Shoot Curry with Peanuts,Assam,Veg,Peanuts,220,Meal
+Khar with Carrots,Assam,Veg,None,190,Meal
+Sukuti with Potato,Assam,Non-Veg,Beef,360,Meal
+Patot Diya Duck,Assam,Non-Veg,Duck,340,Meal
+Mung Dal with Rice,Assam,Veg,None,220,Meal
+Bhapa Alu with Peanuts,Assam,Veg,Peanuts,230,Meal
+Duck with Pumpkin,Assam,Non-Veg,Duck,340,Meal
+Bora Saul with Peanuts,Assam,Veg,Peanuts,150,Meal
+Pitha with Jaggery and Coconut,Assam,Veg,None,180,Meal
+Aloo Bhaji with Coconut,Assam,Veg,None,210,Meal
+Masor Tenga with Spinach,Assam,Non-Veg,Fish,240,Meal
+Khar with Pumpkin Seeds,Assam,Veg,None,200,Meal
+Duck Curry with Spinach,Assam,Non-Veg,Duck,350,Meal
+Mung Dal with Pumpkin,Assam,Veg,None,210,Meal
+Pitha with Banana and Jaggery,Assam,Veg,None,190,Meal
+Sukuti with Spinach,Assam,Non-Veg,Beef,370,Meal
+Khar with Lentils,Assam,Veg,None,210,Meal
+Duck Curry with Potato and Carrots,Assam,Non-Veg,Duck,340,Meal
+Masoor Dal with Carrots,Assam,Veg,None,220,Meal
+Silkworm Curry with Spinach,Assam,Non-Veg,Silkworm,370,Meal
+Pitha with Peanuts,Assam,Veg,Peanuts,170,Meal
+Bhapa Alu with Spinach,Assam,Veg,None,210,Meal
+Khar with Potato,Assam,Veg,None,200,Meal
+Duck Curry with Beans,Assam,Non-Veg,Duck,350,Meal
+Mung Dal with Spinach,Assam,Veg,None,220,Meal
+Sukuti with Carrots,Assam,Non-Veg,Beef,360,Meal
+Masor Tenga with Eggplant,Assam,Non-Veg,Fish,250,Meal
+Pitha with Coconut and Jaggery,Assam,Veg,None,190,Meal
+Aloo Pitika with Pumpkin,Assam,Veg,None,200,Meal
+Duck with Spinach,Assam,Non-Veg,Duck,340,Meal
+Bhapa Alu with Eggplant,Assam,Veg,None,220,Meal
+Khar with Spinach,Assam,Veg,None,210,Meal
+Sukuti with Eggplant,Assam,Non-Veg,Beef,370,Meal
+Tamul Pitha with Coconut,Assam,Veg,None,170,Meal
+Duck Curry with Tomatoes,Assam,Non-Veg,Duck,340,Meal
+Masoor Dal with Peanuts,Assam,Veg,Peanuts,230,Meal
+Khar with Fish and Peanuts,Assam,Non-Veg,Fish,250,Meal
+Sukuti with Spinach and Carrots,Assam,Non-Veg,Beef,380,Meal
+Aloo Bhaji with Tomatoes,Assam,Veg,None,220,Meal
+Duck Curry with Potatoes and Carrots,Assam,Non-Veg,Duck,350,Meal
+Pitha with Jaggery and Banana,Assam,Veg,None,190,Meal
+Masor Tenga with Carrots,Assam,Non-Veg,Fish,260,Meal
+Bhapa Alu with Peanuts and Tomatoes,Assam,Veg,Peanuts,230,Meal
+Duck Curry with Spinach and Carrots,Assam,Non-Veg,Duck,340,Meal
+Masoor Dal with Beans,Assam,Veg,None,220,Meal
+Pitha with Coconut and Jaggery,Assam,Veg,None,190,Meal
+Duck Curry with Eggplant and Beans,Assam,Non-Veg,Duck,350,Meal
+Sukuti with Carrots and Spinach,Assam,Non-Veg,Beef,380,Meal
+Masor Tenga with Beans and Eggplant,Assam,Non-Veg,Fish,270,Meal
+Aloo Pitika with Spinach,Assam,Veg,None,200,Meal
+Khar with Tomatoes,Assam,Veg,None,200,Meal
+Duck Curry with Pumpkin and Beans,Assam,Non-Veg,Duck,340,Meal
+Bhapa Alu with Carrots,Assam,Veg,None,210,Meal
+Khar with Eggplant and Tomatoes,Assam,Veg,None,210,Meal
+Pitha with Banana and Coconut,Assam,Veg,None,190,Meal
+Masoor Dal with Spinach and Carrots,Assam,Veg,None,230,Meal
+Duck Curry with Peanuts and Spinach,Assam,Non-Veg,Duck,350,Meal
+Sukuti with Beans and Tomatoes,Assam,Non-Veg,Beef,380,Meal
+Pitha with Jaggery and Banana,Assam,Veg,None,190,Meal
+Masoor Dal with Eggplant and Beans,Assam,Veg,None,230,Meal
+Duck Curry with Carrots and Beans,Assam,Non-Veg,Duck,350,Meal
+Aloo Bhaji with Eggplant,Assam,Veg,None,210,Meal
+Sukuti with Eggplant and Beans,Assam,Non-Veg,Beef,380,Meal
+Khar with Beans and Spinach,Assam,Veg,None,210,Meal
+Duck Curry with Carrots and Spinach,Assam,Non-Veg,Duck,340,Meal
+Pitha with Banana and Peanuts,Assam,Veg,Peanuts,180,Meal
+Masoor Dal with Eggplant and Spinach,Assam,Veg,None,230,Meal
+Duck Curry with Pumpkin and Spinach,Assam,Non-Veg,Duck,340,Meal
+Sukuti with Spinach and Beans,Assam,Non-Veg,Beef,380,Meal
+Pitha with Jaggery and Spinach,Assam,Veg,None,190,Meal
+Masoor Dal with Carrots and Spinach,Assam,Veg,None,230,Meal
+Duck Curry with Peanuts and Beans,Assam,Non-Veg,Duck,350,Meal
+Bhapa Alu with Spinach and Carrots,Assam,Veg,None,210,Meal
+Masoor Dal with Beans and Spinach,Assam,Veg,None,230,Meal
+Sukuti with Carrots and Beans,Assam,Non-Veg,Beef,380,Meal
+Duck Curry with Beans and Spinach,Assam,Non-Veg,Duck,340,Meal
+Pitha with Spinach and Banana,Assam,Veg,None,190,Meal
+Duck Curry with Beans and Carrots,Assam,Non-Veg,Duck,350,Meal
+Pitha with Beans and Peanuts,Assam,Veg,Peanuts,180,Meal
+Duck Curry with Carrots and Beans,Assam,Non-Veg,Duck,350,Meal
+Pitha with Spinach and Beans,Assam,Veg,None,190,Meal
+Masoor Dal with Spinach and Beans,Assam,Veg,None,230,Meal
+Thukpa,Arunachal Pradesh,veg,gluten,350,Meal
+Momos,Arunachal Pradesh,veg,gluten,400,Meal
+Zan,Arunachal Pradesh,veg,gluten,300,Meal
+Apong,Arunachal Pradesh,non-veg,gluten,250,Meal
+Bamboo Shoot Curry,Arunachal Pradesh,veg,none,150,Meal
+Pork with Bamboo Shoot,Arunachal Pradesh,non-veg,none,400,Meal
+Rice Beer,Arunachal Pradesh,non-veg,none,200,Meal
+Chicken Curry,Arunachal Pradesh,non-veg,none,350,Meal
+Pork Belly,Arunachal Pradesh,non-veg,none,500,Meal
+Fried Fish,Arunachal Pradesh,non-veg,none,300,Meal
+Vegetable Pakoras,Arunachal Pradesh,veg,gluten,250,Meal
+Khar,Arunachal Pradesh,veg,none,200,Meal
+Noodles with Vegetables,Arunachal Pradesh,veg,gluten,350,Meal
+Beef Steak,Arunachal Pradesh,non-veg,none,400,Meal
+Stir-Fried Vegetables,Arunachal Pradesh,veg,none,200,Meal
+Rice,Arunachal Pradesh,veg,none,250,Meal
+Sushi with Pork,Arunachal Pradesh,non-veg,gluten,300,Meal
+Chana Dal,Arunachal Pradesh,veg,none,350,Meal
+Mutton Curry,Arunachal Pradesh,non-veg,none,400,Meal
+Potato Salad,Arunachal Pradesh,veg,none,200,Snack
+Pork Stew,Arunachal Pradesh,non-veg,none,350,Meal
+Vegetable Soup,Arunachal Pradesh,veg,none,150,Meal
+Bamboo Shoot Salad,Arunachal Pradesh,veg,none,100,Snack
+Chicken Korma,Arunachal Pradesh,non-veg,dairy,400,Meal
+Mutton Kebabs,Arunachal Pradesh,non-veg,none,450,Meal
+Vegetable Biryani,Arunachal Pradesh,veg,gluten,350,Meal
+Chicken Shawarma,Arunachal Pradesh,non-veg,gluten,400,Meal
+Pork with Chives,Arunachal Pradesh,non-veg,none,350,Meal
+Fried Rice,Arunachal Pradesh,veg,gluten,400,Meal
+Beef Curry,Arunachal Pradesh,non-veg,none,450,Meal
+Vegetable Pakoda,Arunachal Pradesh,veg,gluten,250,Meal
+Chicken Tikka,Arunachal Pradesh,non-veg,none,300,Meal
+Spicy Pork,Arunachal Pradesh,non-veg,none,350,Meal
+Sweet Potato Fries,Arunachal Pradesh,veg,none,200,Meal
+Lentil Soup,Arunachal Pradesh,veg,none,150,Meal
+Bamboo Shoot Pickle,Arunachal Pradesh,veg,none,100,Meal
+Beef Stew,Arunachal Pradesh,non-veg,none,400,Meal
+Vegetable Stir Fry,Arunachal Pradesh,veg,none,200,Meal
+Chicken Dumplings,Arunachal Pradesh,non-veg,gluten,300,Meal
+Pork with Green Beans,Arunachal Pradesh,non-veg,none,350,Meal
+Vegetable Curry,Arunachal Pradesh,veg,none,250,Meal
+Chicken Biryani,Arunachal Pradesh,non-veg,gluten,450,Meal
+Pork Skewers,Arunachal Pradesh,non-veg,none,350,Meal
+Vegetable Sandwich,Arunachal Pradesh,veg,gluten,300,Meal
+Chicken Salad,Arunachal Pradesh,non-veg,none,250,Snack
+Pork with Celery,Arunachal Pradesh,non-veg,none,350,Meal
+Spicy Noodles,Arunachal Pradesh,veg,gluten,350,Meal
+Chicken Soup,Arunachal Pradesh,non-veg,none,200,Meal
+Beef Stir Fry,Arunachal Pradesh,non-veg,none,350,Meal
+Vegetable Korma,Arunachal Pradesh,veg,dairy,300,Meal
+Pork with Tomatoes,Arunachal Pradesh,non-veg,none,350,Meal
+Chicken Kebabs,Arunachal Pradesh,non-veg,none,300,Meal
+Vegetable Stew,Arunachal Pradesh,veg,none,150,Meal
+Mutton Stew,Arunachal Pradesh,non-veg,none,400,Meal
+Chicken Wrap,Arunachal Pradesh,non-veg,gluten,350,Meal
+Pork with Bamboo Shoot Pickle,Arunachal Pradesh,non-veg,none,400,Meal
+Vegetable Fried Rice,Arunachal Pradesh,veg,gluten,350,Meal
+Chicken with Vegetables,Arunachal Pradesh,non-veg,none,350,Meal
+Pork Curry,Arunachal Pradesh,non-veg,none,400,Meal
+Vegetable Soup with Noodles,Arunachal Pradesh,veg,gluten,250,Meal
+Chicken with Bamboo Shoot,Arunachal Pradesh,non-veg,none,350,Meal
+Beef with Vegetables,Arunachal Pradesh,non-veg,none,400,Meal
+Spicy Chicken Curry,Arunachal Pradesh,non-veg,none,400,Meal
+Vegetable Dumplings,Arunachal Pradesh,veg,gluten,300,Meal
+Pork with Herbs,Arunachal Pradesh,non-veg,none,350,Meal
+Chicken Stir Fry,Arunachal Pradesh,non-veg,none,300,Meal
+Vegetable Biryani with Raita,Arunachal Pradesh,veg,dairy,400,Meal
+Pork with Spinach,Arunachal Pradesh,non-veg,none,350,Meal
+Chicken Salad with Greens,Arunachal Pradesh,non-veg,none,250,Snack
+Spicy Pork with Rice,Arunachal Pradesh,non-veg,none,400,Meal
+Vegetable Pakora with Chutney,Arunachal Pradesh,veg,gluten,300,Meal
+Chicken with Spices,Arunachal Pradesh,non-veg,none,350,Meal
+Beef with Potatoes,Arunachal Pradesh,non-veg,none,400,Meal
+Vegetable Stir Fry with Rice,Arunachal Pradesh,veg,gluten,350,Meal
+Chicken and Vegetable Soup,Arunachal Pradesh,non-veg,none,200,Meal
+Pork and Vegetable Stew,Arunachal Pradesh,non-veg,none,350,Meal
+Vegetable Rice with Curry,Arunachal Pradesh,veg,gluten,350,Meal
+Chicken with Mushrooms,Arunachal Pradesh,non-veg,none,300,Meal
+Pork with Noodles,Arunachal Pradesh,non-veg,gluten,400,Meal
+Vegetable Curry with Rice,Arunachal Pradesh,veg,gluten,400,Meal
+Chicken and Rice Soup,Arunachal Pradesh,non-veg,none,250,Meal
+Beef with Rice,Arunachal Pradesh,non-veg,none,400,Meal
+Spicy Vegetable Soup,Arunachal Pradesh,veg,none,200,Meal
+Chicken Curry with Spinach,Arunachal Pradesh,non-veg,none,350,Meal
+Pork and Rice,Arunachal Pradesh,non-veg,none,400,Meal
+Vegetable Fritters,Arunachal Pradesh,veg,gluten,250,Meal
+Chicken Skewers,Arunachal Pradesh,non-veg,none,300,Meal
+Pork with Green Veggies,Arunachal Pradesh,non-veg,none,350,Meal
+Spicy Fried Noodles,Arunachal Pradesh,veg,gluten,350,Meal
+Chicken and Spinach Soup,Arunachal Pradesh,non-veg,none,250,Meal
+Pork with Cabbage,Arunachal Pradesh,non-veg,none,350,Meal
+Vegetable Kebab,Arunachal Pradesh,veg,gluten,300,Meal
+Chicken and Vegetable Biryani,Arunachal Pradesh,non-veg,gluten,450,Meal
+Pork with Potatoes and Beans,Arunachal Pradesh,non-veg,none,400,Meal
+Vegetable Stir Fry with Rice,Arunachal Pradesh,veg,gluten,350,Meal
+Chicken Soup with Rice,Arunachal Pradesh,non-veg,none,250,Meal
+Pork Curry with Rice,Arunachal Pradesh,non-veg,none,400,Meal
+Vegetable Pakoras with Mint Chutney,Arunachal Pradesh,veg,gluten,300,Meal
+Chicken with Beans,Arunachal Pradesh,non-veg,none,350,Meal
+Pork Stir Fry,Arunachal Pradesh,non-veg,none,350,Meal
+Spicy Vegetable Biryani,Arunachal Pradesh,veg,gluten,350,Meal
+Chicken Curry with Vegetables,Arunachal Pradesh,non-veg,none,400,Meal
+Pork with Pumpkin,Arunachal Pradesh,non-veg,none,350,Meal
+Vegetable Soup with Barley,Arunachal Pradesh,veg,gluten,250,Meal
+Chicken with Carrots,Arunachal Pradesh,non-veg,none,300,Meal
+Pork and Potato Stew,Arunachal Pradesh,non-veg,none,400,Meal
+Vegetable Fritters with Chutney,Arunachal Pradesh,veg,gluten,250,Meal
+Chicken Skewers with Vegetables,Arunachal Pradesh,non-veg,none,300,Meal
+Pork with Eggplant,Arunachal Pradesh,non-veg,none,350,Meal
+Spicy Vegetable Noodles,Arunachal Pradesh,veg,gluten,350,Meal
+Chicken and Mushroom Soup,Arunachal Pradesh,non-veg,none,250,Meal
+Pork with Peppers,Arunachal Pradesh,non-veg,none,350,Meal
+Vegetable Korma with Rice,Arunachal Pradesh,veg,dairy,400,Meal
+Chicken and Spinach Curry,Arunachal Pradesh,non-veg,none,350,Meal
+Pork with Sweet Potatoes,Arunachal Pradesh,non-veg,none,350,Meal
+Vegetable Biryani with Cucumber Raita,Arunachal Pradesh,veg,dairy,400,Meal
+Chicken Curry with Spinach,Arunachal Pradesh,non-veg,none,400,Meal
+Pork with Green Beans and Carrots,Arunachal Pradesh,non-veg,none,350,Meal
+Vegetable Pakoras with Tomato Chutney,Arunachal Pradesh,veg,gluten,250,Meal
+Chicken and Vegetable Stir Fry,Arunachal Pradesh,non-veg,none,300,Meal
+Pork with Mushrooms,Arunachal Pradesh,non-veg,none,350,Meal
+Spicy Vegetable Stew,Arunachal Pradesh,veg,none,200,Meal
+Chicken Soup with Vegetables,Arunachal Pradesh,non-veg,none,250,Meal
+Pork with Spinach and Carrots,Arunachal Pradesh,non-veg,none,350,Meal
+Vegetable Rice with Lentils,Arunachal Pradesh,veg,gluten,350,Meal
+Chicken and Beans Soup,Arunachal Pradesh,non-veg,none,250,Meal
+Pork Curry with Eggplant,Arunachal Pradesh,non-veg,none,400,Meal
+Vegetable Fritters with Yogurt Dip,Arunachal Pradesh,veg,gluten,250,Meal
+Chicken and Vegetable Skewers,Arunachal Pradesh,non-veg,none,300,Meal
+Pork with Sweet Corn,Arunachal Pradesh,non-veg,none,350,Meal
+Spicy Vegetable Biryani with Raita,Arunachal Pradesh,veg,dairy,400,Meal
+Chicken Curry with Mushrooms,Arunachal Pradesh,non-veg,none,350,Meal
+Pork with Green Beans and Tomatoes,Arunachal Pradesh,non-veg,none,350,Meal
+Vegetable Pakoras with Mint Raita,Arunachal Pradesh,veg,gluten,250,Meal
+Pork with Eggplant and Mushrooms,Arunachal Pradesh,non-veg,none,350,Meal
+Vegetable Noodles with Peppers,Arunachal Pradesh,veg,gluten,350,Meal
+Chicken Soup with Spinach,Arunachal Pradesh,non-veg,none,250,Meal
+Pork with Pumpkin and Carrots,Arunachal Pradesh,non-veg,none,350,Meal
+Vegetable Korma with Naan,Arunachal Pradesh,veg,dairy,400,Meal
+Chicken and Carrots Stir Fry,Arunachal Pradesh,non-veg,none,300,Meal
+Pork with Eggplant and Beans,Arunachal Pradesh,non-veg,none,350,Meal
+Vegetable Pakoras with Yogurt,Arunachal Pradesh,veg,gluten,250,Meal
+Chicken Skewers with Rice,Arunachal Pradesh,non-veg,none,300,Meal
+Pork with Peppers and Carrots,Arunachal Pradesh,non-veg,none,350,Meal
+Vegetable Curry with Barley,Arunachal Pradesh,veg,gluten,250,Meal
+Chicken and Spinach Stew,Arunachal Pradesh,non-veg,none,350,Meal
+Pork with Pumpkin and Beans,Arunachal Pradesh,non-veg,none,350,Meal
+Vegetable Fritters with Spinach,Arunachal Pradesh,veg,gluten,250,Meal
+Chicken and Vegetable Noodles,Arunachal Pradesh,non-veg,gluten,350,Meal
+Pork with Sweet Potatoes and Beans,Arunachal Pradesh,non-veg,none,350,Meal
+Vegetable Soup with Eggplant,Arunachal Pradesh,veg,none,250,Meal
+Chicken with Beans and Carrots,Arunachal Pradesh,non-veg,none,300,Meal
+Pork with Eggplant and Peppers,Arunachal Pradesh,non-veg,none,350,Meal
+Vegetable Pakoras with Yogurt Dip,Arunachal Pradesh,veg,gluten,250,Meal
+Chicken Skewers with Rice and Vegetables,Arunachal Pradesh,non-veg,none,300,Meal
+Pork with Sweet Corn and Peppers,Arunachal Pradesh,non-veg,none,350,Meal
+Spicy Vegetable Biryani with Yogurt,Arunachal Pradesh,veg,dairy,400,Meal
+Chicken Curry with Mushrooms and Beans,Arunachal Pradesh,non-veg,none,350,Meal
+Pork with Spinach and Sweet Potatoes,Arunachal Pradesh,non-veg,none,350,Meal
+Vegetable Korma with Barley,Arunachal Pradesh,veg,dairy,400,Meal
+Chicken and Carrots Soup,Arunachal Pradesh,non-veg,none,250,Meal
+Pork with Eggplant and Sweet Potatoes,Arunachal Pradesh,non-veg,none,350,Meal
+Vegetable Soup with Lentils,Arunachal Pradesh,veg,gluten,250,Meal
+Chicken and Beans Stew,Arunachal Pradesh,non-veg,none,350,Meal
+Pork with Sweet Corn and Beans,Arunachal Pradesh,non-veg,none,350,Meal
+Vegetable Curry with Beans,Arunachal Pradesh,veg,gluten,250,Meal
+Chicken and Vegetable Biryani with Raita,Arunachal Pradesh,non-veg,dairy,450,Meal
+Pork with Pumpkin and Green Beans,Arunachal Pradesh,non-veg,none,350,Meal
+Vegetable Pakoras with Yogurt Dip,Arunachal Pradesh,veg,gluten,250,Meal
+Chicken Skewers with Vegetables and Rice,Arunachal Pradesh,non-veg,none,300,Meal
+Pork with Peppers and Sweet Corn,Arunachal Pradesh,non-veg,none,350,Meal
+Spicy Vegetable Biryani with Yogurt Dip,Arunachal Pradesh,veg,dairy,400,Meal
+Pulihora,Andhra Pradesh,Veg,Nuts,300,Meal
+Biryani,Andhra Pradesh,Non-Veg,"Nuts, Dairy",600,Meal
+Gongura Pachadi,Andhra Pradesh,Veg,Nuts,150,Meal
+Andhra Chicken Curry,Andhra Pradesh,Non-Veg,Dairy,450,Meal
+Pesarattu,Andhra Pradesh,Veg,None,250,Meal
+Dosa,Andhra Pradesh,Veg,None,200,Breakfast
+Avakaya,Andhra Pradesh,Veg,None,180,Meal
+Pulled Fish Curry,Andhra Pradesh,Non-Veg,Dairy,350,Meal
+Bagara Rice,Andhra Pradesh,Veg,Nuts,500,Meal
+Hyderabadi Biryani,Andhra Pradesh,Non-Veg,"Nuts, Dairy",650,Meal
+Chinta Chiguru Pappu,Andhra Pradesh,Veg,None,200,Meal
+Kachchi Biryani,Andhra Pradesh,Non-Veg,"Nuts, Dairy",700,Meal
+Kandi Pachadi,Andhra Pradesh,Veg,None,130,Meal
+Brahmin's Lunch,Andhra Pradesh,Veg,Nuts,400,Meal
+Curd Rice,Andhra Pradesh,Veg,Dairy,350,Meal
+Mutton Curry,Andhra Pradesh,Non-Veg,Dairy,500,Meal
+Pesarattu Dosa,Andhra Pradesh,Veg,None,260,Breakfast
+Cabbage Curry,Andhra Pradesh,Veg,None,150,Meal
+Gongura Chicken,Andhra Pradesh,Non-Veg,Dairy,450,Meal
+Mango Pachadi,Andhra Pradesh,Veg,None,100,Meal
+Egg Curry,Andhra Pradesh,Non-Veg,Dairy,400,Meal
+Ulavacharu,Andhra Pradesh,Veg,None,200,Meal
+Murgh Musallam,Andhra Pradesh,Non-Veg,Dairy,600,Meal
+Vegetable Biryani,Andhra Pradesh,Veg,Nuts,550,Meal
+Sambar,Andhra Pradesh,Veg,None,200,Meal
+Chili Chicken,Andhra Pradesh,Non-Veg,Dairy,450,Meal
+Kandipappu,Andhra Pradesh,Veg,None,180,Meal
+Dondakaya Fry,Andhra Pradesh,Veg,None,200,Meal
+Shahi Korma,Andhra Pradesh,Non-Veg,"Dairy, Nuts",500,Meal
+Poornalu,Andhra Pradesh,Veg,Nuts,300,Meal
+Bendakaya Fry,Andhra Pradesh,Veg,None,150,Meal
+Bhindi Masala,Andhra Pradesh,Veg,None,200,Meal
+Mutton Keema,Andhra Pradesh,Non-Veg,Dairy,500,Meal
+Pappu Charu,Andhra Pradesh,Veg,None,180,Meal
+Chicken Fry,Andhra Pradesh,Non-Veg,Dairy,450,Meal
+Mirchi Bajji,Andhra Pradesh,Veg,None,250,Meal
+Chana Dal Curry,Andhra Pradesh,Veg,None,220,Meal
+Fish Fry,Andhra Pradesh,Non-Veg,Dairy,350,Meal
+Aloo Curry,Andhra Pradesh,Veg,None,200,Meal
+Pesarattu Upma,Andhra Pradesh,Veg,None,250,Breakfast
+Mutton Shorba,Andhra Pradesh,Non-Veg,Dairy,350,Meal
+Gutti Vankaya,Andhra Pradesh,Veg,Nuts,220,Meal
+Pulao,Andhra Pradesh,Veg,Nuts,500,Meal
+Kobbari Pachadi,Andhra Pradesh,Veg,Nuts,150,Meal
+Chakna,Andhra Pradesh,Veg,Nuts,250,Meal
+Kothimeera Pachadi,Andhra Pradesh,Veg,None,120,Meal
+Beef Curry,Andhra Pradesh,Non-Veg,Dairy,550,Meal
+Vegetable Kurma,Andhra Pradesh,Veg,Nuts,400,Meal
+Kobbari Mithai,Andhra Pradesh,Veg,Nuts,300,Meal
+Kura,Andhra Pradesh,Veg,None,180,Meal
+Vankaya Curry,Andhra Pradesh,Veg,None,200,Meal
+Pesarattu Dosa,Andhra Pradesh,Veg,None,270,Breakfast
+Pulihora Rice,Andhra Pradesh,Veg,Nuts,320,Meal
+Mutton Biryani,Andhra Pradesh,Non-Veg,"Nuts, Dairy",650,Meal
+Pappu,Andhra Pradesh,Veg,None,200,Meal
+Sambar Rice,Andhra Pradesh,Veg,None,350,Meal
+Egg Dosa,Andhra Pradesh,Non-Veg,Dairy,400,Breakfast
+Gongura Mutton,Andhra Pradesh,Non-Veg,Dairy,500,Meal
+Chakodi,Andhra Pradesh,Veg,None,250,Meal
+Guttivankaya Kura,Andhra Pradesh,Veg,Nuts,200,Meal
+Chicken Pakora,Andhra Pradesh,Non-Veg,Dairy,350,Meal
+Tomato Rice,Andhra Pradesh,Veg,None,300,Meal
+Coriander Rice,Andhra Pradesh,Veg,None,320,Meal
+Mutton Korma,Andhra Pradesh,Non-Veg,Dairy,600,Meal
+Chepala Pulusu,Andhra Pradesh,Non-Veg,Dairy,400,Meal
+Onion Uttapam,Andhra Pradesh,Veg,None,300,Meal
+Masala Dosa,Andhra Pradesh,Veg,None,250,Breakfast
+Chintakaya Pachadi,Andhra Pradesh,Veg,None,150,Meal
+Tomato Pachadi,Andhra Pradesh,Veg,None,130,Meal
+Vegetable Sambar,Andhra Pradesh,Veg,None,200,Meal
+Mutton Keema Curry,Andhra Pradesh,Non-Veg,Dairy,550,Meal
+Kandipappu Kura,Andhra Pradesh,Veg,None,180,Meal
+Methi Thepla,Andhra Pradesh,Veg,None,250,Meal
+Pappu Charu Rice,Andhra Pradesh,Veg,None,200,Meal
+Chepala Vepudu,Andhra Pradesh,Non-Veg,Dairy,400,Meal
+Vegetable Upma,Andhra Pradesh,Veg,None,250,Breakfast
+Bhindi Do Pyaza,Andhra Pradesh,Veg,None,180,Meal
+Mutton Seekh Kebabs,Andhra Pradesh,Non-Veg,Dairy,500,Meal
+Masala Pappu,Andhra Pradesh,Veg,None,180,Meal
+Coconut Chutney,Andhra Pradesh,Veg,Nuts,150,Meal
+Mutton Liver Fry,Andhra Pradesh,Non-Veg,Dairy,400,Meal
+Palak Curry,Andhra Pradesh,Veg,None,200,Meal
+Chickpea Salad,Andhra Pradesh,Veg,None,220,Snack
+Hyderabadi Chicken Biryani,Andhra Pradesh,Non-Veg,"Nuts, Dairy",650,Meal
+Nellore Chepala Pulusu,Andhra Pradesh,Non-Veg,Dairy,400,Meal
+Tomato Chutney,Andhra Pradesh,Veg,None,100,Meal
+Tandoori Chicken,Andhra Pradesh,Non-Veg,None,500,Meal
+Vegetable Pakoras,Andhra Pradesh,Veg,None,300,Meal
+Kachori,Andhra Pradesh,Veg,Nuts,350,Meal
+Chicken Kebab,Andhra Pradesh,Non-Veg,Dairy,400,Meal
+Veg Korma,Andhra Pradesh,Veg,Nuts,400,Meal
+Chicken Biryani,Andhra Pradesh,Non-Veg,"Nuts, Dairy",650,Meal
+Kothimeera Kura,Andhra Pradesh,Veg,None,180,Meal
+Vegetable Korma,Andhra Pradesh,Veg,Nuts,400,Meal
+Gongura Mutton Curry,Andhra Pradesh,Non-Veg,Dairy,500,Meal
+Vegetable Curry,Andhra Pradesh,Veg,None,200,Meal
+Chicken Saag,Andhra Pradesh,Non-Veg,Dairy,400,Meal
+Rava Kesari,Andhra Pradesh,Veg,Nuts,350,Meal
+Mutton Seekh Kebab,Andhra Pradesh,Non-Veg,Dairy,500,Meal
+Mutton Rogan Josh,Andhra Pradesh,Non-Veg,Dairy,500,Meal
+Palak Paneer,Andhra Pradesh,Veg,Dairy,400,Meal
+Coconut Rice,Andhra Pradesh,Veg,None,300,Meal
+Mutton Tikka,Andhra Pradesh,Non-Veg,Dairy,450,Meal
+Veg Samosa,Andhra Pradesh,Veg,None,250,Meal
+Rasam,Andhra Pradesh,Veg,None,150,Meal
+Fish Curry,Andhra Pradesh,Non-Veg,Dairy,400,Meal
+Mutton Dum Biryani,Andhra Pradesh,Non-Veg,"Nuts, Dairy",650,Meal
+Bhindi Fry,Andhra Pradesh,Veg,None,200,Meal
+Chepala Pulusu,Andhra Pradesh,Non-Veg,Dairy,400,Meal
+Gongura Chicken Curry,Andhra Pradesh,Non-Veg,Dairy,450,Meal
+Vegetable Pulao,Andhra Pradesh,Veg,Nuts,500,Meal
+Chicken Saagwala,Andhra Pradesh,Non-Veg,Dairy,400,Meal
+Chicken Curry,Andhra Pradesh,Non-Veg,Dairy,450,Meal
+Palak Chicken,Andhra Pradesh,Non-Veg,Dairy,400,Meal
+Chana Masala,Andhra Pradesh,Veg,None,250,Meal
+Rogan Josh,Jammu and Kashmir,non-veg,none,450,Meal
+Yakhni,Jammu and Kashmir,non-veg,none,400,Meal
+Kashmiri Pulao,Jammu and Kashmir,veg,nuts,350,Meal
+Kahwa,Jammu and Kashmir,vegan,none,70,Meal
+Gushtaba,Jammu and Kashmir,non-veg,none,500,Meal
+Dum Aloo,Jammu and Kashmir,veg,none,300,Meal
+Marchwangan Korma,Jammu and Kashmir,non-veg,nuts,450,Meal
+Paneer Tikka,Jammu and Kashmir,veg,dairy,250,Meal
+Kashmiri Rista,Jammu and Kashmir,non-veg,none,480,Meal
+Methi Thepla,Jammu and Kashmir,veg,none,320,Meal
+Kashmiri Naan,Jammu and Kashmir,veg,gluten,250,Meal
+Pulao,Jammu and Kashmir,veg,none,350,Meal
+Kashmiri Chai,Jammu and Kashmir,vegan,none,100,Meal
+Kashmiri Dum Aloo,Jammu and Kashmir,veg,none,320,Meal
+Aloo Gobi,Jammu and Kashmir,veg,none,280,Meal
+Kashmiri Kofta,Jammu and Kashmir,veg,dairy,400,Meal
+Kashmiri Qeema,Jammu and Kashmir,non-veg,none,500,Meal
+Roti,Jammu and Kashmir,veg,gluten,150,Meal
+Chaman Kaliya,Jammu and Kashmir,veg,dairy,320,Meal
+Zafrani Kebab,Jammu and Kashmir,non-veg,none,450,Meal
+Kashmiri Kebab,Jammu and Kashmir,non-veg,none,500,Meal
+Kashmiri Mutton Curry,Jammu and Kashmir,non-veg,none,550,Meal
+Kashmiri Saag,Jammu and Kashmir,veg,none,300,Meal
+Kashmiri Seekh Kebab,Jammu and Kashmir,non-veg,none,400,Meal
+Shami Kebab,Jammu and Kashmir,non-veg,none,450,Meal
+Kashmiri Fish Curry,Jammu and Kashmir,non-veg,none,400,Meal
+Samosa,Jammu and Kashmir,veg,gluten,250,Meal
+Kashmiri Mushroom Korma,Jammu and Kashmir,veg,none,350,Meal
+Kashmiri Chaat,Jammu and Kashmir,veg,none,300,Meal
+Vegetable Biryani,Jammu and Kashmir,veg,nuts,400,Meal
+Kashmiri Chicken Stew,Jammu and Kashmir,non-veg,none,420,Meal
+Rajma,Jammu and Kashmir,veg,none,350,Meal
+Kashmiri Bread,Jammu and Kashmir,veg,gluten,200,Meal
+Chicken Pulao,Jammu and Kashmir,non-veg,none,400,Meal
+Goshtaba Korma,Jammu and Kashmir,non-veg,none,500,Meal
+Kashmiri Lamb Curry,Jammu and Kashmir,non-veg,none,550,Meal
+Kashmiri Rice Pudding,Jammu and Kashmir,veg,dairy,350,Meal
+Kashmiri Cheese Curry,Jammu and Kashmir,veg,dairy,400,Meal
+Kashmiri Vegetable Soup,Jammu and Kashmir,veg,none,150,Meal
+Mutton Yakhni,Jammu and Kashmir,non-veg,none,420,Meal
+Kashmiri Sweet Rice,Jammu and Kashmir,veg,nuts,350,Meal
+Kashmiri Mutton Pulao,Jammu and Kashmir,non-veg,none,500,Meal
+Kashmiri Onion Kebab,Jammu and Kashmir,veg,none,350,Meal
+Kashmiri Yogurt Curry,Jammu and Kashmir,veg,dairy,300,Meal
+Kashmiri Veg Curry,Jammu and Kashmir,veg,none,320,Meal
+Chicken Rogan Josh,Jammu and Kashmir,non-veg,none,450,Meal
+Kashmiri Saag Aloo,Jammu and Kashmir,veg,none,300,Meal
+Kashmiri Vegetable Biryani,Jammu and Kashmir,veg,nuts,400,Meal
+Kashmiri Lamb Kebab,Jammu and Kashmir,non-veg,none,450,Meal
+Kashmiri Creamed Mushrooms,Jammu and Kashmir,veg,dairy,300,Meal
+Kashmiri Cauliflower Curry,Jammu and Kashmir,veg,none,280,Meal
+Kashmiri Chili Chicken,Jammu and Kashmir,non-veg,none,450,Meal
+Kashmiri Paneer Butter Masala,Jammu and Kashmir,veg,dairy,400,Meal
+Kashmiri Dum Meat,Jammu and Kashmir,non-veg,none,500,Meal
+Kashmiri Spinach Curry,Jammu and Kashmir,veg,none,280,Meal
+Kashmiri Mutton Shank,Jammu and Kashmir,non-veg,none,550,Meal
+Kashmiri Yogurt Soup,Jammu and Kashmir,veg,dairy,150,Meal
+Kashmiri Saffron Rice,Jammu and Kashmir,veg,none,350,Meal
+Kashmiri Spiced Fish,Jammu and Kashmir,non-veg,none,400,Meal
+Kashmiri Yogurt and Cucumber Salad,Jammu and Kashmir,veg,dairy,200,Snack
+Kashmiri Dal,Jammu and Kashmir,veg,none,300,Meal
+Kashmiri Lemon Rice,Jammu and Kashmir,veg,none,320,Meal
+Kashmiri Rajma Chawal,Jammu and Kashmir,veg,none,400,Meal
+Kashmiri Ginger Chicken,Jammu and Kashmir,non-veg,none,450,Meal
+Kashmiri Grilled Fish,Jammu and Kashmir,non-veg,none,350,Meal
+Kashmiri Nut Pulao,Jammu and Kashmir,veg,nuts,400,Meal
+Kashmiri Spicy Noodles,Jammu and Kashmir,veg,gluten,350,Meal
+Kashmiri Mushroom Pulao,Jammu and Kashmir,veg,none,350,Meal
+Kashmiri Saag Paneer,Jammu and Kashmir,veg,dairy,400,Meal
+Kashmiri Curd Rice,Jammu and Kashmir,veg,dairy,250,Meal
+Kashmiri Lamb Chops,Jammu and Kashmir,non-veg,none,500,Meal
+Kashmiri Chicken Biryani,Jammu and Kashmir,non-veg,none,450,Meal
+Kashmiri Egg Curry,Jammu and Kashmir,veg,dairy,300,Meal
+Kashmiri Veg Pakora,Jammu and Kashmir,veg,gluten,350,Meal
+Kashmiri Rice and Yogurt,Jammu and Kashmir,veg,dairy,250,Meal
+Kashmiri Meatballs,Jammu and Kashmir,non-veg,none,450,Meal
+Kashmiri Veg Curry with Rice,Jammu and Kashmir,veg,none,350,Meal
+Kashmiri Spiced Lentils,Jammu and Kashmir,veg,none,300,Meal
+Kashmiri Cauliflower Rice,Jammu and Kashmir,veg,none,250,Meal
+Kashmiri Garlic Chicken,Jammu and Kashmir,non-veg,none,400,Meal
+Kashmiri Chicken Nuggets,Jammu and Kashmir,non-veg,none,350,Meal
+Kashmiri Spinach and Cheese,Jammu and Kashmir,veg,dairy,350,Meal
+Kashmiri Eggplant Curry,Jammu and Kashmir,veg,none,320,Meal
+Kashmiri Chicken Kebabs,Jammu and Kashmir,non-veg,none,400,Meal
+Kashmiri Yogurt with Fruit,Jammu and Kashmir,veg,dairy,200,Snack
+Kashmiri Dum Chicken,Jammu and Kashmir,non-veg,none,500,Meal
+Kashmiri Veg Spring Rolls,Jammu and Kashmir,veg,gluten,350,Meal
+Kashmiri Saag Meat,Jammu and Kashmir,non-veg,none,500,Meal
+Kashmiri Chickpea Curry,Jammu and Kashmir,veg,none,300,Meal
+Kashmiri Stuffed Naan,Jammu and Kashmir,veg,gluten,300,Meal
+Kashmiri Garlic Rice,Jammu and Kashmir,veg,none,350,Meal
+Kashmiri Chicken Tikka,Jammu and Kashmir,non-veg,none,400,Meal
+Kashmiri Ghee Rice,Jammu and Kashmir,veg,dairy,350,Meal
+Kashmiri Veg Kebab,Jammu and Kashmir,veg,nuts,350,Meal
+Kashmiri Red Rice,Jammu and Kashmir,veg,none,300,Meal
+Kashmiri Green Curry,Jammu and Kashmir,veg,none,350,Meal
+Kashmiri Curry Rice,Jammu and Kashmir,veg,none,350,Meal
+Kashmiri Vegetable Kabab,Jammu and Kashmir,veg,none,300,Meal
+Kashmiri Chicken Masala,Jammu and Kashmir,non-veg,none,450,Meal
+Kashmiri Sweet Kebab,Jammu and Kashmir,veg,nuts,350,Meal
+Kashmiri Vegetable Pilaf,Jammu and Kashmir,veg,nuts,350,Meal
+Kashmiri Lamb Shank,Jammu and Kashmir,non-veg,none,550,Meal
+Kashmiri Chicken Stew with Rice,Jammu and Kashmir,non-veg,none,450,Meal
+Kashmiri Sweet Curry,Jammu and Kashmir,veg,dairy,300,Meal
+Kashmiri Cheese Kebab,Jammu and Kashmir,veg,dairy,350,Meal
+Kashmiri Nutty Rice,Jammu and Kashmir,veg,nuts,350,Meal
+Kashmiri Tandoori Chicken,Jammu and Kashmir,non-veg,none,500,Meal
+Kashmiri Potato Curry,Jammu and Kashmir,veg,none,320,Meal
+Kashmiri Prawn Curry,Jammu and Kashmir,non-veg,none,400,Meal
+Kashmiri Onion Raita,Jammu and Kashmir,veg,dairy,150,Meal
+Kashmiri Lentil Soup,Jammu and Kashmir,veg,none,250,Meal
+Kashmiri Carrot Halwa,Jammu and Kashmir,veg,dairy,350,Meal
+Kashmiri Tandoori Veg,Jammu and Kashmir,veg,none,300,Meal
+Kashmiri Spiced Rice,Jammu and Kashmir,veg,none,350,Meal
+Kashmiri Mixed Veg Curry,Jammu and Kashmir,veg,none,320,Meal
+Kashmiri Chicken Soup,Jammu and Kashmir,non-veg,none,200,Meal
+Kashmiri Dum Chicken with Rice,Jammu and Kashmir,non-veg,none,450,Meal
+Kashmiri Masala Rice,Jammu and Kashmir,veg,none,350,Meal
+Kashmiri Chicken Biryani with Yogurt,Jammu and Kashmir,non-veg,dairy,500,Meal
+Kashmiri Aloo Gobi,Jammu and Kashmir,veg,none,300,Meal
+Kashmiri Yogurt Curry with Rice,Jammu and Kashmir,veg,dairy,300,Meal
+Kashmiri Chicken and Veg Curry,Jammu and Kashmir,non-veg,none,450,Meal
+Kashmiri Paneer Tikka Masala,Jammu and Kashmir,veg,dairy,400,Meal
+Kashmiri Rice and Meatballs,Jammu and Kashmir,non-veg,none,500,Meal
+Kashmiri Mutton Kofta,Jammu and Kashmir,non-veg,none,500,Meal
+Kashmiri Veg Pakoras,Jammu and Kashmir,veg,gluten,350,Meal
+Kashmiri Spiced Naan,Jammu and Kashmir,veg,gluten,300,Meal
+Kashmiri Chickpea Salad,Jammu and Kashmir,veg,none,250,Snack
+Kashmiri Tomato Rice,Jammu and Kashmir,veg,none,320,Meal
+Kashmiri Spiced Yogurt with Veggies,Jammu and Kashmir,veg,dairy,250,Meal
+Kashmiri Potato and Pea Curry,Jammu and Kashmir,veg,none,320,Meal
+Kashmiri Grilled Chicken,Jammu and Kashmir,non-veg,none,400,Meal
+Kashmiri Mixed Vegetable Rice,Jammu and Kashmir,veg,none,350,Meal
+Kashmiri Chicken and Spinach Curry,Jammu and Kashmir,non-veg,none,450,Meal
+Kashmiri Veg Pilaf,Jammu and Kashmir,veg,nuts,350,Meal
+Kashmiri Pulao with Nuts,Jammu and Kashmir,veg,nuts,350,Meal
+Kashmiri Chicken Pulao,Jammu and Kashmir,non-veg,none,450,Meal
+Kashmiri Spiced Chickpeas,Jammu and Kashmir,veg,none,300,Meal
+Kashmiri Lamb Curry,Jammu and Kashmir,non-veg,none,500,Meal
+Kashmiri Rice and Chicken,Jammu and Kashmir,non-veg,none,500,Meal
+Kashmiri Cucumber Raita,Jammu and Kashmir,veg,dairy,200,Meal
+Kashmiri Mutton Curry,Jammu and Kashmir,non-veg,none,500,Meal
+Kashmiri Veg Curd Rice,Jammu and Kashmir,veg,dairy,300,Meal
+Kashmiri Chicken and Vegetable Biryani,Jammu and Kashmir,non-veg,none,500,Meal
+Kashmiri Veg Meatballs,Jammu and Kashmir,veg,none,300,Meal
+Kashmiri Lentil Curry,Jammu and Kashmir,veg,none,300,Meal
+Kashmiri Rice with Nuts,Jammu and Kashmir,veg,nuts,350,Meal
+Kashmiri Saag with Rice,Jammu and Kashmir,veg,none,300,Meal
+Kashmiri Chicken with Nuts,Jammu and Kashmir,non-veg,nuts,450,Meal
+Kashmiri Yogurt and Veggie Salad,Jammu and Kashmir,veg,dairy,200,Snack
+Kashmiri Spiced Cauliflower,Jammu and Kashmir,veg,none,300,Meal
+Kashmiri Lamb and Spinach Curry,Jammu and Kashmir,non-veg,none,500,Meal
+Kashmiri Veg Curry with Yoghurt,Jammu and Kashmir,veg,dairy,300,Meal
+Kashmiri Eggplant and Potato Curry,Jammu and Kashmir,veg,none,320,Meal
+Kashmiri Chicken Korma,Jammu and Kashmir,non-veg,none,500,Meal
+Kashmiri Rajma with Rice,Jammu and Kashmir,veg,none,400,Meal
+Kashmiri Nutty Curry,Jammu and Kashmir,veg,nuts,350,Meal
+Kashmiri Sweet Rice,Jammu and Kashmir,veg,dairy,350,Meal
+Kashmiri Chicken and Rice with Yogurt,Jammu and Kashmir,non-veg,dairy,500,Meal
+Kashmiri Spinach with Chicken,Jammu and Kashmir,non-veg,none,450,Meal
+Kashmiri Mixed Vegetable Biryani,Jammu and Kashmir,veg,nuts,400,Meal
+Kashmiri Lamb Kofta Curry,Jammu and Kashmir,non-veg,none,500,Meal
+Kashmiri Veg and Meat Curry,Jammu and Kashmir,non-veg,none,500,Meal
+Kashmiri Chicken and Mushroom Curry,Jammu and Kashmir,non-veg,none,500,Meal
+Kashmiri Chicken and Veg Biryani,Jammu and Kashmir,non-veg,none,500,Meal
+Kashmiri Mushroom and Spinach Curry,Jammu and Kashmir,veg,none,320,Meal
+Kashmiri Cucumber Salad with Yogurt,Jammu and Kashmir,veg,dairy,200,Snack
+Kashmiri Saag Rice,Jammu and Kashmir,veg,none,320,Meal
+Kashmiri Veg Korma,Jammu and Kashmir,veg,dairy,350,Meal
+Kashmiri Sweet Lentils,Jammu and Kashmir,veg,none,300,Meal
+Kashmiri Chicken and Vegetable Pilaf,Jammu and Kashmir,non-veg,none,500,Meal
+Kashmiri Veg and Nuts Pilaf,Jammu and Kashmir,veg,nuts,350,Meal
+Kashmiri Spinach Rice,Jammu and Kashmir,veg,none,320,Meal
+Kashmiri Chicken and Nut Pilaf,Jammu and Kashmir,non-veg,nuts,450,Meal
+Kashmiri Saag with Rice,Jammu and Kashmir,veg,none,350,Meal
+Kashmiri Lamb and Chickpea Curry,Jammu and Kashmir,non-veg,none,500,Meal
+Kashmiri Chicken Tandoori,Jammu and Kashmir,non-veg,none,400,Meal
+Kashmiri Carrot Rice,Jammu and Kashmir,veg,none,320,Meal
+Kashmiri Chicken and Veg Pilaf,Jammu and Kashmir,non-veg,none,500,Meal
+Kashmiri Lentil and Vegetable Curry,Jammu and Kashmir,veg,none,300,Meal
+Kashmiri Chicken and Pea Curry,Jammu and Kashmir,non-veg,none,450,Meal
+Kashmiri Rice and Lentil Soup,Jammu and Kashmir,veg,none,350,Meal
+Kashmiri Chicken with Rice and Nuts,Jammu and Kashmir,non-veg,nuts,500,Meal
+Kashmiri Mixed Vegetable Soup,Jammu and Kashmir,veg,none,250,Meal
+Kashmiri Saag and Chicken Curry,Jammu and Kashmir,non-veg,none,500,Meal
+Kashmiri Chicken and Spinach Pilaf,Jammu and Kashmir,non-veg,none,500,Meal
+Kashmiri Vegetable and Chicken Biryani,Jammu and Kashmir,non-veg,none,500,Meal
+Kashmiri Mixed Vegetable and Nut Curry,Jammu and Kashmir,veg,nuts,350,Meal
+Kashmiri Chicken Biryani with Nuts,Jammu and Kashmir,non-veg,nuts,500,Meal
+Kashmiri Vegetable and Lentil Soup,Jammu and Kashmir,veg,none,300,Meal
+Kashmiri Chicken and Chickpea Pilaf,Jammu and Kashmir,non-veg,none,500,Meal
+Kashmiri Chicken and Vegetable Stew,Jammu and Kashmir,non-veg,none,500,Meal
+Kashmiri Rice and Veggie Curry,Jammu and Kashmir,veg,none,350,Meal
+Kashmiri Chicken and Potato Stew,Jammu and Kashmir,non-veg,none,500,Meal
+Kashmiri Vegetable and Chicken Stew,Jammu and Kashmir,non-veg,none,500,Meal
+Kashmiri Spinach and Chicken Biryani,Jammu and Kashmir,non-veg,none,500,Meal
+Kashmiri Vegetable and Chickpea Biryani,Jammu and Kashmir,veg,nuts,400,Meal
+Kashmiri Chicken and Lentil Biryani,Jammu and Kashmir,non-veg,none,500,Meal
+Kashmiri Mixed Veg Biryani,Jammu and Kashmir,veg,nuts,400,Meal
+Kashmiri Vegetable and Chicken Korma,Jammu and Kashmir,non-veg,dairy,500,Meal
+Kashmiri Lamb and Veg Korma,Jammu and Kashmir,non-veg,dairy,500,Meal
+Kashmiri Chicken and Spinach Curry,Jammu and Kashmir,non-veg,none,500,Meal
+Kashmiri Vegetable and Nut Biryani,Jammu and Kashmir,veg,nuts,400,Meal
+Butter Chicken,Delhi,Non-Veg,"Dairy, Nuts",490,Meal
+Chole Bhature,Delhi,Veg,"Gluten, Dairy",550,Meal
+Paneer Tikka,Delhi,Veg,Dairy,270,Meal
+Aloo Paratha,Delhi,Veg,"Gluten, Dairy",330,Breakfast
+Rajma Chawal,Delhi,Veg,None,430,Meal
+Dahi Bhalla,Delhi,Veg,Dairy,200,Meal
+Pav Bhaji,Delhi,Veg,"Gluten, Dairy",400,Meal
+Mutton Korma,Delhi,Non-Veg,None,580,Meal
+Aloo Tikki,Delhi,Veg,None,180,Meal
+Kebabs,Delhi,Non-Veg,None,320,Meal
+Palak Paneer,Delhi,Veg,Dairy,290,Meal
+Chicken Biryani,Delhi,Non-Veg,None,460,Meal
+Aloo Chaat,Delhi,Veg,None,160,Meal
+Kachori,Delhi,Veg,Gluten,310,Meal
+Matar Kulcha,Delhi,Veg,Gluten,380,Meal
+Tandoori Chicken,Delhi,Non-Veg,None,300,Meal
+Dal Makhani,Delhi,Veg,Dairy,320,Meal
+Bhindi Masala,Delhi,Veg,None,180,Meal
+Samosa,Delhi,Veg,Gluten,260,Meal
+Chicken Shawarma,Delhi,Non-Veg,None,420,Meal
+Pani Puri,Delhi,Veg,Gluten,120,Meal
+Shahi Paneer,Delhi,Veg,"Dairy, Nuts",400,Meal
+Mutton Rogan Josh,Delhi,Non-Veg,None,480,Meal
+Pulao,Delhi,Veg,None,350,Meal
+Gol Gappe,Delhi,Veg,Gluten,150,Meal
+Kathi Roll,Delhi,Non-Veg,"Gluten, Dairy",360,Meal
+Chana Masala,Delhi,Veg,None,320,Meal
+Bhatura,Delhi,Veg,"Gluten, Dairy",220,Meal
+Seekh Kebab,Delhi,Non-Veg,None,380,Meal
+Vegetable Biryani,Delhi,Veg,None,400,Meal
+Chilli Paneer,Delhi,Veg,Dairy,350,Meal
+Masala Dosa,Delhi,Veg,Gluten,230,Breakfast
+Chicken Tikka,Delhi,Non-Veg,None,310,Meal
+Malai Kofta,Delhi,Veg,"Dairy, Nuts",420,Meal
+Bhel Puri,Delhi,Veg,Gluten,160,Meal
+Bhindi Do Pyaza,Delhi,Veg,None,200,Meal
+Egg Curry,Delhi,Non-Veg,None,340,Meal
+Lamb Biryani,Delhi,Non-Veg,None,500,Meal
+Paneer Butter Masala,Delhi,Veg,Dairy,450,Meal
+Chicken Korma,Delhi,Non-Veg,"Dairy, Nuts",530,Meal
+Aloo Gobi,Delhi,Veg,None,180,Meal
+Fish Curry,Delhi,Non-Veg,None,370,Meal
+Chole Puri,Delhi,Veg,Gluten,460,Meal
+Kadhi Pakora,Delhi,Veg,"Dairy, Gluten",250,Meal
+Mango Lassi,Delhi,Veg,Dairy,220,Meal
+Paratha,Delhi,Veg,Gluten,300,Breakfast
+Dhokla,Delhi,Veg,None,150,Meal
+Murg Malai Tikka,Delhi,Non-Veg,Dairy,320,Meal
+Raita,Delhi,Veg,Dairy,90,Meal
+Vegetable Momos,Delhi,Veg,Gluten,200,Meal
+Chicken Momos,Delhi,Non-Veg,Gluten,240,Meal
+Khasta Kachori,Delhi,Veg,Gluten,280,Meal
+Bharwa Baingan,Delhi,Veg,None,210,Meal
+Dal Tadka,Delhi,Veg,None,260,Meal
+Vegetable Spring Roll,Delhi,Veg,Gluten,240,Meal
+Haleem,Delhi,Non-Veg,Gluten,500,Meal
+Papdi Chaat,Delhi,Veg,Gluten,280,Meal
+Vegetable Sandwich,Delhi,Veg,Gluten,240,Meal
+Aloo Puri,Delhi,Veg,Gluten,400,Meal
+Chole Kulche,Delhi,Veg,Gluten,420,Meal
+Kesar Pista Kulfi,Delhi,Veg,"Dairy, Nuts",320,Meal
+Jalebi,Delhi,Veg,Gluten,300,Meal
+Rabri,Delhi,Veg,Dairy,420,Meal
+Aloo Matar,Delhi,Veg,None,180,Meal
+Tandoori Roti,Delhi,Veg,Gluten,150,Meal
+Chicken Nihari,Delhi,Non-Veg,None,530,Meal
+Paneer Paratha,Delhi,Veg,"Gluten, Dairy",320,Breakfast
+Soya Chaap,Delhi,Veg,None,280,Meal
+Chowmein,Delhi,Veg,Gluten,320,Meal
+Matar Paneer,Delhi,Veg,Dairy,360,Meal
+Vegetable Curry,Delhi,Veg,None,200,Meal
+Chicken Curry,Delhi,Non-Veg,None,420,Meal
+Stuffed Naan,Delhi,Veg,Gluten,380,Meal
+Bhature,Delhi,Veg,"Gluten, Dairy",400,Meal
+Pindi Chole,Delhi,Veg,None,340,Meal
+Pista Barfi,Delhi,Veg,"Dairy, Nuts",250,Meal
+Methi Paratha,Delhi,Veg,Gluten,220,Breakfast
+Moong Dal Halwa,Delhi,Veg,Dairy,460,Meal
+Kheer,Delhi,Veg,"Dairy, Nuts",280,Meal
+Besan Laddu,Delhi,Veg,Nuts,300,Meal
+Paneer Bhurji,Delhi,Veg,Dairy,320,Meal
+Malpua,Delhi,Veg,Gluten,250,Meal
+Butter Naan,Delhi,Veg,"Gluten, Dairy",300,Meal
+Egg Bhurji,Delhi,Non-Veg,None,240,Meal
+Naan,Delhi,Veg,Gluten,280,Meal
+Soya Biryani,Delhi,Veg,None,340,Meal
+Fruit Chaat,Delhi,Veg,None,120,Snack
+Khakra,Dadra and Nagar Haveli,Veg,Gluten,120,Meal
+Patra,Dadra and Nagar Haveli,Veg,"Nuts, Gluten",140,Meal
+Sev Tameta Nu Shaak,Daman and Diu,Veg,Dairy,150,Meal
+Handvo,Daman and Diu,Veg,"Dairy, Gluten",180,Meal
+Khaman,Daman and Diu,Veg,Gluten,160,Meal
+Undhiyu,Daman and Diu,Veg,Nuts,220,Meal
+Lapsi,Dadra and Nagar Haveli,Veg,Gluten,210,Meal
+Bhakri,Dadra and Nagar Haveli,Veg,Gluten,180,Meal
+Paatra,Daman and Diu,Veg,"Gluten, Nuts",130,Meal
+Methi na Gota,Daman and Diu,Veg,Gluten,160,Meal
+Thepla,Dadra and Nagar Haveli,Veg,Gluten,140,Meal
+Churma,Dadra and Nagar Haveli,Veg,"Dairy, Gluten",210,Meal
+Farsan,Daman and Diu,Veg,"Gluten, Dairy",190,Meal
+Dabeli,Daman and Diu,Veg,"Gluten, Nuts",230,Meal
+Dal Dhokli,Dadra and Nagar Haveli,Veg,Gluten,160,Meal
+Doodhpak,Daman and Diu,Veg,Dairy,250,Meal
+Kadhi,Daman and Diu,Veg,Dairy,180,Meal
+Bafauri,Dadra and Nagar Haveli,Veg,Nuts,120,Meal
+Ghughra,Daman and Diu,Veg,"Dairy, Gluten",200,Meal
+Ganthia,Daman and Diu,Veg,Gluten,170,Meal
+Shrikhand,Daman and Diu,Veg,Dairy,270,Meal
+Bhindi Fry,Daman and Diu,Veg,None,140,Meal
+Moong Dal Halwa,Daman and Diu,Veg,"Dairy, Nuts",280,Meal
+Muthiya,Dadra and Nagar Haveli,Veg,Gluten,150,Meal
+Bajra Rotla,Dadra and Nagar Haveli,Vegan,None,180,Meal
+Batata Vada,Dadra and Nagar Haveli,Veg,Gluten,250,Meal
+Sabudana Khichdi,Dadra and Nagar Haveli,Veg,Nuts,200,Meal
+Khichu,Daman and Diu,Veg,None,150,Meal
+Pav Bhaji,Daman and Diu,Veg,"Gluten, Dairy",300,Meal
+Dal Vada,Dadra and Nagar Haveli,Veg,Gluten,180,Meal
+Ragda Pattice,Dadra and Nagar Haveli,Veg,"Gluten, Nuts",250,Meal
+Surti Locho,Daman and Diu,Veg,Gluten,210,Meal
+Chana Chor Garam,Dadra and Nagar Haveli,Veg,None,120,Meal
+Puran Poli,Daman and Diu,Veg,"Gluten, Dairy",250,Meal
+Khichdi,Dadra and Nagar Haveli,Veg,None,160,Meal
+Gujarati Kadhi,Dadra and Nagar Haveli,Veg,Dairy,150,Meal
+Doodh Halwa,Daman and Diu,Veg,Dairy,270,Meal
+Panki,Dadra and Nagar Haveli,Veg,Gluten,140,Meal
+Ghari,Daman and Diu,Veg,"Gluten, Dairy",280,Meal
+Sev Khamani,Daman and Diu,Veg,Gluten,160,Meal
+Rotla,Dadra and Nagar Haveli,Vegan,None,180,Meal
+Piyush,Daman and Diu,Veg,Dairy,260,Meal
+Kopra Pak,Daman and Diu,Veg,"Dairy, Nuts",320,Meal
+Shrikhand Vadi,Daman and Diu,Veg,Dairy,250,Meal
+Phafda,Daman and Diu,Veg,Gluten,220,Meal
+Patudi,Dadra and Nagar Haveli,Veg,Gluten,170,Meal
+Basundi,Daman and Diu,Veg,Dairy,280,Meal
+Fafda,Dadra and Nagar Haveli,Veg,Gluten,200,Meal
+Ghevar,Daman and Diu,Veg,"Dairy, Gluten",300,Meal
+Sev Usal,Dadra and Nagar Haveli,Veg,"Gluten, Dairy",220,Meal
+Khandvi,Daman and Diu,Veg,Dairy,160,Meal
+Malpua,Daman and Diu,Veg,"Dairy, Gluten",270,Meal
+Chorafali,Dadra and Nagar Haveli,Veg,Gluten,210,Meal
+Sukhdi,Daman and Diu,Veg,"Dairy, Nuts",240,Meal
+Mohanthal,Dadra and Nagar Haveli,Veg,Dairy,270,Meal
+Nankhatai,Daman and Diu,Veg,"Dairy, Gluten",250,Meal
+Dhokla,Daman and Diu,Veg,Gluten,190,Meal
+Halvasan,Dadra and Nagar Haveli,Veg,"Dairy, Nuts",270,Meal
+Kachori,Daman and Diu,Veg,"Gluten, Nuts",230,Meal
+Chole Bhature,Chandigarh,Veg,Gluten,550,Meal
+Palak Paneer,Chandigarh,Veg,Dairy,400,Meal
+Butter Chicken,Chandigarh,Non-Veg,Dairy,700,Meal
+Aloo Paratha,Chandigarh,Veg,Gluten,500,Breakfast
+Rajma,Chandigarh,Veg,None,450,Meal
+Kadhi Pakora,Chandigarh,Veg,"Dairy, Gluten",600,Meal
+Tandoori Chicken,Chandigarh,Non-Veg,None,350,Meal
+Paneer Tikka,Chandigarh,Veg,Dairy,450,Meal
+Kachori,Chandigarh,Veg,Gluten,400,Meal
+Daal Makhani,Chandigarh,Veg,Dairy,500,Meal
+Golgappa,Chandigarh,Veg,Gluten,300,Meal
+Pulao,Chandigarh,Veg,None,350,Meal
+Chicken Biryani,Chandigarh,Non-Veg,None,600,Meal
+Paneer Butter Masala,Chandigarh,Veg,Dairy,550,Meal
+Chana Masala,Chandigarh,Veg,None,400,Meal
+Aloo Gobi,Chandigarh,Veg,None,300,Meal
+Mutton Korma,Chandigarh,Non-Veg,Dairy,700,Meal
+Dosa,Chandigarh,Veg,Gluten,400,Breakfast
+Idli,Chandigarh,Veg,Gluten,200,Breakfast
+Samosa,Chandigarh,Veg,Gluten,350,Meal
+Kachori,Chandigarh,Veg,Gluten,400,Meal
+Chole,Chandigarh,Veg,None,400,Meal
+Pakora,Chandigarh,Veg,Gluten,450,Meal
+Makki Di Roti,Chandigarh,Veg,Gluten,300,Meal
+Sarson Da Saag,Chandigarh,Veg,None,350,Meal
+Pindi Chole,Chandigarh,Veg,None,450,Meal
+Methi Thepla,Chandigarh,Veg,Gluten,400,Meal
+Baingan Bharta,Chandigarh,Veg,None,300,Meal
+Lassi,Chandigarh,Veg,Dairy,250,Meal
+Raita,Chandigarh,Veg,Dairy,150,Meal
+Naan,Chandigarh,Veg,Gluten,300,Meal
+Rajma Chawal,Chandigarh,Veg,None,500,Meal
+Murg Malai Tikka,Chandigarh,Non-Veg,Dairy,400,Meal
+Kachori,Chandigarh,Veg,Gluten,400,Meal
+Keema Naan,Chandigarh,Non-Veg,Gluten,500,Meal
+Shahi Paneer,Chandigarh,Veg,Dairy,550,Meal
+Dhokla,Chandigarh,Veg,Gluten,250,Meal
+Dal Tadka,Chandigarh,Veg,None,350,Meal
+Bhindi Masala,Chandigarh,Veg,None,200,Meal
+Rajma,Chandigarh,Veg,None,450,Meal
+Chana Chaat,Chandigarh,Veg,None,300,Meal
+Methi Paratha,Chandigarh,Veg,Gluten,350,Breakfast
+Bhutte Ka Kees,Chandigarh,Veg,None,300,Meal
+Rawa Idli,Chandigarh,Veg,Gluten,250,Breakfast
+Chole Puri,Chandigarh,Veg,Gluten,600,Meal
+Tandoori Gobhi,Chandigarh,Veg,None,300,Meal
+Daal Fry,Chandigarh,Veg,None,400,Meal
+Pav Bhaji,Chandigarh,Veg,Gluten,500,Meal
+Ghar Ka Paneer,Chandigarh,Veg,Dairy,400,Meal
+Kofta Curry,Chandigarh,Veg,Dairy,600,Meal
+Chicken Korma,Chandigarh,Non-Veg,Dairy,700,Meal
+Rajma Galouti,Chandigarh,Veg,None,450,Meal
+Hakka Noodles,Chandigarh,Veg,None,400,Meal
+Vegetable Biryani,Chandigarh,Veg,None,550,Meal
+Lamb Kebabs,Chandigarh,Non-Veg,None,500,Meal
+Spicy Corn Tikki,Chandigarh,Veg,None,350,Meal
+Paneer Pakora,Chandigarh,Veg,Dairy,400,Meal
+Baida Roti,Chandigarh,Non-Veg,Gluten,450,Meal
+Methi Thepla,Chandigarh,Veg,Gluten,400,Meal
+Biryani,Chandigarh,Non-Veg,None,600,Meal
+Kachori,Chandigarh,Veg,Gluten,350,Meal
+Vegetable Pakora,Chandigarh,Veg,Gluten,500,Meal
+Dal Makhani,Chandigarh,Veg,Dairy,500,Meal
+Palak Chaat,Chandigarh,Veg,None,250,Meal
+Keema Samosa,Chandigarh,Non-Veg,Gluten,450,Meal
+Vegetable Khichdi,Chandigarh,Veg,None,400,Meal
+Chicken Tikka,Chandigarh,Non-Veg,None,300,Meal
+Vegetable Soup,Chandigarh,Veg,None,150,Meal
+Chicken Korma,Chandigarh,Non-Veg,Dairy,700,Meal
+Mushroom Tikka,Chandigarh,Veg,None,350,Meal
+Chole Chaat,Chandigarh,Veg,None,300,Meal
+Chana Chaat,Chandigarh,Veg,None,350,Meal
+Vegetable Korma,Chandigarh,Veg,Dairy,500,Meal
+Methi Paratha,Chandigarh,Veg,Gluten,350,Breakfast
+Vegetable Samosa,Chandigarh,Veg,Gluten,400,Meal
+Kachori,Chandigarh,Veg,Gluten,400,Meal
+Chole,Chandigarh,Veg,None,400,Meal
+Chana Masala,Chandigarh,Veg,None,450,Meal
+Paneer Bhurji,Chandigarh,Veg,Dairy,400,Meal
+Aloo Tikki,Chandigarh,Veg,None,250,Meal
+Veg Pulao,Chandigarh,Veg,None,350,Meal
+Chole Bhature,Chandigarh,Veg,Gluten,600,Meal
+Pav Bhaji,Chandigarh,Veg,Gluten,500,Meal
+Vegetable Biryani,Chandigarh,Veg,None,550,Meal
+Paneer Tikka,Chandigarh,Veg,Dairy,450,Meal
+Aloo Gobi,Chandigarh,Veg,None,300,Meal
+Bhindi Masala,Chandigarh,Veg,None,250,Meal
+Methi Paratha,Chandigarh,Veg,Gluten,350,Breakfast
+Chole,Chandigarh,Veg,None,400,Meal
+Vegetable Soup,Chandigarh,Veg,None,150,Meal
+Kachori,Chandigarh,Veg,Gluten,400,Meal
+Chole,Chandigarh,Veg,None,400,Meal
+Apple,NA,Veg,None,52,Snack
+Banana,NA,Veg,None,89,Snack
+Mixed Fruit Salad,NA,Veg,None,120,Snack
+Caesar Salad,NA,Veg,Dairy,190,Snack
+Greek Salad,NA,Veg,Dairy,150,Snack
+Spinach Salad,NA,Veg,None,70,Snack
+Watermelon,NA,Veg,None,30,Snack
+Orange,NA,Veg,None,62,Snack
